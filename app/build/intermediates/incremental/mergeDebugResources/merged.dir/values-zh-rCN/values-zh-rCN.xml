@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>重 置</item>
+        <item>从库中选择图像</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"转到首页"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"关闭"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"开启"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 键"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 键"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格键"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享对象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"与<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="appName">QR Code扫描</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">条形码</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Okay</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">要扫描QR码或条形码，只需指向要扫描的QR或条形码，应用程序就会自动检测并识别它。</string>
+    <string name="intro_slide_detail_2">根据扫描的代码格式，QR码扫描器将提示采取适当的措施。</string>
+    <string name="intro_slide_detail_3">要创建QR或条形码，请从文本，手机号码，电子邮件，短信，VCard，WiFi，事件，网站，EAN-13，EAN-8，UPC-E，Code 39，Code 128，UPC-A中选择任何一种类型</string>
+    <string name="intro_slide_detail_4">填写所选QR或条形码类型的相关详细信息，按完成。它将生成QR或条形码，您可以与各种平台共享。</string>
+    <string name="intro_slide_title_1">扫描QR Code或条形码</string>
+    <string name="intro_slide_title_2">查看QR Code或条形码</string>
+    <string name="intro_slide_title_3">选择类型</string>
+    <string name="intro_slide_title_4">创建QR Code或条形码</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">yyyy年M月</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"按月份划分的日期网格"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"已删除 <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"完成"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"小时转盘"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"已选择 <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"分钟转盘"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"选择月份和日期"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"选择小时"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"选择分钟"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"选择年份"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"年份列表"</string>
+    <string name="msgBarCode">请输入条形码内容</string>
+    <string name="msgBarCodeEAN13">EAN-13 要求内容为13位数字</string>
+    <string name="msgBarCodeEAN8">EAN-8 要求内容为8位数字</string>
+    <string name="msgBarCodeUpca">UPC-A 要求内容为12位数字</string>
+    <string name="msgBarCodeUpce">UPC-E 要求内容为8位数字</string>
+    <string name="msgBarCodeValid">条形码无效</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">无法确定起始字符。</string>
+    <string name="msgCode128Barcode3">在编码表中找不到值</string>
+    <string name="msgCode128Barcode4">固定类型编码中未知的启动类型。</string>
+    <string name="msgCode128Barcode5">无法插入开始字符和代码字符。 n 留言:</string>
+    <string name="msgCode128Barcode6">找不到 C128 类型中的值 ("+ s1 +") 的编码</string>
+    <string name="msgCode128Barcode7">只能使用 C128-c 对数值进行编码。</string>
+    <string name="msgCsvContent">你还没有扫描任何东西。</string>
+    <string name="msgDateAndTime">设置您未来的时间</string>
+    <string name="msgDeleteContent">你确定要清除所有历史吗？</string>
+    <string name="msgLocation">请输入正确的位置</string>
+    <string name="msgNo">否</string>
+    <string name="msgNoReadCodeContent">无法读取 qrcode/条形码</string>
+    <string name="msgNotOpenAction">没有要打开的应用程序</string>
+    <string name="msgOk">还行</string>
+    <string name="msgOkay">Okay</string>
+    <string name="msgPbBarCode">请稍候</string>
+    <string name="msgPermissionCancel">取消</string>
+    <string name="msgPermissionContent">要扫描二维码和条形码, 您需要允许权限</string>
+    <string name="msgPermissionExplainContent">看起来像您拒绝权限, 请允许从设置的权限</string>
+    <string name="msgPermissionOk">还行</string>
+    <string name="msgQrCodeAllSocial">请提供正确的个人资料详细信息</string>
+    <string name="msgQrCodeEventBDateAndTime">请选择活动开始日期</string>
+    <string name="msgQrCodeEventDate">结束日期必须大于开始日期</string>
+    <string name="msgQrCodeEventEDateAndTime">请选择活动结束日期</string>
+    <string name="msgQrCodeEventLocation">请输入活动地点</string>
+    <string name="msgQrCodeEventTitle">请输入活动标题</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">请输入纬度</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">请输入经度</string>
+    <string name="msgQrCodePhoneNum">请输入有效的电话号码</string>
+    <string name="msgQrCodeSms">请输入短信</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">请提供正确的详细信息</string>
+    <string name="msgQrCodeText">请输入短信</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">请输入电子邮件 id</string>
+    <string name="msgQrCodeValidEmailBody">请输入电子邮件文本</string>
+    <string name="msgQrCodeValidEmailId">请输入有效的电子邮件 id</string>
+    <string name="msgQrCodeValidEmailSubject">请输入主题</string>
+    <string name="msgQrCodeValidPhoneNum">请输入有效的电话号码</string>
+    <string name="msgQrCodeValidWebSite">请输入有效的网址</string>
+    <string name="msgQrCodeVcardCity">请进入城市</string>
+    <string name="msgQrCodeVcardCompanyName">请输入公司名称</string>
+    <string name="msgQrCodeVcardName">请输入姓名</string>
+    <string name="msgQrCodeWebSite">请输入网址</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">请输入 wifi 名称</string>
+    <string name="msgQrCodeWifiPass">请输入 wifi 密码</string>
+    <string name="msgUPCABarcode1">数据长度无效。(长度必须为11或 12)</string>
+    <string name="msgUPCABarcode2">仅数字数据</string>
+    <string name="msgUPCABarcode3">找不到分配制造商代码的国家/地区。</string>
+    <string name="msgUPCABarcode4">计算校验位时出错。</string>
+    <string name="msgUPCEBarcode1">无效的数据长度。(仅限8个或12个数字)</string>
+    <string name="msgUPCEBarcode2">仅数字数据</string>
+    <string name="msgUPCEBarcode3">无效的数字系统 (只有 0 &amp; 1 有效)</string>
+    <string name="msgUPCEBarcode4">非法 UPC-A 输入转换。 无法转换。</string>
+    <string name="msgYes">是</string>
+    <string name="navCreate">创建</string>
+    <string name="navHistory">历史</string>
+    <string name="navScan">扫描</string>
+    <string name="navSetting">设定</string>
+    <string name="qrCodeEmail">电子邮件</string>
+    <string name="qrCodeEvent">事件</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">位置</string>
+    <string name="qrCodeNumber">数字</string>
+    <string name="qrCodeSection">QR码</string>
+    <string name="qrCodeSms">短信</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">文字</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">网站</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜索"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">搜索亚马逊</string>
+    <string name="txtApp">更多的应用程序</string>
+    <string name="txtAppBarNameQABCodeGenerate">创建</string>
+    <string name="txtAppNameBarCode">条形码</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">创建代码</string>
+    <string name="txtAppNameCreateBCR">条形码</string>
+    <string name="txtAppNameCreateQCR">QR码</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">电子邮件</string>
+    <string name="txtAppNameEvent">事件</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">历史</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">语言</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">位置</string>
+    <string name="txtAppNamePhoneNum">电话号码</string>
+    <string name="txtAppNameSetting">设定</string>
+    <string name="txtAppNameSms">短信</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">短信</string>
+    <string name="txtAppNameTheme">主题</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">网站</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">搜索条形码</string>
+    <string name="txtBarCodeName">条形码</string>
+    <string name="txtBarcode">条码 ： </string>
+    <string name="txtBeep">嘟嘟</string>
+    <string name="txtBeepDesc">如果扫描成功，则 发出 蜂鸣声。</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>与会者 : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>生日 : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>城市 : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>公司名称 : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>描述 : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>电子邮件 : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>加密 : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>结束 : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>即时通讯 : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>语言 : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>纬度 : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>位置 : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>经度 : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>消息 : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>名字 : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>网络名称 : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>注意 : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>数量 : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>组织者 : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>密码 : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>电话号码 : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>开始 : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>主题 : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>总结 : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>文本 : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>标题 : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>自 : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">搜索簿</string>
+    <string name="txtCall">拨打电话号码</string>
+    <string name="txtClose">关</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">Code 93</string>
+    <string name="txtConnect">连接</string>
+    <string name="txtContact">添加新联系人</string>
+    <string name="txtContent">搜索内容</string>
+    <string name="txtCopyClipboard">复制到剪贴板！</string>
+    <string name="txtDelete">删除</string>
+    <string name="txtDirection">显示位置</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">打开邮件作曲家</string>
+    <string name="txtEmailName">电子邮件</string>
+    <string name="txtEvent">添加事件</string>
+    <string name="txtEventName">事件</string>
+    <string name="txtFacebook">在中打开 facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">怎么用？</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">在中打开 instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">语言</string>
+    <string name="txtLanguageDesc">在这里你可以改变应用程序语言。</string>
+    <string name="txtLinkedIn">在中打开 linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">位置</string>
+    <string name="txtMMS">发送彩信</string>
+    <string name="txtMap">显示地图</string>
+    <string name="txtMoreApp">更多应用</string>
+    <string name="txtNoPassword">这个wifi没有密码</string>
+    <string name="txtOpen">打开</string>
+    <string name="txtPassword">密码 ： </string>
+    <string name="txtPermission">点击这里获得许可</string>
+    <string name="txtPhoneNumName">电话号码</string>
+    <string name="txtPlaceHolderCreate">您还没有创建任何代码。</string>
+    <string name="txtPlaceHolderHistory">你还没有扫描任何东西。</string>
+    <string name="txtPrivacy">隐私政策</string>
+    <string name="txtProduct">搜索产品</string>
+    <string name="txtProductName">产品</string>
+    <string name="txtQrCodeAllDayName">全天</string>
+    <string name="txtQrCodeBeginDateName">开始日期</string>
+    <string name="txtQrCodeBodyName">输入 正文</string>
+    <string name="txtQrCodeCityName">进入城市</string>
+    <string name="txtQrCodeCompanyName">输入公司名称</string>
+    <string name="txtQrCodeEmailIdName">输入电子邮件ID</string>
+    <string name="txtQrCodeEncryptionName">加密</string>
+    <string name="txtQrCodeEndDateName">结束日期</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">输入纬度</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">输入位置</string>
+    <string name="txtQrCodeLongitudeName">输入经度</string>
+    <string name="txtQrCodeMessageName">输入您的留言</string>
+    <string name="txtQrCodeName">QR码</string>
+    <string name="txtQrCodeNameName">输入名称</string>
+    <string name="txtQrCodeNetworkName">网络</string>
+    <string name="txtQrCodeNoEncryptionName">没有加密</string>
+    <string name="txtQrCodePasswordName">密码</string>
+    <string name="txtQrCodePhoneNumName">输入电话号码</string>
+    <string name="txtQrCodeSmsName">输入您的留言</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">输入主题</string>
+    <string name="txtQrCodeTitleName">输入标题</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">输入网址</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">率</string>
+    <string name="txtRateDescription">如果你喜欢QR Code Scan，请花点时间给应用评分。 感谢您的支持！！！</string>
+    <string name="txtRateUs">评价我们</string>
+    <string name="txtSMS">打开短信作曲家</string>
+    <string name="txtShare">共享</string>
+    <string name="txtShareApp">在这里您可以查看更多应用</string>
+    <string name="txtShopper">谷歌购物者</string>
+    <string name="txtSkip">跳</string>
+    <string name="txtSmsName">短信</string>
+    <string name="txtSnapChat">在中打开 snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">开始</string>
+    <string name="txtText">搜索文字</string>
+    <string name="txtTextName">文字</string>
+    <string name="txtTheme">主题</string>
+    <string name="txtThemeDesc">在这里你可以改变应用程序主题。</string>
+    <string name="txtTwitter">在中打开 twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">在谷歌打开uri</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">振动</string>
+    <string name="txtVibrateDesc">如果扫描成功则振动。</string>
+    <string name="txtWIFI">复制密码</string>
+    <string name="txtWalMart">沃尔玛</string>
+    <string name="txtWebSiteName">网站</string>
+    <string name="txtWhatsApp">在中打开 whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">条码扫描器</string>
+    <string name="zxing_button_ok">确定</string>
+    <string name="zxing_msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    <string name="zxing_msg_default_status">请将条码置于取景框内扫描。  </string>
+</resources>

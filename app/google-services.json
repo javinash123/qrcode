@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257392251042",
+    "project_id": "zipoapps-qr-code",
+    "storage_bucket": "zipoapps-qr-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257392251042:android:51a8b2c1092d5bbd18c7fb",
+        "android_client_info": {
+          "package_name": "com.simprosys.scan.qrcode.barcode.reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257392251042-l12rflhn4t2lv530kf6tvc5tjgij69ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXr8Wl1uKyPBFX5hMTDlZCKqNUiih0IZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257392251042-l12rflhn4t2lv530kf6tvc5tjgij69ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

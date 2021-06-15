@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Restableix</item>
+        <item>Seleccioneu imatge des de la galeria</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navega fins a la pàgina d\'inici"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navega cap amunt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra-ho tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="appName">QR Code Scan</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Codice a barre</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> té problemes amb Serveis de Google Play. Torna-ho a provar."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Bé</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Per escanejar el codi QR o el codi de barres, simplement indiqueu QR o codi de barres que voleu escanejar i l\'aplicació la detectarà i la reconegui automàticament.</string>
+    <string name="intro_slide_detail_2">Segons els formats de codi escanejat, l\'escàner de codi QR us demanarà que prengui l\'acció adequada.</string>
+    <string name="intro_slide_detail_3">er crear QR o codi de barres, seleccioneu qualsevol tipus de text, número de mòbil, correu electrònic, sms, VCard, WiFi, esdeveniment, lloc web, EAN-13, EAN-8, UPC-E, Codi 39, Codi 128, UPC- A</string>
+    <string name="intro_slide_detail_4">Empleneu els detalls rellevants per al tipus de codi de barres o de codi de barres seleccionat, premeu fet. Generarà QR o codi de barres que podeu compartir amb diverses plataformes.</string>
+    <string name="intro_slide_title_1">Escaneja QR Code o codi de barres</string>
+    <string name="intro_slide_title_2">Veure QR Code o codi de barres</string>
+    <string name="intro_slide_title_3">Selecciona el tipus</string>
+    <string name="intro_slide_title_4">Crea QR Code o codi de barres</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">LLLL \'de\' yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Graella mensual de dies"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> suprimit"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Fet"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Control circular de les hores"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> seleccionat"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Control circular dels minuts"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Selecciona un mes i un dia"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Selecciona les hores"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Selecciona els minuts"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Selecciona un any"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Llista anual"</string>
+    <string name="msgBarCode">Si us plau, introdueixi contingut de codi de barres</string>
+    <string name="msgBarCodeEAN13">EAN-13 requereix que el contingut sigui de 13 dígits</string>
+    <string name="msgBarCodeEAN8">El EAN-8 requereix que el contingut sigui de 8 dígits</string>
+    <string name="msgBarCodeUpca">La UPC-A exigeix que el contingut sigui de 12 dígits</string>
+    <string name="msgBarCodeUpce">La UPC-E exigeix que el contingut sigui de 8 dígits</string>
+    <string name="msgBarCodeValid">Codi de barres no és vàlid</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">No s\'ha pogut determinar el caràcter inicial.</string>
+    <string name="msgCode128Barcode3">No s\'ha trobat cap valor a la taula de codificació</string>
+    <string name="msgCode128Barcode4">Tipus d\'inici desconegut en codificació de tipus fix.</string>
+    <string name="msgCode128Barcode5">No s\'ha pogut inserir caràcters d\'inici i de codi. n missatge:</string>
+    <string name="msgCode128Barcode6">No s\'ha pogut trobar la codificació d\'un valor ( "+ S1 + ") al C128 tipus </string>
+    <string name="msgCode128Barcode7">Només els valors numèrics poden ser codificats amb C128-C.</string>
+    <string name="msgCsvContent">Non hai ancora scannerizzato nulla.</string>
+    <string name="msgDateAndTime">Defineix el teu futur temps</string>
+    <string name="msgDeleteContent">Sei sicuro di voler cancellare tutta la cronologia?</string>
+    <string name="msgLocation">Si us plau, introdueixi la seva ubicació correcta</string>
+    <string name="msgNo">No</string>
+    <string name="msgNoReadCodeContent">No es pot llegir qrcode/Barcode</string>
+    <string name="msgNotOpenAction">No hi ha cap aplicació per obrir</string>
+    <string name="msgOk">Correcte</string>
+    <string name="msgOkay">Bé</string>
+    <string name="msgPbBarCode">Si us plau esperi</string>
+    <string name="msgPermissionCancel">Cancel·lar</string>
+    <string name="msgPermissionContent">Per escanejar QR Code i codi de barres és necessari permetre el permís</string>
+    <string name="msgPermissionExplainContent">Mireu que negueu el permís, si us plau permeteu el permís de configuració</string>
+    <string name="msgPermissionOk">Correcte</string>
+    <string name="msgQrCodeAllSocial">Proporcioneu el detall del perfil correcte</string>
+    <string name="msgQrCodeEventBDateAndTime">Seleccioneu la data d\'inici de l\'esdeveniment</string>
+    <string name="msgQrCodeEventDate">La data de finalització ha de ser millor que començar</string>
+    <string name="msgQrCodeEventEDateAndTime">Si us plau, seleccioneu data de finalització d\'esdeveniments</string>
+    <string name="msgQrCodeEventLocation">Introduïu la ubicació de l\'esdeveniment</string>
+    <string name="msgQrCodeEventTitle">Introduïu el títol de l\'esdeveniment</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Introduïu la latitud</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Introduïu la longitud</string>
+    <string name="msgQrCodePhoneNum">Si us plau, introdueixi el número de telèfon vàlid</string>
+    <string name="msgQrCodeSms">Si us plau, introdueixi missatge SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Si us plau, proporcioneu el detall correcte</string>
+    <string name="msgQrCodeText">Si us plau, introduïu el missatge de text</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Introduïu l\'ID de correu electrònic</string>
+    <string name="msgQrCodeValidEmailBody">Introduïu el text del correu electrònic</string>
+    <string name="msgQrCodeValidEmailId">Si us plau, introdueixi ID de correu electrònic vàlid</string>
+    <string name="msgQrCodeValidEmailSubject">Si us plau, introdueixi tema</string>
+    <string name="msgQrCodeValidPhoneNum">Si us plau, introdueixi el número de telèfon vàlid</string>
+    <string name="msgQrCodeValidWebSite">Si us plau, introdueixi URL vàlida</string>
+    <string name="msgQrCodeVcardCity">Si us plau, introdueixi la ciutat</string>
+    <string name="msgQrCodeVcardCompanyName">Si us plau, introdueixi nom de l\'empresa</string>
+    <string name="msgQrCodeVcardName">Si us plau, introdueixi nom</string>
+    <string name="msgQrCodeWebSite">Introduïu l\'URL</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Si us plau, introdueixi nom de WiFi</string>
+    <string name="msgQrCodeWifiPass">Si us plau, introdueixi contrasenya de WiFi</string>
+    <string name="msgUPCABarcode1">La longitud de dades no és vàlida. (La durada ha de ser 11 o 12)</string>
+    <string name="msgUPCABarcode2">Només dades numèriques</string>
+    <string name="msgUPCABarcode3">País assignació de codi del fabricant no es troba.</string>
+    <string name="msgUPCABarcode4">Error en calcular el dígit de control.</string>
+    <string name="msgUPCEBarcode1">La longitud de les dades no és vàlida. (només 8 o 12 números)</string>
+    <string name="msgUPCEBarcode2">Només dades numèriques</string>
+    <string name="msgUPCEBarcode3">El sistema de nombres no és vàlid (només 0 &amp; 1 són vàlids)</string>
+    <string name="msgUPCEBarcode4">La UPC-A s\'ha introduït per a la conversió.  No es pot convertir.</string>
+    <string name="msgYes">Sì</string>
+    <string name="navCreate">Crea</string>
+    <string name="navHistory">Cronologia</string>
+    <string name="navScan">Scan</string>
+    <string name="navSetting">Impostazione</string>
+    <string name="qrCodeEmail">Email</string>
+    <string name="qrCodeEvent">Evento</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Posizione</string>
+    <string name="qrCodeNumber">Numero</string>
+    <string name="qrCodeSection">codi QR</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Testo</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Sito web</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Cercar en Amazon</string>
+    <string name="txtApp">Més aplicacions</string>
+    <string name="txtAppBarNameQABCodeGenerate">Crear</string>
+    <string name="txtAppNameBarCode">Codice a barre</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Codici creati</string>
+    <string name="txtAppNameCreateBCR">Codice a barre</string>
+    <string name="txtAppNameCreateQCR">Codi QR</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Email</string>
+    <string name="txtAppNameEvent">Evento</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Cronologia</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Lingua</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Posizione</string>
+    <string name="txtAppNamePhoneNum">Numero di telefono</string>
+    <string name="txtAppNameSetting">Impostazione</string>
+    <string name="txtAppNameSms">Messaggio di testo</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Messaggio di testo</string>
+    <string name="txtAppNameTheme">Tema</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Sito web</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">Cerca codice a barre</string>
+    <string name="txtBarCodeName">Codice a barre</string>
+    <string name="txtBarcode">Codi de barres:</string>
+    <string name="txtBeep">Bip</string>
+    <string name="txtBeepDesc">Segnale acustico se la scansione ha esito positivo.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Assistents : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Aniversari : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>ciutat : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Nom de l\'empresa : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Descripció : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>correu electrònic : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Xifratge : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Final : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Missatger Instantani : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Llenguatge : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Latitud : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Ubicació : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Longitud : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Missatge : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Nom : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Nom de la xarxa : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Nota : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Nombre : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Organitzador : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Contrasenya : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Número de telèfon : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Començar : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Assignatura : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Resum : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Testo : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Títol : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>A : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Cercador de llibres</string>
+    <string name="txtCall">Chiama numero di telefono</string>
+    <string name="txtClose">Close</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">CODI 93</string>
+    <string name="txtConnect">Connectar</string>
+    <string name="txtContact">Aggiungi nuovo contatto</string>
+    <string name="txtContent">Cercar contingut</string>
+    <string name="txtCopyClipboard">Copiat al porta-retalls!</string>
+    <string name="txtDelete">Suprimeix</string>
+    <string name="txtDirection">Mostra posizione</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Apri compositore di posta</string>
+    <string name="txtEmailName">Email</string>
+    <string name="txtEvent">Aggiungi evento</string>
+    <string name="txtEventName">Evento</string>
+    <string name="txtFacebook">Obre en facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Com s\'utilitza?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Obre en instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Lingua</string>
+    <string name="txtLanguageDesc">Aquí podeu canviar l’idioma de l’aplicació</string>
+    <string name="txtLinkedIn">Obre en linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Posizione</string>
+    <string name="txtMMS">Enviar MMS</string>
+    <string name="txtMap">Mostra el mapa</string>
+    <string name="txtMoreApp">Altre app</string>
+    <string name="txtNoPassword">No hi ha cap contrasenya per a aquest wifi</string>
+    <string name="txtOpen">Obert</string>
+    <string name="txtPassword">contrasenya : </string>
+    <string name="txtPermission">Feu clic aquí per donar permís</string>
+    <string name="txtPhoneNumName">Numero di telefono</string>
+    <string name="txtPlaceHolderCreate">Non hai ancora creato alcun codice.</string>
+    <string name="txtPlaceHolderHistory">Non hai ancora scannerizzato nulla.</string>
+    <string name="txtPrivacy">Informativa sulla privacy</string>
+    <string name="txtProduct">Cercador de productes</string>
+    <string name="txtProductName">Producte</string>
+    <string name="txtQrCodeAllDayName">Tutto il giorno</string>
+    <string name="txtQrCodeBeginDateName">Inizia la data</string>
+    <string name="txtQrCodeBodyName">Inserisci corpo</string>
+    <string name="txtQrCodeCityName">Entra a la ciutat</string>
+    <string name="txtQrCodeCompanyName">Inserisci il nome dell\'azienda</string>
+    <string name="txtQrCodeEmailIdName">Inserisci ID e-mail</string>
+    <string name="txtQrCodeEncryptionName">Encriptació</string>
+    <string name="txtQrCodeEndDateName">Data di fine</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Introduïu Latitude</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Inserisci posizione</string>
+    <string name="txtQrCodeLongitudeName">Introduïu la longitud</string>
+    <string name="txtQrCodeMessageName">Inserisci il tuo messaggio</string>
+    <string name="txtQrCodeName">codi QR</string>
+    <string name="txtQrCodeNameName">Inserisci il nome</string>
+    <string name="txtQrCodeNetworkName">Rete</string>
+    <string name="txtQrCodeNoEncryptionName">Sense xifratge</string>
+    <string name="txtQrCodePasswordName">Contrasenya</string>
+    <string name="txtQrCodePhoneNumName">Inserire il numero di telefono</string>
+    <string name="txtQrCodeSmsName">Inserisci il tuo messaggio</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Inserisci oggetto</string>
+    <string name="txtQrCodeTitleName">Inserisci titolo</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Inserisci l\'indirizzo URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Tarifa</string>
+    <string name="txtRateDescription">Si us agrada explorar QR Code, preneu-vos un moment per valorar l’aplicació. Gràcies pel teu suport!!!</string>
+    <string name="txtRateUs">Vota noi</string>
+    <string name="txtSMS">Apri SMS compositore</string>
+    <string name="txtShare">Compartir</string>
+    <string name="txtShareApp">Aquí podeu consultar més aplicacions</string>
+    <string name="txtShopper">Google Shopper</string>
+    <string name="txtSkip">Saltar</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Obre en snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Començar</string>
+    <string name="txtText">Cerca testo</string>
+    <string name="txtTextName">Testo</string>
+    <string name="txtTheme">Tema</string>
+    <string name="txtThemeDesc">Qui puoi cambiare il tema dell\'applicazione.</string>
+    <string name="txtTwitter">Obre en twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">URI obert a Google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Vibrazione</string>
+    <string name="txtVibrateDesc">Vibrazione se la scansione ha esito positivo.</string>
+    <string name="txtWIFI">Copia password</string>
+    <string name="txtWalMart">Walmart</string>
+    <string name="txtWebSiteName">Sito web</string>
+    <string name="txtWhatsApp">Obre en whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">D\'acord</string>
+    <string name="zxing_msg_camera_framework_bug">S\'ha produït un problema amb la càmera de l\'Android. Potser haureu de reiniciar el dispositiu.</string>
+    <string name="zxing_msg_default_status">Poseu un codi de barres dins el rectable per escanejar-lo.</string>
+</resources>

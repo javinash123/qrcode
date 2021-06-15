@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qr-code-test-master.iml" filepath="$PROJECT_DIR$/.idea/modules/qr-code-test-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnBarcode.AndroidBarcode/qr-code-test-master.OnBarcode.AndroidBarcode.iml" filepath="$PROJECT_DIR$/.idea/modules/OnBarcode.AndroidBarcode/qr-code-test-master.OnBarcode.AndroidBarcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/qr-code-test-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/qr-code-test-master.app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,99 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmText"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/frmBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.TextFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/appBarLayout"
+            layout="@layout/app_bar_qr_code_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/appBarLayout"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/mar_5"
+                    android:descendantFocusability="beforeDescendants"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtMessage"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeMessageName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtMessage"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionDone"
+                                android:inputType="textMultiLine"
+                                android:lines="7"
+                                android:maxLength="199"
+                                android:maxLines="15"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="false"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_16" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</FrameLayout>

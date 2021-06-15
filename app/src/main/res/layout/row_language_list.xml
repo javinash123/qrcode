@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/leyLanguage"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:id="@+id/txtLanguage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/mar_10"
+            android:textColor="@color/txtColorBlack"
+            android:textSize="@dimen/txt_size_16" />
+
+        <ImageView
+            android:id="@+id/imgLanguageSelected"
+            android:layout_width="@dimen/img_icon_width"
+            android:layout_height="@dimen/img_icon_height"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/pad_10"
+            app:srcCompat="@drawable/ic_done_black_24dp" />
+
+        <View
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginEnd="@dimen/mar_10"
+            android:layout_marginStart="@dimen/mar_10"
+            android:background="@color/rowDividerColorGray" />
+
+    </RelativeLayout>
+
+</LinearLayout>

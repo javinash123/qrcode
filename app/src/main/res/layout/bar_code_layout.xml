@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/leyBarCode"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ley_height"
+        android:layout_marginStart="@dimen/mar_5"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtBarCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtBarCodeName"
+            android:textColor="@color/txtColorBlack"
+            android:textSize="@dimen/txt_size_14" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/mar_5"
+        android:orientation="vertical">
+
+        <com.loopeer.shadow.ShadowView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foreground="?attr/selectableItemBackground"
+            app:cornerRadius="@dimen/sd_corner_radius"
+            app:shadowMargin="@dimen/sd_shadow_mar"
+            app:shadowRadius="@dimen/sd_shadow_radius">
+
+            <EditText
+                android:id="@+id/edtBarCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:focusable="true"
+                android:gravity="start"
+                android:imeOptions="actionDone"
+                android:padding="@dimen/pad_15"
+                android:textAlignment="viewStart"
+                android:singleLine="true"
+                android:textColor="@color/edtColorBlack"
+                android:textSize="@dimen/txt_size_16" />
+
+        </com.loopeer.shadow.ShadowView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,322 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.simprosys.scan.qrcode.barcode.reader"
+4    android:versionCode="4"
+5    android:versionName="1.1.4." >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:61:5-63:36
+12        android:name="android.hardware.camera"
+12-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:62:9-47
+13        android:required="false" />
+13-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:63:9-33
+14    <uses-feature
+14-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:64:5-66:36
+15        android:name="android.hardware.camera.autofocus"
+15-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:65:9-57
+16        android:required="false" />
+16-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:66:9-33
+17    <uses-feature
+17-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:67:5-69:35
+18        android:glEsVersion="0x00020000"
+18-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:68:9-41
+19        android:required="true" />
+19-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:69:9-32
+20
+21    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+21-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:70:5-76
+21-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:70:22-73
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:71:5-67
+22-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:71:22-64
+23    <uses-permission android:name="android.permission.CAMERA" />
+23-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:72:5-65
+23-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:72:22-62
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:73:5-66
+24-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:73:22-63
+25    <uses-permission android:name="android.permission.FLASHLIGHT" />
+25-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:75:5-69
+25-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:75:22-66
+26    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+26-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:76:5-80
+26-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:76:22-77
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:77:5-81
+27-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:77:22-78
+28    <uses-permission android:name="com.android.vending.BILLING" />
+28-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:79:5-67
+28-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:79:22-64
+29
+30    <uses-feature
+30-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:27:5-29:36
+31        android:name="android.hardware.camera.front"
+31-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:28:9-53
+32        android:required="false" />
+32-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:29:9-33
+33    <uses-feature
+33-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:35:5-37:36
+34        android:name="android.hardware.camera.flash"
+34-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:36:9-53
+35        android:required="false" />
+35-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:37:9-33
+36    <uses-feature
+36-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:38:5-40:36
+37        android:name="android.hardware.screen.landscape"
+37-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:39:9-57
+38        android:required="false" />
+38-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:40:9-33
+39    <uses-feature
+39-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:41:5-43:36
+40        android:name="android.hardware.wifi"
+40-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:42:9-45
+41        android:required="false" />
+41-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:43:9-33
+42
+43    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+43-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:24:5-79
+43-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:24:22-76
+44    <uses-permission android:name="android.permission.WAKE_LOCK" />
+44-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:25:5-68
+44-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:25:22-65
+45    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+45-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:5-110
+45-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:22-107
+46
+47    <application
+47-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:6:5-60:19
+48        android:name="com.simprosys.scan.qrcode.barcode.reader.appConfiguration.AppController"
+48-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:7:9-55
+49        android:allowBackup="false"
+49-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:8:9-36
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\98cc420b5f51babe6cde2779da21fa33\core-1.3.1\AndroidManifest.xml:24:18-86
+51        android:debuggable="true"
+52        android:icon="@mipmap/ic_launcher"
+52-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:9:9-43
+53        android:label="@string/appName"
+53-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:10:9-40
+54        android:largeHeap="true"
+54-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:11:9-33
+55        android:roundIcon="@mipmap/ic_launcher"
+55-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:12:9-48
+56        android:supportsRtl="true"
+56-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:13:9-35
+57        android:theme="@style/AppTheme" >
+57-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:14:9-40
+58        <activity
+58-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:16:9-20:20
+59            android:name="com.simprosys.scan.qrcode.barcode.reader.AppsActivity"
+59-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:16:19-47
+60            android:screenOrientation="portrait"
+60-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:17:13-49
+61            android:theme="@style/AppTheme.NoActionBar"
+61-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:18:13-56
+62            android:windowSoftInputMode="stateHidden|adjustResize" >
+62-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:19:13-67
+63        </activity>
+64        <activity
+64-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:21:9-31:20
+65            android:name="com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity"
+65-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:22:13-48
+66            android:label="@string/appName"
+66-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:23:13-44
+67            android:screenOrientation="portrait"
+67-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:24:13-49
+68            android:theme="@style/AppTheme.SplashScreen" >
+68-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:25:13-57
+69            <intent-filter>
+69-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:26:13-30:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:27:17-69
+70-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:27:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:29:17-77
+72-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:29:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:32:9-37:70
+76            android:name="com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity"
+76-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:33:13-50
+77            android:label="@string/appName"
+77-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:34:13-44
+78            android:screenOrientation="portrait"
+78-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:35:13-49
+79            android:theme="@style/AppTheme.NoActionBar"
+79-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:36:13-56
+80            android:windowSoftInputMode="stateHidden|adjustResize" />
+80-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:37:13-67
+81        <activity
+81-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:38:9-43:70
+82            android:name="com.simprosys.scan.qrcode.barcode.reader.activity.ThemeActivity"
+82-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:39:13-51
+83            android:label="@string/appName"
+83-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:40:13-44
+84            android:screenOrientation="portrait"
+84-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:41:13-49
+85            android:theme="@style/AppTheme.NoActionBar"
+85-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:42:13-56
+86            android:windowSoftInputMode="stateHidden|adjustResize" />
+86-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:43:13-67
+87        <activity
+87-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:44:9-49:70
+88            android:name="com.simprosys.scan.qrcode.barcode.reader.activity.LanguageActivity"
+88-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:45:13-54
+89            android:label="@string/appName"
+89-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:46:13-44
+90            android:screenOrientation="portrait"
+90-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:47:13-49
+91            android:theme="@style/AppTheme.NoActionBar"
+91-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:48:13-56
+92            android:windowSoftInputMode="stateHidden|adjustResize" />
+92-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:49:13-67
+93
+94        <provider
+95            android:name="androidx.core.content.FileProvider"
+95-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:52:13-62
+96            android:authorities="com.simprosys.scan.qrcode.barcode.reader.provider"
+96-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:53:13-60
+97            android:exported="false"
+97-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:54:13-37
+98            android:grantUriPermissions="true" >
+98-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:55:13-47
+99            <meta-data
+99-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:56:13-58:58
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:57:17-67
+101                android:resource="@xml/provider_paths" />
+101-->D:\Dilip workspace\qr-code-test\qr-code-test-master\app\src\main\AndroidManifest.xml:58:17-55
+102        </provider>
+103
+104        <service
+104-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:15:9-21:19
+105            android:name="com.google.firebase.components.ComponentDiscoveryService"
+105-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:16:13-84
+106            android:directBootAware="true"
+106-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:35:13-43
+107            android:exported="false" >
+107-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:17:13-37
+108            <meta-data
+108-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:18:13-20:85
+109                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+109-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:19:17-115
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-crashlytics:17.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b7dd6a7bd74c475b7f2b28ff3b120677\jetified-firebase-crashlytics-17.3.0\AndroidManifest.xml:20:17-82
+111            <meta-data
+111-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b51f023d5c701d94be9cc59069a4482a\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:30:13-32:85
+112                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+112-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b51f023d5c701d94be9cc59069a4482a\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:31:17-139
+113                android:value="com.google.firebase.components.ComponentRegistrar" />
+113-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b51f023d5c701d94be9cc59069a4482a\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:32:17-82
+114            <meta-data
+114-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dc596ba3ef401e476da261785e6c6a4a\jetified-firebase-installations-16.3.4\AndroidManifest.xml:18:13-20:85
+115                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+115-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dc596ba3ef401e476da261785e6c6a4a\jetified-firebase-installations-16.3.4\AndroidManifest.xml:19:17-127
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dc596ba3ef401e476da261785e6c6a4a\jetified-firebase-installations-16.3.4\AndroidManifest.xml:20:17-82
+117        </service>
+118
+119        <activity
+119-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:46:9-52:63
+120            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+120-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:47:13-74
+121            android:clearTaskOnLaunch="true"
+121-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:48:13-45
+122            android:screenOrientation="sensorLandscape"
+122-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:49:13-56
+123            android:stateNotNeeded="true"
+123-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:50:13-42
+124            android:theme="@style/zxing_CaptureTheme"
+124-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:51:13-54
+125            android:windowSoftInputMode="stateAlwaysHidden" />
+125-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\773ee703d57dd63bcbce00ed637f5000\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:52:13-60
+126
+127        <receiver
+127-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:29:9-33:20
+128            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+128-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:30:13-85
+129            android:enabled="true"
+129-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:31:13-35
+130            android:exported="false" >
+130-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:32:13-37
+131        </receiver>
+132
+133        <service
+133-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:35:9-38:40
+134            android:name="com.google.android.gms.measurement.AppMeasurementService"
+134-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:36:13-84
+135            android:enabled="true"
+135-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:37:13-35
+136            android:exported="false" />
+136-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:38:13-37
+137        <service
+137-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:39:9-43:72
+138            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+138-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:40:13-87
+139            android:enabled="true"
+139-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:41:13-35
+140            android:exported="false"
+140-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:42:13-37
+141            android:permission="android.permission.BIND_JOB_SERVICE" />
+141-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d3d25ac4edcf793410bc25b2aac5bddc\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:43:13-69
+142
+143        <provider
+143-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:26:9-31:39
+144            android:name="com.google.firebase.provider.FirebaseInitProvider"
+144-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:27:13-77
+145            android:authorities="com.simprosys.scan.qrcode.barcode.reader.firebaseinitprovider"
+145-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:28:13-72
+146            android:directBootAware="true"
+146-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:29:13-43
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:30:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:19.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\238245c87a994d2d3a0b930562a1e3da\jetified-firebase-common-19.4.0\AndroidManifest.xml:31:13-36
+149
+150        <meta-data
+150-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\28826db268617d1a260a5ee66b9e2b58\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+151            android:name="com.google.android.gms.version"
+151-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\28826db268617d1a260a5ee66b9e2b58\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+152            android:value="@integer/google_play_services_version" />
+152-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\28826db268617d1a260a5ee66b9e2b58\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+153
+154        <service
+154-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:29:9-35:19
+155            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+155-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:30:13-103
+156            android:exported="false" >
+156-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:31:13-37
+157            <meta-data
+157-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:32:13-34:39
+158                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+158-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:33:17-94
+159                android:value="cct" />
+159-->[com.google.android.datatransport:transport-backend-cct:2.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\646538451f9b2a83ff33c89603ba907b\jetified-transport-backend-cct-2.3.2\AndroidManifest.xml:34:17-36
+160        </service>
+161        <service
+161-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+162            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+162-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+163            android:exported="false"
+163-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+164            android:permission="android.permission.BIND_JOB_SERVICE" >
+164-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+165        </service>
+166
+167        <receiver
+167-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+168            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+168-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+169            android:exported="false" />
+169-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\user\.gradle\caches\transforms-2\files-2.1\06c73e9ea516c6670cae6b3471b0ba66\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+170    </application>
+171
+172</manifest>

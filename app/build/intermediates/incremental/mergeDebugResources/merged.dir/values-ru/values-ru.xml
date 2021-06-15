@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Сброс</item>
+        <item>Selectare imagine din Galerie</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="appName">QR-код сканирования</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Штрихкод</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Хорошо</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Чтобы отсканировать QR-код или штрих-код, просто укажите на QR-код или штрих-код, который вы хотите отсканировать, и приложение автоматически обнаружит и распознает его.</string>
+    <string name="intro_slide_detail_2">В зависимости от форматов отсканированного кода сканер QR-кода предложит предпринять соответствующие действия.</string>
+    <string name="intro_slide_detail_3">Чтобы создать QR-код или штрих-код, выберите любой из следующих типов: текст, номер мобильного телефона, электронная почта, SMS, VCard, WiFi, событие, веб-сайт, EAN-13, EAN-8, UPC-E, код 39, код 128, UPC-A</string>
+    <string name="intro_slide_detail_4">Заполните соответствующие данные для выбранного типа QR или штрих-кода, нажмите Готово. Он сгенерирует QR-код или штрих-код, которым вы можете поделиться с различными платформами.</string>
+    <string name="intro_slide_title_1">Сканировать QR Code или Barcode</string>
+    <string name="intro_slide_title_2">ViПросмотреть QR Code или Barcode</string>
+    <string name="intro_slide_title_3">Выбрать тип</string>
+    <string name="intro_slide_title_4">Создать QR Code или Barcode</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">LLLL yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Окно выбора даты"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"Цифра <ns1:g id="KEY">%1$s</ns1:g> удалена"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Готово"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Выбор часов на циферблате"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"Выбран элемент <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Выбор минут на циферблате"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Выберите месяц и день"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Выберите часы"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Выберите минуты"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Выберите год"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Меню выбора года"</string>
+    <string name="msgBarCode">Укажите содержимое штрих-кодов</string>
+    <string name="msgBarCodeEAN13">Ан-13 требует содержания, чтобы быть 13 цифр</string>
+    <string name="msgBarCodeEAN8">Ан-8 требует содержания, чтобы быть 8 цифр</string>
+    <string name="msgBarCodeUpca">СКК-а требует, чтобы содержание составляло 12 цифр</string>
+    <string name="msgBarCodeUpce">СКР-э требует содержания 8 цифр</string>
+    <string name="msgBarCodeValid">Штрих-код недействителен</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Не удалось определить характер начала.</string>
+    <string name="msgCode128Barcode3">Не найдено значений в таблице кодирования</string>
+    <string name="msgCode128Barcode4">Неизвестный тип запуска в кодировке фиксированного типа.</string>
+    <string name="msgCode128Barcode5">Не удалось вставить старт и кодовые символы. n сообщение:</string>
+    <string name="msgCode128Barcode6">Не удалось найти кодирование значения ( "+ S1 + ") в типе C128 </string>
+    <string name="msgCode128Barcode7">Только числовые значения можно кодировать с помощью C128-C.</string>
+    <string name="msgCsvContent">Вы еще ничего не сканировали.</string>
+    <string name="msgDateAndTime">Установите ваше будущее время</string>
+    <string name="msgDeleteContent">Вы уверены, что хотите очистить всю историю?</string>
+    <string name="msgLocation">Укажите Ваше правильное местоположение</string>
+    <string name="msgNo">Нет</string>
+    <string name="msgNoReadCodeContent">Не может читать QRCode/штрих-код</string>
+    <string name="msgNotOpenAction">Существует не приложение, чтобы открыть</string>
+    <string name="msgOk">Хорошо</string>
+    <string name="msgOkay">Okay</string>
+    <string name="msgPbBarCode">Подождите</string>
+    <string name="msgPermissionCancel">Отмена</string>
+    <string name="msgPermissionContent">Для сканирования QR-код и штрих-кода необходимо разрешить разрешение</string>
+    <string name="msgPermissionExplainContent">Посмотрите, как вы отрицаете разрешение, пожалуйста, разрешите разрешение от настроек</string>
+    <string name="msgPermissionOk">Хорошо</string>
+    <string name="msgQrCodeAllSocial">Просьба предоставить правильную информацию профиля</string>
+    <string name="msgQrCodeEventBDateAndTime">Пожалуйста, выберите дату начала мероприятия</string>
+    <string name="msgQrCodeEventDate">Дата окончания должна быть больше, чем дата начала</string>
+    <string name="msgQrCodeEventEDateAndTime">Пожалуйста, выберите дату окончания мероприятия</string>
+    <string name="msgQrCodeEventLocation">Пожалуйста, введите местоположение события</string>
+    <string name="msgQrCodeEventTitle">Пожалуйста, введите название события</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Пожалуйста, введите широту</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Пожалуйста, введите долготу</string>
+    <string name="msgQrCodePhoneNum">Пожалуйста, введите действительный номер телефона</string>
+    <string name="msgQrCodeSms">Пожалуйста, введите SMS сообщение</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Просьба представить правильную деталь</string>
+    <string name="msgQrCodeText">Пожалуйста, введите текстовое сообщение</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Пожалуйста введите электронный идентификатор</string>
+    <string name="msgQrCodeValidEmailBody">Пожалуйста, введите электронный текст</string>
+    <string name="msgQrCodeValidEmailId">Пожалуйста, введите действительный электронный идентификатор</string>
+    <string name="msgQrCodeValidEmailSubject">Пожалуйста, введите тему</string>
+    <string name="msgQrCodeValidPhoneNum">Пожалуйста, введите действительный номер телефона</string>
+    <string name="msgQrCodeValidWebSite">Пожалуйста, введите действительный URL</string>
+    <string name="msgQrCodeVcardCity">Пожалуйста, введите город</string>
+    <string name="msgQrCodeVcardCompanyName">Пожалуйста, введите название компании</string>
+    <string name="msgQrCodeVcardName">Пожалуйста, введите имя</string>
+    <string name="msgQrCodeWebSite">Пожалуйста, введите URL</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Пожалуйста введите WiFi имя</string>
+    <string name="msgQrCodeWifiPass">Пожалуйста введите пароль WiFi</string>
+    <string name="msgUPCABarcode1">Длина данных недействительна. (Длина должна быть 11 или 12)</string>
+    <string name="msgUPCABarcode2">Только числовые данные</string>
+    <string name="msgUPCABarcode3">Страна присваивая код производителя не найдено.</string>
+    <string name="msgUPCABarcode4">Ошибка расчета проверить цифру.</string>
+    <string name="msgUPCEBarcode1">Недействительной длины данных. (только 8 или 12 номеров)</string>
+    <string name="msgUPCEBarcode2">Только числовые данные</string>
+    <string name="msgUPCEBarcode3">Недействительная система номера (только 0 &amp; 1 действительны)</string>
+    <string name="msgUPCEBarcode4">Незаконный СКК-а вступил для конверсии.  Невозможно преобразовать.</string>
+    <string name="msgYes">Да</string>
+    <string name="navCreate">Создать</string>
+    <string name="navHistory">История</string>
+    <string name="navScan">Сканировать</string>
+    <string name="navSetting">Настройка</string>
+    <string name="qrCodeEmail">Электронная почта</string>
+    <string name="qrCodeEvent">Событие</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Местоположение</string>
+    <string name="qrCodeNumber">Число</string>
+    <string name="qrCodeSection">QR-код</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Текст</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Веб-сайт</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Поиск Amazon</string>
+    <string name="txtApp">Больше приложений</string>
+    <string name="txtAppBarNameQABCodeGenerate">Создайте</string>
+    <string name="txtAppNameBarCode">Штрихкод</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Созданные коды</string>
+    <string name="txtAppNameCreateBCR">Штрихкод</string>
+    <string name="txtAppNameCreateQCR">QR-код</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Электронная почта</string>
+    <string name="txtAppNameEvent">Событие</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">История</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">язык</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Местоположение</string>
+    <string name="txtAppNamePhoneNum">Номер телефона</string>
+    <string name="txtAppNameSetting">Настройка</string>
+    <string name="txtAppNameSms">Текстовое сообщение</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Текстовое сообщение</string>
+    <string name="txtAppNameTheme">тема</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Веб-сайт</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">Поиск штрих-кода</string>
+    <string name="txtBarCodeName">Штрихкод</string>
+    <string name="txtBarcode">Штрих-код : </string>
+    <string name="txtBeep">гудок</string>
+    <string name="txtBeepDesc">Звуковой сигнал, если сканирование прошло успешно.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Участников : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>день рождения : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>город : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Название компании : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Описание : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>Отправить по электронной почте : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>шифрование : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Конец : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Мгновенный мессенджер : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Язык : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>широта : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Место нахождения : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Долгота : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Сообщение : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Имя : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Имя сети : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Примечание : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Число : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>организатор : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>пароль : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Номер телефона : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Начать : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Тема : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Резюме : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Текст : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>заглавие : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Кому : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Книга поиска</string>
+    <string name="txtCall">Позвонить по номеру телефона</string>
+    <string name="txtClose">близко</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">Code 93</string>
+    <string name="txtConnect">Подключения</string>
+    <string name="txtContact">Добавить новый контакт</string>
+    <string name="txtContent">Поиск содержимого</string>
+    <string name="txtCopyClipboard">Скопировано в буфер обмена!</string>
+    <string name="txtDelete">удалять</string>
+    <string name="txtDirection">Показать местоположение</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Открыть почтовый композитор</string>
+    <string name="txtEmailName">Электронная почта</string>
+    <string name="txtEvent">Добавить событие</string>
+    <string name="txtEventName">Событие</string>
+    <string name="txtFacebook">Открыть в facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Как использовать?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Открыть в instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">язык</string>
+    <string name="txtLanguageDesc">Здесь вы можете изменить язык приложения.</string>
+    <string name="txtLinkedIn">Открыть в linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Местоположение</string>
+    <string name="txtMMS">Отправить MMS</string>
+    <string name="txtMap">Показать карту</string>
+    <string name="txtMoreApp">Другие приложения</string>
+    <string name="txtNoPassword">Нет пароля для этого Wi-Fi</string>
+    <string name="txtOpen">Открыть</string>
+    <string name="txtPassword">Пароль : </string>
+    <string name="txtPermission">Нажмите здесь, чтобы дать разрешение</string>
+    <string name="txtPhoneNumName">Номер телефона</string>
+    <string name="txtPlaceHolderCreate">Вы еще не создали ни одного кода.</string>
+    <string name="txtPlaceHolderHistory">Вы еще ничего не сканировали.</string>
+    <string name="txtPrivacy">Политика конфиденциальности</string>
+    <string name="txtProduct">Поиск продукта</string>
+    <string name="txtProductName">Товар</string>
+    <string name="txtQrCodeAllDayName">Весь день</string>
+    <string name="txtQrCodeBeginDateName">Дата начала</string>
+    <string name="txtQrCodeBodyName">Введите тело</string>
+    <string name="txtQrCodeCityName">Войти в город</string>
+    <string name="txtQrCodeCompanyName">Введите название компании</string>
+    <string name="txtQrCodeEmailIdName">Введите идентификатор электронной почты</string>
+    <string name="txtQrCodeEncryptionName">шифрование</string>
+    <string name="txtQrCodeEndDateName">Дата окончания</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Введите широту</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Введите местоположение</string>
+    <string name="txtQrCodeLongitudeName">Введите долготу</string>
+    <string name="txtQrCodeMessageName">Введите ваше сообщение</string>
+    <string name="txtQrCodeName">QR-код</string>
+    <string name="txtQrCodeNameName">Введите имя</string>
+    <string name="txtQrCodeNetworkName">Сеть</string>
+    <string name="txtQrCodeNoEncryptionName">Без шифрования</string>
+    <string name="txtQrCodePasswordName">Пароль</string>
+    <string name="txtQrCodePhoneNumName">Введите номер телефона</string>
+    <string name="txtQrCodeSmsName">Введите ваше сообщение</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Введите тему</string>
+    <string name="txtQrCodeTitleName">Введите заголовок</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Введите URL-адрес</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Темп</string>
+    <string name="txtRateDescription">Если вам нравится QR Code Scan, пожалуйста, найдите время, чтобы оценить приложение. Спасибо за поддержку!!!</string>
+    <string name="txtRateUs">Оцените нас</string>
+    <string name="txtSMS">Открыть SMS композитор</string>
+    <string name="txtShare">Предоставить общий доступ</string>
+    <string name="txtShareApp">Здесь вы можете проверить другие приложения</string>
+    <string name="txtShopper">Google shopper</string>
+    <string name="txtSkip">Пропустить</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Открыть в snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Начать</string>
+    <string name="txtText">Поиск текста</string>
+    <string name="txtTextName">Текст</string>
+    <string name="txtTheme">тема</string>
+    <string name="txtThemeDesc">Здесь вы можете изменить тему приложения.</string>
+    <string name="txtTwitter">Открыть в twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Открыть Ури в Google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Вибрация</string>
+    <string name="txtVibrateDesc">Вибрация, если сканирование прошло успешно.</string>
+    <string name="txtWIFI">Копировать пароль</string>
+    <string name="txtWalMart">WalMart</string>
+    <string name="txtWebSiteName">Веб-сайт</string>
+    <string name="txtWhatsApp">Открыть в whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">Сканер штрих-кодов</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">К сожалению, возникла ошибка камеры. Может потребоваться перезагрузить устройство.</string>
+    <string name="zxing_msg_default_status">Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.</string>
+</resources>

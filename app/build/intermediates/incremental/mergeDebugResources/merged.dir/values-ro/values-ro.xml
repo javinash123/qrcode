@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Reseta</item>
+        <item>Selectare imagine din Galerie</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="appName">Codul de scanare QR</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Cod de bare</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> întâmpină probleme privind serviciile Google Play. Încercați din nou."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">ok</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Pentru a scana codul QR sau codul de bare, indicați pur și simplu QR sau codul de bare pe care doriți să îl scanați, iar aplicația o va detecta și recunoaște automat.</string>
+    <string name="intro_slide_detail_2">În funcție de formatele codului scanat, scanerul de cod QR va cere să luați măsurile corespunzătoare.</string>
+    <string name="intro_slide_detail_3">Pentru a crea un QR sau un cod de bare, selectați un singur tip de text, număr mobil, email, SMS, VCard, WiFi, eveniment, site Web, EAN-13, UPC-E, Code 39, UPC-A</string>
+    <string name="intro_slide_detail_4">Completați detaliile relevante pentru tipul QR sau Barcode selectat, apăsați Done. Va genera QR sau codul de bare pe care le puteți partaja cu diferite platforme.</string>
+    <string name="intro_slide_title_1">Scanare cod QR sau cod de bare</string>
+    <string name="intro_slide_title_2">Vizualizați codul QR sau codul de bare</string>
+    <string name="intro_slide_title_3">Selectați tipul</string>
+    <string name="intro_slide_title_4">Creare cod QR sau cod de bare</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Afișare pe luni"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> a fost șters"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Terminat"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Indicator circular ore"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> selectat"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Indicator circular minute"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Selectați luna și ziua"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Selectați orele"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Selectați minutele"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Selectați anul"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Listă de ani"</string>
+    <string name="msgBarCode">Vă rugăm să introduceți conținutul codului de bare</string>
+    <string name="msgBarCodeEAN13">EAN-13 necesită conținut de 13 cifre </string>
+    <string name="msgBarCodeEAN8">EAN-8 necesită conținut de 8 cifre</string>
+    <string name="msgBarCodeUpca">UPC-A necesită conținut de 12 cifre</string>
+    <string name="msgBarCodeUpce">UPC-E necesită ca conținutul să fie de 8 cifre</string>
+    <string name="msgBarCodeValid">Codul de bare nu este valid</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Nu s-a putut determina caracterul de pornire.</string>
+    <string name="msgCode128Barcode3">Nu există valoare în tabelul de codare</string>
+    <string name="msgCode128Barcode4">Tip de pornire necunoscut în codificarea tipului fix.</string>
+    <string name="msgCode128Barcode5">Nu s-au putut introduce caracterele de început și de cod. \ n Mesaj:</string>
+    <string name="msgCode128Barcode6">Nu s-a putut găsi codificarea unei valori ("+ s1 +") în tipul C128</string>
+    <string name="msgCode128Barcode7">Numai valorile numerice pot fi codificate cu C128-C.</string>
+    <string name="msgCsvContent">Nu ați scanat încă nimic.</string>
+    <string name="msgDateAndTime">Setați-vă viitorul timp</string>
+    <string name="msgDeleteContent">Sigur doriți să ștergeți tot istoricul?</string>
+    <string name="msgLocation">Vă rugăm să Introduceți locația corectă</string>
+    <string name="msgNo">Nu</string>
+    <string name="msgNoReadCodeContent">Nu se poate citi qrcode / barcode</string>
+    <string name="msgNotOpenAction">Nu există nici o aplicație pentru a deschide</string>
+    <string name="msgOk">ok</string>
+    <string name="msgOkay">Okay</string>
+    <string name="msgPbBarCode">te rog să aştepţi</string>
+    <string name="msgPermissionCancel">Anula</string>
+    <string name="msgPermissionContent">Pentru a scana codul QR și coduri de bare trebuie să permiteți permisiunea</string>
+    <string name="msgPermissionExplainContent">Se pare că refuzați permisiunea, vă rugăm să permiteți permisiunea de la setările</string>
+    <string name="msgPermissionOk">ok</string>
+    <string name="msgQrCodeAllSocial">Vă rugăm să furnizați detalii de profil corecte</string>
+    <string name="msgQrCodeEventBDateAndTime">Vă rugăm să selectați eveniment începe data</string>
+    <string name="msgQrCodeEventDate">Data de încheiere trebuie să fie mai mare decât data de început</string>
+    <string name="msgQrCodeEventEDateAndTime">Vă rugăm să selectați data de sfârșit a evenimentului</string>
+    <string name="msgQrCodeEventLocation">Vă rugăm să Introduceți locația evenimentului</string>
+    <string name="msgQrCodeEventTitle">Vă rugăm să introduceți titlul evenimentului</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Vă rugăm să introduceți latitudine</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Vă rugăm să introduceți Longitudine</string>
+    <string name="msgQrCodePhoneNum">Vă rugăm să introduceți numărul de telefon valid</string>
+    <string name="msgQrCodeSms">Vă rugăm să introduceți mesaj SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Vă rugăm să furnizați detalii corecte</string>
+    <string name="msgQrCodeText">Vă rugăm să introduceți mesaj text</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Vă rugăm să introduceți ID-ul de e-mail</string>
+    <string name="msgQrCodeValidEmailBody">Vă rugăm să introduceți textul de e-mail</string>
+    <string name="msgQrCodeValidEmailId">Vă rugăm să introduceți ID-ul de e-mail valid</string>
+    <string name="msgQrCodeValidEmailSubject">Vă rugăm să Introduceți subiectul</string>
+    <string name="msgQrCodeValidPhoneNum">Vă rugăm să introduceți numărul de telefon valid</string>
+    <string name="msgQrCodeValidWebSite">Vă rugăm să introduceți URL-ul valid</string>
+    <string name="msgQrCodeVcardCity">Vă rugăm să introduceți oraș</string>
+    <string name="msgQrCodeVcardCompanyName">Vă rugăm să introduceți numele firmei</string>
+    <string name="msgQrCodeVcardName">Vă rugăm să introduceți numele</string>
+    <string name="msgQrCodeWebSite">Vă rugăm să introduceți URL-ul</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Vă rugăm să introduceți numele WiFi</string>
+    <string name="msgQrCodeWifiPass">Vă rugăm să introduceți parola WiFi</string>
+    <string name="msgUPCABarcode1">Lungimea datelor este nevalidă. (Lungimea trebuie să fie 11 sau 12)</string>
+    <string name="msgUPCABarcode2">Numerele Numere Numai</string>
+    <string name="msgUPCABarcode3">Codul producătorului de atribuire a țării nu a fost găsit.</string>
+    <string name="msgUPCABarcode4">Eroare la calcularea cifrei de control.</string>
+    <string name="msgUPCEBarcode1">Date lungi nevalide. (Numai pentru numere de 8 sau 12)</string>
+    <string name="msgUPCEBarcode2">Numerele Numere Numai</string>
+    <string name="msgUPCEBarcode3">Sistem invalid numeric (numai 0 &amp; 1 sunt valide)</string>
+    <string name="msgUPCEBarcode4">UPC-A ilegal a intrat pentru conversie. Imposibil de convertit.</string>
+    <string name="msgYes">Da</string>
+    <string name="navCreate">Creați</string>
+    <string name="navHistory">Istoric</string>
+    <string name="navScan">Scanare</string>
+    <string name="navSetting">Setare</string>
+    <string name="qrCodeEmail">Email</string>
+    <string name="qrCodeEvent">Eveniment</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Locație</string>
+    <string name="qrCodeNumber">Număr</string>
+    <string name="qrCodeSection">QR-Code</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Text</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Site-ul web</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Căutați"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Căutare Amazon</string>
+    <string name="txtApp">Mai multe aplicatii</string>
+    <string name="txtAppBarNameQABCodeGenerate">Crea</string>
+    <string name="txtAppNameBarCode">Cod de bare</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Coduri create</string>
+    <string name="txtAppNameCreateBCR">Cod de bare</string>
+    <string name="txtAppNameCreateQCR">QR-Code</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Email</string>
+    <string name="txtAppNameEvent">Eveniment</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Istoric</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Limba</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Locație</string>
+    <string name="txtAppNamePhoneNum">Numar de telefon</string>
+    <string name="txtAppNameSetting">Setare</string>
+    <string name="txtAppNameSms">Mesaj text</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Mesaj text</string>
+    <string name="txtAppNameTheme">Tema</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Site-ul web</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">Cod de bare de căutare</string>
+    <string name="txtBarCodeName">Cod de bare</string>
+    <string name="txtBarcode">Cod de bare : </string>
+    <string name="txtBeep">Bip</string>
+    <string name="txtBeepDesc">Bip dacă scanarea are succes.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Participanţi : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Zi de nastere : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>Oraș : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Numele Companiei : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Descriere : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>E-mail : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>encryption : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Sfârşitul : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Mesagerie instant : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Limba : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Latitudine : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Locație : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Longitudine : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Mesaj : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Nume : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Numele retelei : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Notă : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Număr : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Organizator : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Parola : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Numar de telefon : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Începe : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Subiect : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>rezumat : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Text : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Titlu : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>la : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Căutare carte</string>
+    <string name="txtCall">Apelați numărul de telefon</string>
+    <string name="txtClose">Închide</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">Code 93</string>
+    <string name="txtConnect">Conecta</string>
+    <string name="txtContact">Adăugați un nou contact</string>
+    <string name="txtContent">Cautare continut</string>
+    <string name="txtCopyClipboard">Copiat în Clipboard!</string>
+    <string name="txtDelete">Şterge</string>
+    <string name="txtDirection">Afișați locația</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Deschideți compozitorul de e-mail</string>
+    <string name="txtEmailName">Email</string>
+    <string name="txtEvent">Adăugați eveniment</string>
+    <string name="txtEventName">Eveniment</string>
+    <string name="txtFacebook">Deschide în facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Cum se utilizează?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Deschide în instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Limba</string>
+    <string name="txtLanguageDesc">Aici puteți schimba limba aplicației.</string>
+    <string name="txtLinkedIn">Deschide în linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Locație</string>
+    <string name="txtMMS">Trimite MMS</string>
+    <string name="txtMap">Arată "Hotel" pe harta</string>
+    <string name="txtMoreApp">Mai multe aplicații</string>
+    <string name="txtNoPassword">Nu există nici o parolă pentru acest WiFi</string>
+    <string name="txtOpen">Deschide</string>
+    <string name="txtPassword">Parola : </string>
+    <string name="txtPermission">Click aici pentru a da o permisiune</string>
+    <string name="txtPhoneNumName">Număr de telefon</string>
+    <string name="txtPlaceHolderCreate">Nu ați creat încă niciun cod.</string>
+    <string name="txtPlaceHolderHistory">Nu ați scanat încă nimic.</string>
+    <string name="txtPrivacy">Politica de confidențialitate</string>
+    <string name="txtProduct">Căutare produs</string>
+    <string name="txtProductName">Produs</string>
+    <string name="txtQrCodeAllDayName">Toată ziua</string>
+    <string name="txtQrCodeBeginDateName">Începeți data</string>
+    <string name="txtQrCodeBodyName">Introduceți corpul</string>
+    <string name="txtQrCodeCityName">Intrați în oraș</string>
+    <string name="txtQrCodeCompanyName">Introduceți numele companiei</string>
+    <string name="txtQrCodeEmailIdName">Introduceți codul de e-mail</string>
+    <string name="txtQrCodeEncryptionName">criptare</string>
+    <string name="txtQrCodeEndDateName">Data de încheiere</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Introduceți Latitude</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Introduceți locația</string>
+    <string name="txtQrCodeLongitudeName">Introduceți longitudinea</string>
+    <string name="txtQrCodeMessageName">Introduceți mesajul</string>
+    <string name="txtQrCodeName">QR-Code</string>
+    <string name="txtQrCodeNameName">Introduceți numele</string>
+    <string name="txtQrCodeNetworkName">Rețea</string>
+    <string name="txtQrCodeNoEncryptionName">Nicio criptare</string>
+    <string name="txtQrCodePasswordName">Parola</string>
+    <string name="txtQrCodePhoneNumName">Introduceți numărul de telefon</string>
+    <string name="txtQrCodeSmsName">Introduceți mesajul</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Introduceți subiectul</string>
+    <string name="txtQrCodeTitleName">Introduceți titlul</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Introduceți adresa URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Rată</string>
+    <string name="txtRateDescription">Dacă vă place QR Code Scan atunci, vă rugăm să faceți un moment pentru a evalua aplicația. Iti multumesc pentru sprijin!!!</string>
+    <string name="txtRateUs">Evaluați-ne</string>
+    <string name="txtSMS">Deschide compozitorul SMS</string>
+    <string name="txtShare">Împărtăşi</string>
+    <string name="txtShareApp">Aici puteți verifica mai multe aplicații</string>
+    <string name="txtShopper">Google cumparatorului</string>
+    <string name="txtSkip">Sări peste</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Deschide în snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Începe</string>
+    <string name="txtText">Text căutare</string>
+    <string name="txtTextName">Text</string>
+    <string name="txtTheme">Tema</string>
+    <string name="txtThemeDesc">Aici puteți schimba tema aplicației.</string>
+    <string name="txtTwitter">Deschide în twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Uri deschise în Google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Vibrați</string>
+    <string name="txtVibrateDesc">Vibrați dacă scanarea are succes.</string>
+    <string name="txtWIFI">Copiați parola</string>
+    <string name="txtWalMart">Walmart</string>
+    <string name="txtWebSiteName">Site-ul web</string>
+    <string name="txtWhatsApp">Deschide în whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">Acceptă</string>
+    <string name="zxing_msg_camera_framework_bug">Probleme cu camera foto. Repornește dispozitivul.</string>
+    <string name="zxing_msg_default_status">Plasează codul de bare în interiorul vizorului pentru a-l scana</string>
+</resources>

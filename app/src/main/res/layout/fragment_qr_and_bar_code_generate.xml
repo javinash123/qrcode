@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmQrAndBarCodeGenerate"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/frmBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.QRAndBarCodeGenerateFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/appBarLayout"
+            layout="@layout/app_bar_layout_default"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/recDividerColor"
+            android:paddingBottom="@dimen/pad_2"
+            android:paddingEnd="@dimen/pad_2">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+</FrameLayout>

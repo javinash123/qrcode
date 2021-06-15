@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout
+        android:id="@+id/swipeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/swipe_layout_height"
+        app:draggedItem="@id/relView"
+        app:isContinuousSwipe="true"
+        app:rightItem="@id/txtRightDelete"
+        app:swipeDirection="left">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/deleteBgColor">
+
+            <TextView
+                android:id="@+id/txtRightDelete"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:gravity="center"
+                android:text="@string/txtDelete"
+                android:textColor="@color/txtDeleteColor"
+                android:textSize="@dimen/txt_size_16" />
+
+        </FrameLayout>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/relView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/backgroundColor"
+            android:focusable="true"
+            android:foreground="?attr/selectableItemBackgroundBorderless">
+
+            <ImageView
+                android:id="@+id/imgType"
+                android:layout_width="@dimen/img_icon_width"
+                android:layout_height="@dimen/img_icon_height"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/mar_10"
+                app:srcCompat="@drawable/ic_text" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/mar_60"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtType"
+                    android:textAlignment="viewStart"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtColorBlack"
+                    android:textSize="@dimen/txt_size_16" />
+
+                <TextView
+                    android:textAlignment="viewStart"
+                    android:id="@+id/txtDateAndTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtColorGray"
+                    android:textSize="@dimen/txt_size_14" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imgRightArrow"
+                android:layout_width="@dimen/img_icon_width"
+                android:layout_height="@dimen/img_icon_height"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/mar_10"
+                android:padding="@dimen/mar_5"
+                android:rotationY="@integer/locale_mirror_flip"
+                app:srcCompat="@drawable/ic_arrow_right_white_24dp" />
+
+            <View
+                android:id="@+id/viewDivider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="@dimen/mar_10"
+                android:layout_marginStart="@dimen/mar_10"
+                android:background="@color/rowBgColorGray" />
+
+        </RelativeLayout>
+
+    </com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relView2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rel_view_height"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/relBgSelected"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/itemBgTransparent"
+            android:visibility="gone">
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/imgDeSelect"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/mar_5"
+            android:padding="@dimen/mar_5"
+            app:srcCompat="@drawable/ic_radio_button_unchecked_black_24dp" />
+
+        <ImageView
+            android:id="@+id/imgSelect"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/mar_5"
+            android:padding="@dimen/mar_5"
+            app:srcCompat="@drawable/ic_check_circle_black_24dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/mar_50"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgType2"
+                android:layout_width="@dimen/img_icon_width"
+                android:layout_height="@dimen/img_icon_height"
+                android:layout_margin="@dimen/mar_10"
+                app:srcCompat="@drawable/ic_text" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtType2"
+                    android:textAlignment="viewStart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtColorBlack"
+                    android:textSize="@dimen/txt_size_16" />
+
+                <TextView
+                    android:textAlignment="viewStart"
+                    android:id="@+id/txtDateAndTime2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtColorGray"
+                    android:textSize="@dimen/txt_size_14" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/viewDivider2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/mar_60"
+            android:background="@color/rowBgColorGray" />
+
+    </RelativeLayout>
+
+</FrameLayout>
+
+

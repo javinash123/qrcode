@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flash_off_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_flash_off_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_code128.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_code128.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_theme.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_theme.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_qr_code_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_bar_qr_code_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_section.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\section.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_history_black_24dp_763475.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_history_black_24dp_763475.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_whatsapp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_whatsapp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upca.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_upca.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_slide_img_1.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\intro_slide_img_1.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flash_on_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_flash_on_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_instagram.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_qr_logo_corner.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\img_qr_logo_corner.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_thumb_2.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\bar_code_thumb_2.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout_default.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_bar_layout_default.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_qr_code_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\qr_code_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_2.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_2.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_arrow_right_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bar_code_frame_5.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\bar_code_frame_5.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_history.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_bar_history.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_location.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more_apps_downloads.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\more_apps_downloads.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_instagram.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_csv_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_csv_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_qr_and_bar_code.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\row_qr_and_bar_code.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\color_tab_selector.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\color\\tab_selector.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_slide_img_2.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\intro_slide_img_2.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_thumb_1.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\bar_code_thumb_1.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_switch_background_selector_right.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\control_switch_background_selector_right.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_6.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_6.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_help.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_telephone.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_telephone.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_img_progress_bar.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_img_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_instagram.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_theme_select.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_theme_select.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_linked_in.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_linked_in.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_3.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_3.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_create_qrcode_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_bar_create_qrcode_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bar_code_frame_4.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\bar_code_frame_4.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ean8.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_ean8.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_image.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\row_image.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_beep.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_beep.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vcard.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_vcard.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_apps.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_more_apps.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_help.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_language.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_language.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wifi.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_wifi.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendar.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_theme_list.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\row_theme_list.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_switch_background_selector_middle.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\control_switch_background_selector_middle.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_language_list.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\row_language_list.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_thumb_4.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\bar_code_thumb_4.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_done_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_library_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_photo_library_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_4.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_4.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_background.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vcard.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_vcard.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_qrcode.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_create_qrcode.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_1.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_1.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_text.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_text.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sms.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_sms.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_1.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_1.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_check_circle_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_divider_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_divider_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_web.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_web.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_twitter.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_twitter.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_4.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_4.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more_apps_ic_back_arrow.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\more_apps_ic_back_arrow.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_apps.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_apps.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_linked_in.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_linked_in.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_5.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_5.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vibrate.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_vibrate.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\color_control_switch_color_selector.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\color\\control_switch_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_qrcode_result.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_create_qrcode_result.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upce.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_upce.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wifi.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_wifi.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rate.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_rate.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_code39.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_code39.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ean13.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_ean13.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_web_site.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_web_site.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_slide_img_4.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\intro_slide_img_4.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bar_code_frame_2.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\bar_code_frame_2.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_qr_and_bar_code_generate.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\row_qr_and_bar_code_generate.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_help.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_qr_and_bar_code_generate.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_qr_and_bar_code_generate.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_whats_app.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_whats_app.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_instagram.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_3.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_3.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic__more.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic__more.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_switch_background_border.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\control_switch_background_border.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_snapchat.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_snapchat.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_back_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_thumb_5.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\bar_code_thumb_5.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_switch_background_selector_left.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\control_switch_background_selector_left.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_facebook.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_facebook.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_card.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_card.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qr_frame_6.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\qr_frame_6.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_intro.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bar_code_frame_1.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\bar_code_frame_1.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_scan_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_scan_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_code_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\bar_code_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_snap_chat.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_snap_chat.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_language.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_layout_bg.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\custom_layout_bg.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_phone_number.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_phone_number.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_radio_button_unchecked_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_radio_button_unchecked_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_instagram.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_instagram.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_none.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\none.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_2.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_2.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_barcode_border_black_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_barcode_border_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_theme.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_theme.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_instagram.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_help.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\progress_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_library.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\photo_library.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more_apps_star_rate.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\more_apps_star_rate.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_thumb_5.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\qr_thumb_5.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting_black_24dp_763475.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_setting_black_24dp_763475.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_help.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_twitter.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_place_holder.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ad_place_holder.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_create_qcr_layout.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\app_bar_create_qcr_layout.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scanner.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_scanner.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_text.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_start_anim.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\app_start_anim.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_privacy.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_privacy.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bar_code_frame_3.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable-nodpi\\bar_code_frame_3.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_slide_img_3.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\intro_slide_img_3.png"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_white_24dp.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sms.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\ic_sms.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_email.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_email.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_event.xml.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\layout\\fragment_event.xml"
+    },
+    {
+        "merged": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_thumb_3.png.flat",
+        "source": "D:\\Dilip workspace\\qr-code-test\\qr-code-test-master\\app\\src\\main\\res\\drawable\\bar_code_thumb_3.png"
+    }
+]

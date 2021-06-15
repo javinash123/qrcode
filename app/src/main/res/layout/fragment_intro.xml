@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.intro.IntroFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/app_background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:rotationY="@integer/locale_mirror_flip">
+
+            <ImageView
+                android:id="@+id/imgIntro"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:layout_margin="10dp"
+                android:padding="30dp"
+                android:src="@drawable/intro_slide_img_1"
+                tools:ignore="ObsoleteLayoutParam" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+
+            android:layout_alignParentBottom="true"
+            android:layout_weight="0.1"></RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="0dp"
+            android:layout_weight="0.3"
+
+            android:gravity="center"
+            android:rotationY="@integer/locale_mirror_flip">
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:padding="@dimen/pad_10"
+                android:text="sadhasuhsahdahs"
+                android:textColor="@color/txtColorBlack"
+                android:textSize="@dimen/txt_size_18" />
+
+            <TextView
+                android:id="@+id/txtDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtTitle"
+                android:gravity="center"
+                android:padding="@dimen/pad_10"
+                android:textAlignment="center"
+                android:textColor="@color/txtColorGray" />
+
+            <!--android:padding="@dimen/mar_5"-->
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+
+            android:layout_weight="0.1"
+            tools:ignore="RtlHardcoded">
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

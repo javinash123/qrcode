@@ -1,0 +1,46 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmCreateQrCode"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/frmBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/appBarLayout"
+            layout="@layout/app_bar_create_qrcode_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:id="@+id/leyPlaceHolder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/appBarLayout"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtPlaceHolderCreate"
+                android:padding="@dimen/pad_5"
+                android:textAlignment="center"
+                android:textSize="@dimen/txt_size_30" />
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recCreateQrCode"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/appBarLayout"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+</FrameLayout>

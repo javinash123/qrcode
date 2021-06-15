@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default Theme Color -->
+    <color name="colorPrimary">#3949AB</color>
+    <color name="colorPrimaryDark">#3949AB</color>
+    <color name="colorAccent">#3949AB</color>
+
+    <!-- Default No Action Bar Theme Color -->
+    <color name="primaryWhite">#FFFFFF</color>
+    <color name="primaryDarkWhite">#CCCCCC</color>
+    <color name="accentWhite">#FFFFFF</color>
+
+    <color name="itemBgTransparent">#EBEFFA</color>
+
+    <color name="black">#000000</color>
+
+    <!--<color name="viewfinder_mask">#95000000</color>
+    <color name="viewfinder_laser">#3949AB</color>-->
+
+    <color name="linkColor">#007AFE</color>
+
+
+    <color name="lighterBlue">#ffcdd8ec</color>
+
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="deleteBgColor">#DC5034</color>
+
+    <color name="recDividerColor">#E1E1E1</color>
+
+    <color name="default_shadow_color">#88757575</color>
+
+    <!-- Indigo Theme -->
+    <color name="primaryColorIndigo">#3949AB</color>
+    <color name="primaryDarkColorIndigo">#3949AB</color>
+    <color name="accentColorIndigo">#3949AB</color>
+
+    <!-- Red Theme -->
+    <color name="primaryColorRed">#F44336</color>
+    <color name="primaryDarkColorRed">#F44336</color>
+    <color name="accentColorRed">#F44336</color>
+
+    <!-- Purple Theme -->
+    <color name="primaryColorPurple">#7B1FA2</color>
+    <color name="primaryDarkColorPurple">#7B1FA2</color>
+    <color name="accentColorPurple">#7B1FA2</color>
+
+    <!-- DeepPurple Theme -->
+    <color name="primaryColorDeepPurple">#5E35B1</color>
+    <color name="primaryDarkColorDeepPurple">#5E35B1</color>
+    <color name="accentColorDeepPurple">#5E35B1</color>
+
+    <!-- ElectricPurple Theme -->
+    <color name="primaryColorElectricPurple">#AA00FF</color>
+    <color name="primaryDarkColorElectricPurple">#AA00FF</color>
+    <color name="accentColorElectricPurple">#AA00FF</color>
+
+    <!-- Cyan Theme -->
+    <color name="primaryColorCyan">#00838F</color>
+    <color name="primaryDarkColorCyan">#00838F</color>
+    <color name="accentColorCyan">#00838F</color>
+
+    <!-- Green Theme -->
+    <color name="primaryColorGreen">#2E7D32</color>
+    <color name="primaryDarkColorGreen">#2E7D32</color>
+    <color name="accentColorGreen">#2E7D32</color>
+
+    <!-- Brown Theme -->
+    <color name="primaryColorBrown">#4E342E</color>
+    <color name="primaryDarkColorBrown">#4E342E</color>
+    <color name="accentColorBrown">#4E342E</color>
+
+    <!-- BlueGrey Theme -->
+    <color name="primaryColorBlueGrey">#455A64</color>
+    <color name="primaryDarkColorBlueGrey">#455A64</color>
+    <color name="accentColorBlueGrey">#455A64</color>
+
+
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- Android standard ICS color -->
+
+
+    <color name="statusBarTransparent">#00000000</color>
+    <color name="frmBgColorGray">#fafafa</color>
+    <color name="frmBgColorBlack">#000000</color>
+    <color name="activityBgColorGray">#fafafa</color>
+    <color name="navBgColorGray">#f8f8f8</color>
+    <color name="txtColorBlack">#000000</color>
+    <color name="txtColorHorizon">#6090AA</color>
+    <color name="edtColorBlack">#000000</color>
+    <color name="txtColorWhite">#FFFFFF</color>
+    <color name="txtColorGray">#424242</color>
+    <color name="cvBgColorWhite">#FFFFFF</color>
+    <color name="rowBgColorGray">#e0e0e0</color>
+
+    <!-- Introduction Activity -->
+
+    <!-- History Fragment -->
+    <color name="txtDeleteColor">#FFFFFF</color>
+
+    <!-- Setting Fragment -->
+    <color name="rowDividerColorGray">#e0e0e0</color>
+
+    <!-- Android standard ICS color -->
+    <color name="ad_status_bar">#cccccc</color>
+    <color name="ad_background">#eeeeee</color>
+    <color name="ad_header_font_color">#616161</color>
+    <color name="ad_ascent_font_color">#dadada</color>
+    <color name="ad_name">#000000</color>
+    <color name="ad_description">#808080</color>
+
+</resources>

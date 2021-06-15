@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">QR Code Scan</string>
+
+    <!-- Introduction Activity -->
+    <string name="txtSkip">Atlamak</string>
+    <string name="txtStart">Başlatmak</string>
+
+    <string name="intro_slide_title_1">QR Code veya Barkodu Tara</string>
+    <string name="intro_slide_title_2">QR Code veya Barkodu Görüntüle</string>
+    <string name="intro_slide_title_3">Tür seç</string>
+    <string name="intro_slide_title_4">QR Code veya Barcode oluştur</string>
+
+    <string name="intro_slide_detail_1">QR kodunu veya Barkodu taramak için, taramak istediğiniz QR veya barkodu göstermeniz yeterlidir; uygulama otomatik olarak algılar ve tanır.</string>
+    <string name="intro_slide_detail_2">Taranan kod formatlarına bağlı olarak, QR kod tarayıcı uygun işlemi yapmayı isteyecektir.</string>
+    <string name="intro_slide_detail_3">QR veya Barkod oluşturmak için Metin, cep telefonu numarası, e-posta, sms, VCard, WiFi, etkinlik, web sitesi, EAN-13, EAN-8, UPC-E, Kod 39, Kod 128, UPC-A arasından herhangi bir tür seçin.</string>
+    <string name="intro_slide_detail_4">Seçilen QR veya Barkod tipi için ilgili detayları girin, basın, tamamlayın . Çeşitli platformlarla paylaşabileceğiniz QR veya Barkod üretecektir.</string>
+
+    <!-- Create Fragment -->
+    <string name="txtAppNameCreate">Oluşturulan kodlar</string>
+    <string name="txtPlaceHolderCreate">Henüz bir kod yaratmadınız.</string>
+
+    <!-- Crate QR Code Result Fragment -->
+    <string name="txtAppNameCreateQCR">QR-Kodu</string>
+    <string name="txtAppNameCreateBCR">Barkod</string>
+    <string name="txtBarCode">Barkodu ara</string>
+    <string name="txtText">Metin ara</string>
+    <string name="txtCall">Telefon numarasını arayın</string>
+    <string name="txtSMS">SMS besteciyi aç</string>
+    <string name="txtEmail">Posta oluşturucuyu aç</string>
+    <string name="txtURL">Google \'da açık Uri</string>
+    <string name="txtDirection">Konumu göster</string>
+    <string name="txtWIFI">Şifreyi kopyala</string>
+    <string name="txtContact">Yeni kişi ekle</string>
+    <string name="txtEvent">Etkinlik ekle</string>
+    <!--<string name="txtFacebook">Facebook \'ta aç</string>
+    <string name="txtInstagram">İnstagram \'da aç</string>
+    <string name="txtWhatsApp">WhatsApp \'ta açık</string>
+    <string name="txtTwitter">Twitter \'da açık</string>
+    <string name="txtLinkedIn">Bağlantılı olarak aç</string>
+    <string name="txtSnapChat">Snapchat \'te aç</string>-->
+    <string name="txtFacebook">Açık facebook</string>
+    <string name="txtInstagram">Açık instagram</string>
+    <string name="txtWhatsApp">Açık whatsapp</string>
+    <string name="txtTwitter">Açık twitter</string>
+    <string name="txtLinkedIn">Açık linkedin</string>
+    <string name="txtSnapChat">Açık snapchat</string>
+    <string name="txtMap">Haritayı göster</string>
+    <string name="txtProduct">Ürün arama</string>
+    <string name="txtAmazon">Arama Amazon</string>
+    <string name="txtBook">Arama kitabı</string>
+    <string name="txtContent">İçerik arama</string>
+    <string name="txtConnect">Bağlamak</string>
+    <string name="txtMMS">MMS Gönder</string>
+    <string name="txtShopper">Google Alışveriş</string>
+    <string name="txtWalMart">Walmart</string>
+    <string name="txtOpen">Açık</string>
+    <string name="txtShare">Paylaş</string>
+
+    <!-- History Fragment -->
+    <string name="txtAppNameHistory">Tarihçe</string>
+    <string name="txtPlaceHolderHistory">Henüz bir şey taramadınız .</string>
+    <string name="txtDelete">silmek</string>
+
+    <!-- Setting Fragment -->
+    <string name="txtAppNameSetting">Ayar</string>
+    <string name="txtVibrate">Titreşim</string>
+    <string name="txtVibrateDesc">Tarama başarılı olursa titret .</string>
+    <string name="txtBeep">Bip</string>
+    <string name="txtBeepDesc">Tarama başarılı olursa bip sesi.</string>
+    <string name="txtTheme">Tema</string>
+    <string name="txtThemeDesc">Burada uygulama temasını değiştirebilirsiniz.</string>
+    <string name="txtShareApp">Burada daha fazla uygulamayı kontrol edebilirsiniz</string>
+    <string name="txtLanguage">Dil</string>
+    <string name="txtApp">Daha fazla uygulama</string>
+    <string name="txtLanguageDesc">Burada uygulama dilini değiştirebilirsiniz.</string>
+    <string name="txtHelp">Nasıl kullanılır?</string>
+    <string name="txtPrivacy">Gizlilik politikası</string>
+    <string name="txtRateUs">Bize puan verin</string>
+    <string name="txtMoreApp">Daha fazla uygulama</string>
+
+    <!-- Tema Activity -->
+    <string name="txtAppNameTheme">Tema</string>
+    <!--<string name="colorNameIndigo">Indigo</string>
+    <string name="colorNameRed">Red</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameBlueGray">Blue Gray</string>-->
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNameRed">Red</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+
+    <!-- Dil Activity -->
+    <string name="txtAppNameLanguage">Dil</string>
+
+    <!-- Navigation Bar Menu Name -->
+    <string name="navScan">Tara</string>
+    <string name="navCreate">Yarat</string>
+    <string name="navHistory">Tarihçe</string>
+    <string name="navSetting">Ayar</string>
+
+    <!-- Create QR Code And Bar Code Section Name -->
+    <string name="qrCodeSection">QR-Kodu</string>
+    <string name="barCodeSection">Barkod</string>
+
+    <!-- Create QR Code And Bar Code Type Name -->
+    <string name="qrCodeText">Metin</string>
+    <string name="qrCodeNumber">Sayı</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeEmail">E-posta</string>
+    <string name="qrCodeWebSite">Web sitesi</string>
+    <string name="qrCodeLocation">Konum</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeEvent">Olay</string>
+    <!--<string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeSnapChat">Snapchat</string>-->
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeUpca">UPC-A</string>
+
+    <!-- Create QR Code And Bar Code Type App Name -->
+    <string name="txtAppNameText">Metin mesajı</string>
+    <string name="txtAppNamePhoneNum">Telefon numarası</string>
+    <string name="txtAppNameSms">Metin mesajı</string>
+    <string name="txtAppNameEmail">E-posta</string>
+    <string name="txtAppNameWebSite">Web sitesi</string>
+    <string name="txtAppNameLocation">Konum</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameEvent">Olay</string>
+    <!--<string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>-->
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameBarCode">Barkod</string>
+
+    <!-- QR Code And Bar Code Name -->
+    <string name="txtProductName">Ürün</string>
+    <string name="txtTextName">Metin</string>
+    <string name="txtPhoneNumName">Telefon numarası</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtEmailName">E-posta</string>
+    <string name="txtWebSiteName">Web sitesi</string>
+    <string name="txtLocationName">Konum</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtEventName">Olay</string>
+    <!--<string name="txtFacebookName">Facebook</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtSnapChatName">Snapchat</string>-->
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtUpcaName">UPC-A</string>
+
+    <!-- Create QR Code Type Text View Name -->
+    <string name="txtQrCodeMessageName">Mesajınızı giriniz</string>
+    <string name="txtQrCodePhoneNumName">Telefon Numarasını Girin</string>
+    <string name="txtQrCodeSmsName">Mesajınızı giriniz</string>
+    <string name="txtQrCodeEmailIdName">E-posta kimliğini girin</string>
+    <string name="txtQrCodeSubjectName">Konu Girin</string>
+    <string name="txtQrCodeBodyName">Gövde Girin</string>
+    <string name="txtQrCodeWebSiteName">URL adresini girin</string>
+    <string name="txtQrCodeLatitudeName">Enlem Gir</string>
+    <string name="txtQrCodeLongitudeName">Boylamı Gir</string>
+    <string name="txtQrCodeEncryptionName">Şifreleme</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeNoEncryptionName">Şifreleme yok</string>
+    <string name="txtQrCodeNetworkName">Ağ</string>
+    <string name="txtQrCodePasswordName">Şifre</string>
+    <string name="txtQrCodeNameName">Ad girin</string>
+    <string name="txtQrCodeCityName">Şehir Gir</string>
+    <string name="txtQrCodeCompanyName">Şirket adını girin</string>
+    <string name="txtQrCodeTitleName">Başlık Girin</string>
+    <string name="txtQrCodeLocationName">Konum Girin</string>
+    <string name="txtQrCodeAllDayName">Tüm Gün</string>
+    <string name="txtQrCodeBeginDateName">Başlangıç ​​tarihi</string>
+    <string name="txtQrCodeEndDateName">Bitiş tarihi</string>
+    <!--<string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>-->
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeName">QR-Kodu</string>
+    <string name="txtBarCodeName">Barkod</string>
+
+    <!-- Material Dialog Image -->
+    <string-array name="SelectImage">
+        <item>Sıfırlamak</item>
+        <item>Galerisinden görüntü Seç</item>
+    </string-array>
+
+    <!-- Material Dialog Delete -->
+    <string name="msgDeleteContent">Tüm geçmişi silmek istediğinize emin misiniz?</string>
+    <string name="msgYes">Evet</string>
+    <string name="msgNo">Hayır</string>
+
+    <!-- Material Dialog CSV -->
+    <string name="msgCsvContent">Henüz bir şey taramadınız .</string>
+    <string name="msgOkay">Okay</string>
+
+    <!-- Qr Code All Message Show -->
+    <string name="msgQrCodeText">Lütfen kısa mesaj girin</string>
+    <string name="msgQrCodePhoneNum">Lütfen geçerli telefon numarasını girin</string>
+    <string name="msgQrCodeSms">Lütfen SMS mesajı girin</string>
+    <string name="msgQrCodeValidPhoneNum">Lütfen geçerli telefon numarasını girin</string>
+    <string name="msgQrCodeValidEmail">Lütfen e-posta kimliği girin</string>
+    <string name="msgQrCodeValidEmailSubject">Lütfen konu girin</string>
+    <string name="msgQrCodeValidEmailBody">Lütfen e-posta metnini girin</string>
+    <string name="msgQrCodeValidEmailId">Lütfen geçerli e-posta kimliği girin</string>
+    <string name="msgQrCodeWebSite">Lütfen URL girin</string>
+    <string name="msgQrCodeValidWebSite">Lütfen geçerli URL girin</string>
+    <string name="msgQrCodeLatitude">Lütfen Enlem girin</string>
+    <string name="msgQrCodeLongitude">Lütfen Boylam girin</string>
+    <string name="msgQrCodeWifiName">Lütfen WiFi adı girin</string>
+    <string name="msgQrCodeWifiPass">Lütfen WiFi şifrenizi girin</string>
+    <string name="msgQrCodeVcardName">Lütfen adı girin</string>
+    <string name="msgQrCodeVcardCity">Lütfen şehir giriniz</string>
+    <string name="msgQrCodeVcardCompanyName">Lütfen şirket adını girin</string>
+    <string name="msgQrCodeEventTitle">Lütfen olay başlığını girin</string>
+    <string name="msgQrCodeEventLocation">Lütfen etkinlik konumunu girin</string>
+    <string name="msgQrCodeEventBDateAndTime">Lütfen etkinlik başlangıç tarihini seçin</string>
+    <string name="msgQrCodeEventEDateAndTime">Lütfen olay bitiş tarihini seçin</string>
+    <!--<string name="msgQrCodeFacebook">Lütfen Facebook id girin</string>
+    <string name="msgQrCodeInstagram">Lütfen Instagram ID girin</string>
+    <string name="msgQrCodeWhatsApp">Lütfen WhatsApp kimliği girin</string>
+    <string name="msgQrCodeTwitter">Lütfen Twitter id girin</string>
+    <string name="msgQrCodeLinkedIn">Lütfen kimliğe bağlı girin</string>
+    <string name="msgQrCodeSnapChat">Lütfen Snapchat ID girin</string>-->
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+
+
+    <!-- Bar Code All Message Show -->
+    <string name="msgBarCodeEAN13">EAN-13 içeriğin 13 basamak olmasını gerektirir</string>
+    <string name="msgBarCodeEAN8">EAN-8 içeriğin 8 basamak olmasını gerektirir</string>
+    <string name="msgBarCodeUpce">UPC-E içeriğin 8 basamak olmasını gerektirir</string>
+    <string name="msgBarCodeUpca">UPC-A içeriğin 12 basamak olmasını gerektirir</string>
+    <string name="msgBarCodeValid">Barkod geçersiz</string>
+    <string name="msgBarCode">Lütfen barkod içeriğini girin</string>
+
+    <!-- Toast All Message Show -->
+    <string name="msgNotOpenAction">Açılacak uygulama yok</string>
+
+
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="event_msg_okay">Tamam</string>
+
+    <string name="inputBarCodeNum">0123456789</string>
+
+    <!-- Create QR And Bar Code Generate Fragment -->
+    <string name="txtAppBarNameQABCodeGenerate">yaratmak</string>
+
+
+    <string name="txtBoldLanguage"><![CDATA[<b>Dil : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Metin : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Başlık : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Telefon numarası : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Numara : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>konu : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Mesaj : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Hedef : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Enlem : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Boylam : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Ağ adı : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Parola : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Şifreleme : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>isim : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>E-posta : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>Kent : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Şirket Adı : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Doğum günü : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Anında Messenger : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Not : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>özet : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Açıklama : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Konum : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Organizatör : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>başla : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Son -unda : </b>]]></string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Katılımcı : </b>]]></string>
+    <!--<string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>ınstagram : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Bağlantılı : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>-->
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+
+
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+
+    <!-- Material Dialog No Read Code -->
+    <!--<string name="msgNoReadCodeContent">QR kodu okuyamıyor</string>-->
+    <string name="msgNoReadCodeContent">QRCode/barkod okuyamıyor</string>
+
+    <string name="msgOk">Tamam</string>
+
+    <!-- Material Dialog Qr code and Bar Code Permission -->
+    <string name="msgPermissionContent">QR kodu ve Barkod taramak için izin vermek gerekir</string>
+    <string name="msgPermissionExplainContent">İzin reddetme gibi bakın, ayarlardan izin izin verin</string>
+    <string name="msgPermissionOk">Tamam</string>
+    <string name="msgPermissionCancel">İptal</string>
+
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+
+    <!-- Progress Dialog Bar Code Message -->
+    <string name="msgPbBarCode">Lütfen bekleyin</string>
+
+    <string name="txtPermission">Izin vermek için buraya tıklayın</string>
+
+    <string name="msgLocation">Lütfen doğru konumunuzu girin</string>
+    <string name="msgDateAndTime">Gelecekteki zamanını ayarla</string>
+
+    <string name="txtPassword">Parola : </string>
+
+    <string name="txtCode93Name">Code 93</string>
+
+    <string name="txtBarcode">Barkod : </string>
+
+    <!--<string name="msgCode39InValid">Code39Barcode-1: Invalid data.</string>
+    <string name="msgCode39InValidExtended">Code39Barcode-1: Invalid data. (Try using Extended Code39Barcode)</string>-->
+
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Başlangıç karakteri belirlenemedi.</string>
+    <string name="msgCode128Barcode3">No value found in encoding table</string>
+    <string name="msgCode128Barcode4">Sabit tür kodlaması bilinmeyen başlangıç türü.</string>
+    <string name="msgCode128Barcode5">Başlangıç ve kod karakterleri eklenemedi. n mesaj:</string>
+    <string name="msgCode128Barcode6">C128 türünde bir değerin ( "+ S1 + ") kodlaması bulunamadı </string>
+    <string name="msgCode128Barcode7">Yalnızca sayısal değerler C128-C ile kodlanabilir.</string>
+
+    <string name="msgUPCABarcode1">Veri uzunluğu geçersiz. (Uzunluk 11 veya 12 olmalıdır)</string>
+    <string name="msgUPCABarcode2">Yalnızca sayısal veriler</string>
+    <string name="msgUPCABarcode3">Ülke atama üreticisi kodu bulunamadı.</string>
+    <string name="msgUPCABarcode4">Onay basamak hesaplanırken hata oluştu.</string>
+
+    <string name="msgUPCEBarcode1">Geçersiz veri uzunluğu. (yalnızca 8 veya 12 sayı)</string>
+    <string name="msgUPCEBarcode2">Yalnızca sayısal veriler</string>
+    <string name="msgUPCEBarcode3">Geçersiz sayı sistemi (yalnızca 0 &amp; 1 geçerlidir)</string>
+    <string name="msgUPCEBarcode4">Geçersiz UPC-A dönüştürme için girdi.  Dönüştürülemiyor.</string>
+
+    <string name="msgQrCodeEventDate">Bitiş tarihi başlangıç tarihinden büyük olmalıdır</string>
+
+    <string name="msgQrCodeAllSocial">Lütfen doğru profil ayrıntılarını sağlayın</string>
+    <string name="msgQrCodeSocial">Lütfen doğru ayrıntı sağlayın</string>
+
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtCopyClipboard">Panoya kopyalandı!</string>
+    <string name="txtNoPassword">Bu wifi için şifre yok</string>
+    <string name="en">en</string>
+    <string name="ar">ar</string>
+    <string name="ca">ca</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="es">es</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string name="tr">tr</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="txtRate">oran</string>
+    <string name="txtClose">Kapat</string>
+    <string name="txtRateDescription">Eğer QR Code Scan\'i seviyorsanız, uygulamayı değerlendirmek için bir dakikanızı ayırın. Desteğin için teşekkürler!!!</string>
+
+</resources>

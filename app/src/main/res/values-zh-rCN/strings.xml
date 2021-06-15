@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">QR Code扫描</string>
+
+    <!-- Introduction Activity -->
+    <string name="txtSkip">跳</string>
+    <string name="txtStart">开始</string>
+
+
+    <string name="intro_slide_title_1">扫描QR Code或条形码</string>
+    <string name="intro_slide_title_2">查看QR Code或条形码</string>
+    <string name="intro_slide_title_3">选择类型</string>
+    <string name="intro_slide_title_4">创建QR Code或条形码</string>
+
+    <string name="intro_slide_detail_1">要扫描QR码或条形码，只需指向要扫描的QR或条形码，应用程序就会自动检测并识别它。</string>
+    <string name="intro_slide_detail_2">根据扫描的代码格式，QR码扫描器将提示采取适当的措施。</string>
+    <string name="intro_slide_detail_3">要创建QR或条形码，请从文本，手机号码，电子邮件，短信，VCard，WiFi，事件，网站，EAN-13，EAN-8，UPC-E，Code 39，Code 128，UPC-A中选择任何一种类型</string>
+    <string name="intro_slide_detail_4">填写所选QR或条形码类型的相关详细信息，按完成。它将生成QR或条形码，您可以与各种平台共享。</string>
+
+    <!-- Create Fragment -->
+    <string name="txtAppNameCreate">创建代码</string>
+    <string name="txtPlaceHolderCreate">您还没有创建任何代码。</string>
+
+    <!-- Crate QR Code Result Fragment -->
+    <string name="txtAppNameCreateQCR">QR码</string>
+    <string name="txtAppNameCreateBCR">条形码</string>
+    <string name="txtBarCode">搜索条形码</string>
+    <string name="txtText">搜索文字</string>
+    <string name="txtCall">拨打电话号码</string>
+    <string name="txtSMS">打开短信作曲家</string>
+    <string name="txtEmail">打开邮件作曲家</string>
+    <string name="txtURL">在谷歌打开uri</string>
+    <string name="txtDirection">显示位置</string>
+    <string name="txtWIFI">复制密码</string>
+    <string name="txtContact">添加新联系人</string>
+    <string name="txtEvent">添加事件</string>
+    <!--<string name="txtFacebook">在脸谱中打开</string>
+    <string name="txtInstagram">在实例中打开</string>
+    <string name="txtWhatsApp">在什么中打开</string>
+    <string name="txtTwitter">在推特中打开</string>
+    <string name="txtLinkedIn">在链接中打开</string>
+    <string name="txtSnapChat">在快照中打开</string>-->
+    <string name="txtFacebook">在中打开 facebook</string>
+    <string name="txtInstagram">在中打开 instagram</string>
+    <string name="txtWhatsApp">在中打开 whatsapp</string>
+    <string name="txtTwitter">在中打开 twitter</string>
+    <string name="txtLinkedIn">在中打开 linkedin</string>
+    <string name="txtSnapChat">在中打开 snapchat</string>
+    <string name="txtMap">显示地图</string>
+    <string name="txtProduct">搜索产品</string>
+    <string name="txtAmazon">搜索亚马逊</string>
+    <string name="txtBook">搜索簿</string>
+    <string name="txtContent">搜索内容</string>
+    <string name="txtConnect">连接</string>
+    <string name="txtMMS">发送彩信</string>
+    <string name="txtShopper">谷歌购物者</string>
+    <string name="txtWalMart">沃尔玛</string>
+    <string name="txtOpen">打开</string>
+    <string name="txtShare">共享</string>
+
+    <!-- History Fragment -->
+    <string name="txtAppNameHistory">历史</string>
+    <string name="txtPlaceHolderHistory">你还没有扫描任何东西。</string>
+    <string name="txtDelete">删除</string>
+
+    <!-- Setting Fragment -->
+    <string name="txtAppNameSetting">设定</string>
+    <string name="txtVibrate">振动</string>
+    <string name="txtVibrateDesc">如果扫描成功则振动。</string>
+    <string name="txtBeep">嘟嘟</string>
+    <string name="txtBeepDesc">如果扫描成功，则 发出 蜂鸣声。</string>
+    <string name="txtTheme">主题</string>
+    <string name="txtThemeDesc">在这里你可以改变应用程序主题。</string>
+    <string name="txtShareApp">在这里您可以查看更多应用</string>
+    <string name="txtLanguage">语言</string>
+    <string name="txtApp">更多的应用程序</string>
+    <string name="txtLanguageDesc">在这里你可以改变应用程序语言。</string>
+    <string name="txtHelp">怎么用？</string>
+    <string name="txtPrivacy">隐私政策</string>
+    <string name="txtRateUs">评价我们</string>
+    <string name="txtMoreApp">更多应用</string>
+
+    <!-- 主题 Activity -->
+    <string name="txtAppNameTheme">主题</string>
+    <!--<string name="colorNameIndigo">Indigo</string>
+    <string name="colorNameRed">Red</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameBlueGray">Blue Gray</string>-->
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNameRed">Red</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+
+    <!-- 语言 Activity -->
+    <string name="txtAppNameLanguage">语言</string>
+
+    <!-- Navigation Bar Menu Name -->
+    <string name="navScan">扫描</string>
+    <string name="navCreate">创建</string>
+    <string name="navHistory">历史</string>
+    <string name="navSetting">设定</string>
+
+    <!-- Create QR Code And Bar Code Section Name -->
+    <string name="qrCodeSection">QR码</string>
+    <string name="barCodeSection">条形码</string>
+
+    <!-- Create QR Code And Bar Code Type Name -->
+    <string name="qrCodeText">文字</string>
+    <string name="qrCodeNumber">数字</string>
+    <string name="qrCodeSms">短信</string>
+    <string name="qrCodeEmail">电子邮件</string>
+    <string name="qrCodeWebSite">网站</string>
+    <string name="qrCodeLocation">位置</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeEvent">事件</string>
+    <!--<string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeSnapChat">Snapchat</string>-->
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeUpca">UPC-A</string>
+
+    <!-- Create QR Code And Bar Code Type App Name -->
+    <string name="txtAppNameText">短信</string>
+    <string name="txtAppNamePhoneNum">电话号码</string>
+    <string name="txtAppNameSms">短信</string>
+    <string name="txtAppNameEmail">电子邮件</string>
+    <string name="txtAppNameWebSite">网站</string>
+    <string name="txtAppNameLocation">位置</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameEvent">事件</string>
+    <!--<string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>-->
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameBarCode">条形码</string>
+
+    <!-- QR Code And Bar Code Name -->
+    <string name="txtProductName">产品</string>
+    <string name="txtTextName">文字</string>
+    <string name="txtPhoneNumName">电话号码</string>
+    <string name="txtSmsName">短信</string>
+    <string name="txtEmailName">电子邮件</string>
+    <string name="txtWebSiteName">网站</string>
+    <string name="txtLocationName">位置</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtEventName">事件</string>
+    <!--<string name="txtFacebookName">Facebook</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtSnapChatName">Snapchat</string>-->
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtUpcaName">UPC-A</string>
+
+    <!-- Create QR Code Type Text View Name -->
+    <string name="txtQrCodeMessageName">输入您的留言</string>
+    <string name="txtQrCodePhoneNumName">输入电话号码</string>
+    <string name="txtQrCodeSmsName">输入您的留言</string>
+    <string name="txtQrCodeEmailIdName">输入电子邮件ID</string>
+    <string name="txtQrCodeSubjectName">输入主题</string>
+    <string name="txtQrCodeBodyName">输入 正文</string>
+    <string name="txtQrCodeWebSiteName">输入网址</string>
+    <string name="txtQrCodeLatitudeName">输入纬度</string>
+    <string name="txtQrCodeLongitudeName">输入经度</string>
+    <string name="txtQrCodeEncryptionName">加密</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeNoEncryptionName">没有加密</string>
+    <string name="txtQrCodeNetworkName">网络</string>
+    <string name="txtQrCodePasswordName">密码</string>
+    <string name="txtQrCodeNameName">输入名称</string>
+    <string name="txtQrCodeCityName">进入城市</string>
+    <string name="txtQrCodeCompanyName">输入公司名称</string>
+    <string name="txtQrCodeTitleName">输入标题</string>
+    <string name="txtQrCodeLocationName">输入位置</string>
+    <string name="txtQrCodeAllDayName">全天</string>
+    <string name="txtQrCodeBeginDateName">开始日期</string>
+    <string name="txtQrCodeEndDateName">结束日期</string>
+    <!--<string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>-->
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeName">QR码</string>
+    <string name="txtBarCodeName">条形码</string>
+
+    <!-- Material Dialog Image -->
+    <string-array name="SelectImage">
+        <item>重 置</item>
+        <item>从库中选择图像</item>
+    </string-array>
+
+    <!-- Material Dialog Delete -->
+    <string name="msgDeleteContent">你确定要清除所有历史吗？</string>
+    <string name="msgYes">是</string>
+    <string name="msgNo">否</string>
+
+    <!-- Material Dialog CSV -->
+    <string name="msgCsvContent">你还没有扫描任何东西。</string>
+    <string name="msgOkay">Okay</string>
+
+    <!-- Qr Code All Message Show -->
+    <string name="msgQrCodeText">请输入短信</string>
+    <string name="msgQrCodePhoneNum">请输入有效的电话号码</string>
+    <string name="msgQrCodeSms">请输入短信</string>
+    <string name="msgQrCodeValidPhoneNum">请输入有效的电话号码</string>
+    <string name="msgQrCodeValidEmail">请输入电子邮件 id</string>
+    <string name="msgQrCodeValidEmailSubject">请输入主题</string>
+    <string name="msgQrCodeValidEmailBody">请输入电子邮件文本</string>
+    <string name="msgQrCodeValidEmailId">请输入有效的电子邮件 id</string>
+    <string name="msgQrCodeWebSite">请输入网址</string>
+    <string name="msgQrCodeValidWebSite">请输入有效的网址</string>
+    <string name="msgQrCodeLatitude">请输入纬度</string>
+    <string name="msgQrCodeLongitude">请输入经度</string>
+    <string name="msgQrCodeWifiName">请输入 wifi 名称</string>
+    <string name="msgQrCodeWifiPass">请输入 wifi 密码</string>
+    <string name="msgQrCodeVcardName">请输入姓名</string>
+    <string name="msgQrCodeVcardCity">请进入城市</string>
+    <string name="msgQrCodeVcardCompanyName">请输入公司名称</string>
+    <string name="msgQrCodeEventTitle">请输入活动标题</string>
+    <string name="msgQrCodeEventLocation">请输入活动地点</string>
+    <string name="msgQrCodeEventBDateAndTime">请选择活动开始日期</string>
+    <string name="msgQrCodeEventEDateAndTime">请选择活动结束日期</string>
+    <!--<string name="msgQrCodeFacebook">请输入 facebook id</string>
+    <string name="msgQrCodeInstagram">请输入</string>
+    <string name="msgQrCodeWhatsApp">请输入什么 sapp id</string>
+    <string name="msgQrCodeTwitter">请输入推特 id</string>
+    <string name="msgQrCodeLinkedIn">请输入在 id 中链接</string>
+    <string name="msgQrCodeSnapChat">请输入快照 id</string>-->
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+
+    <!-- Bar Code All Message Show -->
+    <string name="msgBarCodeEAN13">EAN-13 要求内容为13位数字</string>
+    <string name="msgBarCodeEAN8">EAN-8 要求内容为8位数字</string>
+    <string name="msgBarCodeUpce">UPC-E 要求内容为8位数字</string>
+    <string name="msgBarCodeUpca">UPC-A 要求内容为12位数字</string>
+    <string name="msgBarCodeValid">条形码无效</string>
+    <string name="msgBarCode">请输入条形码内容</string>
+
+    <!-- Toast All Message Show -->
+    <string name="msgNotOpenAction">没有要打开的应用程序</string>
+
+
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="event_msg_okay">Okay</string>
+
+    <string name="inputBarCodeNum">0123456789</string>
+
+    <!-- Create QR And Bar Code Generate Fragment -->
+    <string name="txtAppBarNameQABCodeGenerate">创建</string>
+
+
+    <string name="txtBoldLanguage"><![CDATA[<b>语言 : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>文本 : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>标题 : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>电话号码 : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>数量 : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>主题 : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>消息 : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>自 : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>纬度 : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>经度 : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>网络名称 : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>密码 : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>加密 : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>名字 : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>电子邮件 : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>城市 : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>公司名称 : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>生日 : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>即时通讯 : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>注意 : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>总结 : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>描述 : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>位置 : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>组织者 : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>开始 : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>结束 : </b>]]></string>
+    <string name="txtBoldAttendees"><![CDATA[<b>与会者 : </b>]]></string>
+    <!--<string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>因斯塔格拉姆 : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>什么应用 : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>链接在 : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>斯纳普特聊天 : </b>]]></string>-->
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+
+
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+
+    <!-- Material Dialog No Read Code -->
+    <!--<string name="msgNoReadCodeContent">无法读取 qr 代码</string>-->
+    <string name="msgNoReadCodeContent">无法读取 qrcode/条形码</string>
+    <string name="msgOk">还行</string>
+
+    <!-- Material Dialog Qr code and Bar Code Permission -->
+    <string name="msgPermissionContent">要扫描二维码和条形码, 您需要允许权限</string>
+    <string name="msgPermissionExplainContent">看起来像您拒绝权限, 请允许从设置的权限</string>
+    <string name="msgPermissionOk">还行</string>
+    <string name="msgPermissionCancel">取消</string>
+
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+
+    <!-- Progress Dialog Bar Code Message -->
+    <string name="msgPbBarCode">请稍候</string>
+
+    <string name="txtPermission">点击这里获得许可</string>
+
+    <string name="msgLocation">请输入正确的位置</string>
+    <string name="msgDateAndTime">设置您未来的时间</string>
+
+    <string name="txtPassword">密码 ： </string>
+
+    <string name="txtCode93Name">Code 93</string>
+
+    <string name="txtBarcode">条码 ： </string>
+
+    <!--<string name="msgCode39InValid">Code39Barcode-1: Invalid data.</string>
+    <string name="msgCode39InValidExtended">Code39Barcode-1: Invalid data. (Try using Extended Code39Barcode)</string>-->
+
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">无法确定起始字符。</string>
+    <string name="msgCode128Barcode3">在编码表中找不到值</string>
+    <string name="msgCode128Barcode4">固定类型编码中未知的启动类型。</string>
+    <string name="msgCode128Barcode5">无法插入开始字符和代码字符。 n 留言:</string>
+    <string name="msgCode128Barcode6">找不到 C128 类型中的值 ("+ s1 +") 的编码</string>
+    <string name="msgCode128Barcode7">只能使用 C128-c 对数值进行编码。</string>
+
+    <string name="msgUPCABarcode1">数据长度无效。(长度必须为11或 12)</string>
+    <string name="msgUPCABarcode2">仅数字数据</string>
+    <string name="msgUPCABarcode3">找不到分配制造商代码的国家/地区。</string>
+    <string name="msgUPCABarcode4">计算校验位时出错。</string>
+
+    <string name="msgUPCEBarcode1">无效的数据长度。(仅限8个或12个数字)</string>
+    <string name="msgUPCEBarcode2">仅数字数据</string>
+    <string name="msgUPCEBarcode3">无效的数字系统 (只有 0 &amp; 1 有效)</string>
+    <string name="msgUPCEBarcode4">非法 UPC-A 输入转换。 无法转换。</string>
+
+    <string name="msgQrCodeEventDate">结束日期必须大于开始日期</string>
+
+    <string name="msgQrCodeAllSocial">请提供正确的个人资料详细信息</string>
+    <string name="msgQrCodeSocial">请提供正确的详细信息</string>
+
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtCopyClipboard">复制到剪贴板！</string>
+    <string name="txtNoPassword">这个wifi没有密码</string>
+    <string name="en">en</string>
+    <string name="ar">ar</string>
+    <string name="ca">ca</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="es">es</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string name="tr">tr</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="txtRate">率</string>
+    <string name="txtClose">关</string>
+    <string name="txtRateDescription">如果你喜欢QR Code Scan，请花点时间给应用评分。 感谢您的支持！！！</string>
+</resources>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>אפס</item>
+        <item>בחר תמונה מהגלריה</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ניווט לדף הבית"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ניווט למעלה"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"סיום"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"הצגת הכול"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"בחירת אפליקציה"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"כבוי"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"מופעל"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"מחיקה"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"רווח"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"מחיקת השאילתה"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"שליחת שאילתה"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"שיתוף עם"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"שיתוף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"כיווץ"</string>
+    <string name="appName">סריקת קוד QR</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">ברקוד</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> נתקלה בבעיה בשירותי Google Play. נסה שוב."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">בסדר</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">כדי לסרוק את קוד QR או ברקוד, פשוט הצבע QR או ברקוד אתה רוצה לסרוק את היישום באופן אוטומטי לזהות לזהות אותו.</string>
+    <string name="intro_slide_detail_2">בהתאם לפורמטים של קוד סרוק, קוד QR סורק ינחה לנקוט בפעולה המתאימה.</string>
+    <string name="intro_slide_detail_3">כדי ליצור QR או ברקוד לבחור כל סוג אחד מתוך טקסט, מספר סלולרי, דוא\"ל, SMS, VCard, WiFi, אירוע, אתר אינטרנט, EAN-13, EAN-8, UPC-E, קוד 39, קוד 128, UPC-A</string>
+    <string name="intro_slide_detail_4">מלא פרטים רלוונטיים עבור QR או סוג ברקוד שנבחר, לחץ על לעשות, זה יהיה ליצור QR או ברקוד אשר ניתן לשתף עם פלטפורמות שונות.</string>
+    <string name="intro_slide_title_1">סרוק QR Code או ברקוד</string>
+    <string name="intro_slide_title_2">הצג QR Code או ברקוד</string>
+    <string name="intro_slide_title_3">בחר סוג</string>
+    <string name="intro_slide_title_4">צור QR Code או ברקוד</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"בחירת ימים בחודש בתצוגת רשת"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> נמחק"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"בוצע"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"מחוון שעות מעגלי"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"בחרת <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"מחוון דקות מעגלי"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"בחר חודש ויום"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"בחר שעות"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"בחר דקות"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"בחר שנה"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"רשימת שנים"</string>
+    <string name="msgBarCode">הזן תוכן ברקוד</string>
+    <string name="msgBarCodeEAN13">EAN-13 דורש שהתוכן יהיה 13 ספרות</string>
+    <string name="msgBarCodeEAN8">EAN-8 דורש שהתוכן יהיה 8 ספרות</string>
+    <string name="msgBarCodeUpca">UPC-A דורש שהתוכן יהיה 12 ספרות</string>
+    <string name="msgBarCodeUpce">UPC-E דורש שהתוכן יהיה 8 ספרות</string>
+    <string name="msgBarCodeValid">הברקוד אינו חוקי</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">לא היתה אפשרות לקבוע את תו ההתחלה.</string>
+    <string name="msgCode128Barcode3">לא נמצא ערך בטבלת הקידוד</string>
+    <string name="msgCode128Barcode4">סוג התחלה לא ידוע בקידוד סוג קבוע.</string>
+    <string name="msgCode128Barcode5">לא היתה אפשרות להוסיף תווי התחלה וקוד. n הודעה:</string>
+    <string name="msgCode128Barcode6">לא היתה אפשרות למצוא קידוד של ערך ( "+ s1 + ") בסוג C128 </string>
+    <string name="msgCode128Barcode7">ניתן לקודד רק ערכים מספריים באמצעות C128-C.</string>
+    <string name="msgCsvContent">עדיין לא סרקת שום דבר.</string>
+    <string name="msgDateAndTime">קבע את הזמן העתידי שלך</string>
+    <string name="msgDeleteContent">האם אתה בטוח שברצונך למחוק את כל ההיסטוריה?</string>
+    <string name="msgLocation">נא הזן את מיקומך הנכון</string>
+    <string name="msgNo">לא</string>
+    <string name="msgNoReadCodeContent">לא ניתן לקרוא qrcode / ברקוד</string>
+    <string name="msgNotOpenAction">אין יישום לפתוח</string>
+    <string name="msgOk">אוקיי</string>
+    <string name="msgOkay">בסדר</string>
+    <string name="msgPbBarCode">חכה בבקשה</string>
+    <string name="msgPermissionCancel">בטל</string>
+    <string name="msgPermissionContent">כדי לסרוק קוד QR וברקוד עליך לאפשר הרשאה</string>
+    <string name="msgPermissionExplainContent">נראה כאילו אתה מכחיש את ההרשאה, נא להתיר הרשאה מהגדרות</string>
+    <string name="msgPermissionOk">אוקיי</string>
+    <string name="msgQrCodeAllSocial">נא ספק את פרטי הפרופיל הנכונים</string>
+    <string name="msgQrCodeEventBDateAndTime">נא בחר תאריך התחלת אירוע</string>
+    <string name="msgQrCodeEventDate">על תאריך סיום להיות גדול מתאריך ההתחלה</string>
+    <string name="msgQrCodeEventEDateAndTime">נא בחר תאריך סיום אירוע</string>
+    <string name="msgQrCodeEventLocation">נא הזן מיקום אירוע</string>
+    <string name="msgQrCodeEventTitle">נא הזן כותרת אירוע</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">נא הזן קו רוחב</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">נא הזן קו אורך</string>
+    <string name="msgQrCodePhoneNum">נא הזן מספר טלפון חוקי</string>
+    <string name="msgQrCodeSms">נא להזין הודעת sms</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">נא ספק פרטים נכונים</string>
+    <string name="msgQrCodeText">נא הזן הודעת טקסט</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">אנא הכנס מזהה דוא ל</string>
+    <string name="msgQrCodeValidEmailBody">נא להזין טקסט באימייל</string>
+    <string name="msgQrCodeValidEmailId">נא הזן מזהה דוא ל חוקי</string>
+    <string name="msgQrCodeValidEmailSubject">אנא הכנס נושא</string>
+    <string name="msgQrCodeValidPhoneNum">נא הזן מספר טלפון חוקי</string>
+    <string name="msgQrCodeValidWebSite">אנא הכנס כתובת url חוקית</string>
+    <string name="msgQrCodeVcardCity">נא להיכנס לעיר</string>
+    <string name="msgQrCodeVcardCompanyName">אנא הכנס את שם החברה</string>
+    <string name="msgQrCodeVcardName">אנא הזן שם</string>
+    <string name="msgQrCodeWebSite">אנא הכנס כתובת</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">נא הזן שם wifi</string>
+    <string name="msgQrCodeWifiPass">אנא הזן סיסמה wifi</string>
+    <string name="msgUPCABarcode1">אורך הנתונים אינו חוקי. (אורך חייב להיות 11 או 12)</string>
+    <string name="msgUPCABarcode2">נתונים מספריים בלבד</string>
+    <string name="msgUPCABarcode3">לא נמצאה הקצאת קוד של יצרן מדינה.</string>
+    <string name="msgUPCABarcode4">שגיאה בחישוב ספרת ביקורת.</string>
+    <string name="msgUPCEBarcode1">אורך נתונים לא חוקי. (8 או 12 מספרים בלבד)</string>
+    <string name="msgUPCEBarcode2">נתונים מספריים בלבד</string>
+    <string name="msgUPCEBarcode3">מערכת מספרים לא חוקית (רק 0 &amp; 1 חוקיים)</string>
+    <string name="msgUPCEBarcode4">UPC-A לא חוקי הוזן להמרה.  אין אפשרות להמיר.</string>
+    <string name="msgYes">כן</string>
+    <string name="navCreate">צור</string>
+    <string name="navHistory">היסטוריה</string>
+    <string name="navScan">סריקה</string>
+    <string name="navSetting">הגדרה</string>
+    <string name="qrCodeEmail">דוא\"ל"</string>
+    <string name="qrCodeEvent">אירוע</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">מיקום</string>
+    <string name="qrCodeNumber">מספר</string>
+    <string name="qrCodeSection">קוד QR</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">טקסט</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">אתר</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"חיפוש"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">חיפוש אמזון</string>
+    <string name="txtApp">עוד אפליקציות</string>
+    <string name="txtAppBarNameQABCodeGenerate">לִברוֹא</string>
+    <string name="txtAppNameBarCode">ברקוד</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">קודים שנוצרו</string>
+    <string name="txtAppNameCreateBCR">ברקוד</string>
+    <string name="txtAppNameCreateQCR">קוד QR</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">דוא\"ל"</string>
+    <string name="txtAppNameEvent">אירוע</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">היסטוריה</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">שפה</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">מיקום</string>
+    <string name="txtAppNamePhoneNum">מספר טלפון</string>
+    <string name="txtAppNameSetting">הגדרה</string>
+    <string name="txtAppNameSms">הודעת טקסט</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">הודעת טקסט</string>
+    <string name="txtAppNameTheme">תֵמָה</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">אתר</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">ברקוד חיפוש</string>
+    <string name="txtBarCodeName">ברקוד</string>
+    <string name="txtBarcode">ברקוד : </string>
+    <string name="txtBeep">צפצוף</string>
+    <string name="txtBeepDesc">צפצף אם הסריקה מוצלחת.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>משתתפים : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>יום הולדת : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>עיר : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>שם החברה : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>תיאור : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>דוא"ל : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>הצפנה : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>סוף : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>מסנג \'ר מיידי : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>שפה : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>קו רוחב : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>מיקום : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>קו האורך : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>ודעה : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>שם : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>שם רשת : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>הערה : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>ספר : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>ארגונית : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>סיסמה : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>מספר טלפון : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>התחל : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>נושא : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>סיכום : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>טקסט : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>כותרת : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>ל : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>URL : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">ספר חיפוש</string>
+    <string name="txtCall">מספר טלפון להתקשרות</string>
+    <string name="txtClose">סגור</string>
+    <string name="txtCode128Name">Code 128</string>
+    <string name="txtCode39Name">Code 39</string>
+    <string name="txtCode93Name">Code 39</string>
+    <string name="txtConnect">התחבר</string>
+    <string name="txtContact">הוסף איש קשר חדש</string>
+    <string name="txtContent">חפש תוכן</string>
+    <string name="txtCopyClipboard">הועתק ללוח!</string>
+    <string name="txtDelete">מחק</string>
+    <string name="txtDirection">הצג מיקום</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">מלחין דואר פתוח</string>
+    <string name="txtEmailName">דוא\"ל"</string>
+    <string name="txtEvent">הוסף אירוע</string>
+    <string name="txtEventName">אירוע</string>
+    <string name="txtFacebook">להיפתח ב facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">כיצד להשתמש?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">להיפתח ב instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">שפה</string>
+    <string name="txtLanguageDesc">כאן באפשרותך לשנות את שפת היישום.</string>
+    <string name="txtLinkedIn">להיפתח ב linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">מיקום</string>
+    <string name="txtMMS">שלח MMS</string>
+    <string name="txtMap">הצג את כל המפות</string>
+    <string name="txtMoreApp">עוד יישומים</string>
+    <string name="txtNoPassword">אין סיסמה עבור WiFi זה</string>
+    <string name="txtOpen">פתוח</string>
+    <string name="txtPassword">סיסמה : </string>
+    <string name="txtPermission">לחץ כאן כדי לתת הרשאה</string>
+    <string name="txtPhoneNumName">מספר טלפון</string>
+    <string name="txtPlaceHolderCreate">עדיין לא יצרתם קודים.</string>
+    <string name="txtPlaceHolderHistory">עדיין לא סרקת שום דבר.</string>
+    <string name="txtPrivacy">מדיניות פרטיות</string>
+    <string name="txtProduct">חיפוש מוצר</string>
+    <string name="txtProductName">מוצר</string>
+    <string name="txtQrCodeAllDayName">כל היום</string>
+    <string name="txtQrCodeBeginDateName">תאריך התחלה</string>
+    <string name="txtQrCodeBodyName">הזן גוף</string>
+    <string name="txtQrCodeCityName">להיכנס לעיר</string>
+    <string name="txtQrCodeCompanyName">הכנס שם חברה</string>
+    <string name="txtQrCodeEmailIdName">הזן מזהה דוא\"ל"</string>
+    <string name="txtQrCodeEncryptionName">הצפנה</string>
+    <string name="txtQrCodeEndDateName">תאריך סיום</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">הזן קו רוחב</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">הזן מיקום</string>
+    <string name="txtQrCodeLongitudeName">הזן קו אורך</string>
+    <string name="txtQrCodeMessageName">הזן את ההודעה שלך</string>
+    <string name="txtQrCodeName">קוד QR</string>
+    <string name="txtQrCodeNameName">הזן שם</string>
+    <string name="txtQrCodeNetworkName">רשת</string>
+    <string name="txtQrCodeNoEncryptionName">אין הצפנה</string>
+    <string name="txtQrCodePasswordName">סיסמה</string>
+    <string name="txtQrCodePhoneNumName">הזן מספר טלפון</string>
+    <string name="txtQrCodeSmsName">הזן את ההודעה שלך</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">הזן נושא</string>
+    <string name="txtQrCodeTitleName">הזן כותרת</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">הזן כתובת URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">ציון</string>
+    <string name="txtRateDescription">אם אתה אוהב QR Code סריקה אז, אנא הקדש רגע כדי לדרג את היישום. תודה על תמיכתך!!!</string>
+    <string name="txtRateUs">דרג אותנו</string>
+    <string name="txtSMS">פתח את מלחין ה- SMS</string>
+    <string name="txtShare">שתף</string>
+    <string name="txtShareApp">כאן תוכלו לבדוק אפליקציות נוספות</string>
+    <string name="txtShopper">הקונה של Google</string>
+    <string name="txtSkip">דלג על</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">להיפתח ב snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">התחיל</string>
+    <string name="txtText">טקסט לחיפוש</string>
+    <string name="txtTextName">טקסט</string>
+    <string name="txtTheme">נושא</string>
+    <string name="txtThemeDesc">כאן אתה יכול לשנות את נושא היישום.</string>
+    <string name="txtTwitter">להיפתח ב twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">פתח uri ב- google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">רטט</string>
+    <string name="txtVibrateDesc">רטט אם הסריקה בוצעה בהצלחה.</string>
+    <string name="txtWIFI">העתק סיסמה</string>
+    <string name="txtWalMart">וולמארט</string>
+    <string name="txtWebSiteName">אתר</string>
+    <string name="txtWhatsApp">להיפתח ב whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">סורק ברקודים</string>
+    <string name="zxing_button_ok">אישור</string>
+    <string name="zxing_msg_camera_framework_bug">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
+    <string name="zxing_msg_default_status">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+</resources>

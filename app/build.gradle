@@ -1,0 +1,94 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.firebase.crashlytics'
+
+def dbflow_version = "4.2.4"
+
+def getGitHashTag() {
+    def stdout = new ByteArrayOutputStream()
+//    exec {
+//        commandLine 'git', 'rev-parse', '--short=2', 'HEAD'
+//        standardOutput = stdout
+//    }
+//    exec {
+//        workingDir '../path/to/git/bin'
+//        commandLine 'cmd', '/c', 'git', 'rev-parse', '--short=2', 'HEAD'
+//    }
+    return stdout.toString().trim()
+}
+
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "com.simprosys.scan.qrcode.barcode.reader"
+        minSdkVersion 17
+        targetSdkVersion 29
+        versionCode 4
+        versionName "1.1.${versionCode}.${getGitHashTag()}"
+        archivesBaseName = "qr-code-v${versionName}"
+        resConfigs "en", "ar", "ca", "da", "de", "el", "es", "fr", "hi", "in", "it", "iw", "ja", "ro", "ru", "tr", "vi", "zh-rCN", "zh-rTW"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+    signingConfigs {
+        release {
+            storeFile file("key.keystore")
+            storePassword "android"
+            keyAlias "key"
+            keyPassword "android"
+        }
+    }
+    buildTypes {
+        debug {
+            debuggable true
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+        release {
+            debuggable false
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    implementation 'com.google.firebase:firebase-analytics:18.0.0'
+    implementation 'com.google.firebase:firebase-crashlytics:17.3.0'
+
+    implementation 'com.jakewharton:butterknife:10.1.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
+
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    annotationProcessor "com.github.Raizlabs.DBFlow:dbflow-processor:${dbflow_version}"
+    implementation "com.github.Raizlabs.DBFlow:dbflow-core:${dbflow_version}"
+    implementation "com.github.Raizlabs.DBFlow:dbflow:${dbflow_version}"
+
+    implementation 'com.afollestad.material-dialogs:core:0.9.6.0'
+    implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0'
+    implementation 'com.github.ittianyu:BottomNavigationViewEx:2.0.4'
+
+    implementation 'com.itextpdf:itextpdf:5.5.13'
+    implementation 'com.loopeer.lib:shadow:0.0.4-beta3'
+    implementation 'com.wdullaer:materialdatetimepicker:2.3.0'
+    implementation 'com.github.Kunzisoft:Android-SwitchDateTimePicker:2.0'
+    implementation 'com.google.zxing:core:3.3.3'
+    implementation 'com.journeyapps:zxing-android-embedded:3.3.0@aar'
+    implementation 'com.android.volley:volley:1.1.1'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+}
+
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,260 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmWifi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WifiFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/appBarLayout"
+            layout="@layout/app_bar_qr_code_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/appBarLayout"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/mar_5"
+                    android:descendantFocusability="beforeDescendants"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtEncryption"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeEncryptionName"
+                            android:textAllCaps="true"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <RadioGroup
+                            android:id="@+id/rgToggle"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/radio_group_height"
+                            android:background="@drawable/control_switch_background_border"
+                            android:checkedButton="@+id/rbWpaWpa2"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:id="@+id/rbWpaWpa2"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_weight="1"
+                                android:background="?attr/colorPrimary"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:paddingBottom="@dimen/pad_5"
+                                android:paddingTop="@dimen/pad_5"
+                                android:text="@string/txtQrCodeWpaWpa2Name"
+                                android:textAllCaps="true"
+                                android:textColor="@color/control_switch_color_selector" />
+
+                            <View
+                                android:id="@+id/viewLeft"
+                                android:layout_width="2dp"
+                                android:layout_height="match_parent"
+                                android:background="?attr/colorPrimary"
+                                android:visibility="gone" />
+
+                            <!--android:background="@drawable/control_switch_background_selector_left"-->
+
+                            <RadioButton
+                                android:id="@+id/rbWep"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_weight="1"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:paddingBottom="@dimen/pad_5"
+                                android:paddingTop="@dimen/pad_5"
+                                android:text="@string/txtQrCodeWepName"
+                                android:textAllCaps="true"
+                                android:textColor="@color/control_switch_color_selector" />
+
+                            <View
+                                android:id="@+id/viewRight"
+                                android:layout_width="2dp"
+                                android:layout_height="match_parent"
+                                android:background="?attr/colorPrimary" />
+
+                            <!--android:background="@drawable/control_switch_background_selector_middle"-->
+
+                            <RadioButton
+                                android:id="@+id/rbNoEncryption"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="1dp"
+                                android:layout_marginEnd="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_weight="1"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:paddingBottom="@dimen/pad_5"
+                                android:paddingTop="@dimen/pad_5"
+                                android:text="@string/txtQrCodeNoEncryptionName"
+                                android:textColor="@color/control_switch_color_selector"
+                                tools:ignore="RtlHardcoded" />
+
+                            <!--android:background="@drawable/control_switch_background_selector_right"-->
+
+                        </RadioGroup>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="@dimen/mar_5"
+                        android:descendantFocusability="beforeDescendants"
+                        android:focusableInTouchMode="true"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/ley_height"
+                            android:layout_marginStart="@dimen/mar_5"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/txtNetwork"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="@string/txtQrCodeNetworkName"
+                                android:textColor="@color/txtColorBlack" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/mar_5"
+                            android:orientation="vertical">
+
+                            <com.loopeer.shadow.ShadowView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:foreground="?attr/selectableItemBackground"
+                                app:cornerRadius="@dimen/sd_corner_radius"
+                                app:shadowMargin="@dimen/sd_shadow_mar"
+                                app:shadowRadius="@dimen/sd_shadow_radius">
+
+                                <EditText
+                                    android:gravity="start"
+                                    android:id="@+id/edtNetwork"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@null"
+                                    android:focusable="true"
+                                    android:imeOptions="actionNext"
+                                    android:inputType="text"
+                                    android:padding="@dimen/pad_15"
+                                    android:singleLine="true"
+                                    android:textAlignment="viewStart"
+                                    android:textColor="@color/edtColorBlack"
+                                    android:textSize="@dimen/txt_size_15"
+                                    tools:ignore="RtlHardcoded" />
+
+                            </com.loopeer.shadow.ShadowView>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/ley_height"
+                            android:layout_marginStart="@dimen/mar_5"
+                            android:layout_marginTop="@dimen/mar_5"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/txtPassword"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="@string/txtQrCodePasswordName"
+                                android:textColor="@color/txtColorBlack" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/mar_5"
+                            android:orientation="vertical">
+
+                            <com.loopeer.shadow.ShadowView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:foreground="?attr/selectableItemBackground"
+                                app:cornerRadius="@dimen/sd_corner_radius"
+                                app:shadowMargin="@dimen/sd_shadow_mar"
+                                app:shadowRadius="@dimen/sd_shadow_radius">
+
+                                <EditText
+                                    android:gravity="start"
+                                    android:id="@+id/edtPassword"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@null"
+                                    android:focusable="true"
+                                    android:imeOptions="actionDone"
+                                    android:inputType="textPassword"
+                                    android:padding="@dimen/pad_15"
+                                    android:singleLine="true"
+                                    android:textAlignment="viewStart"
+                                    android:textColor="@color/edtColorBlack"
+                                    android:textSize="@dimen/txt_size_15" />
+
+                            </com.loopeer.shadow.ShadowView>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</FrameLayout>

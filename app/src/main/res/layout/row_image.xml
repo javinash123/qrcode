@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/leyImage"
+    android:layout_width="@dimen/img_icon_width"
+    android:layout_height="@dimen/img_icon_height"
+    android:layout_marginEnd="@dimen/mar_5"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgThumb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/qr_thumb_1" />
+
+</LinearLayout>

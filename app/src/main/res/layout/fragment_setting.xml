@@ -1,0 +1,448 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmSetting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/frmBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.SettingFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/frmToolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <include
+                android:id="@+id/appBarLayout"
+                layout="@layout/app_bar_layout_default"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </FrameLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/mar_48"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:ignore="ScrollViewSize">
+
+                <LinearLayout
+                    android:id="@+id/leySetting"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgVibrate"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_vibrate" />
+
+                        <TextView
+                            android:id="@+id/txtVibrate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtVibrate"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                        <com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton
+                            android:id="@+id/sbVibrate"
+                            android:layout_width="@dimen/switch_button_width"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="@dimen/mar_10"
+                            app:sb_checked_color="?attr/colorPrimary"
+                            app:sb_show_indicator="false" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/rowBgColorGray"
+                        android:padding="@dimen/pad_15">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/mar_5"
+                            android:text="@string/txtVibrateDesc"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/txtColorGray"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgBeep"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_beep" />
+
+                        <TextView
+                            android:id="@+id/txtBeep"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtBeep"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                        <com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton
+                            android:id="@+id/sbBeep"
+                            android:layout_width="@dimen/switch_button_width"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="@dimen/mar_10"
+                            app:sb_checked_color="?attr/colorPrimary"
+                            app:sb_show_indicator="false" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/rowBgColorGray"
+                        android:padding="@dimen/pad_15">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/mar_5"
+                            android:text="@string/txtBeepDesc"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/txtColorGray"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relTheme"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgTheme"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_theme" />
+
+                        <TextView
+                            android:id="@+id/txtTheme"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtTheme"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/rowBgColorGray"
+                        android:padding="@dimen/pad_15">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/pad_5"
+                            android:text="@string/txtThemeDesc"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/txtColorGray"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relLanguage"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgLanguage"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_language" />
+
+                        <TextView
+                            android:id="@+id/txtLanguage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtLanguage"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/rowBgColorGray"
+                        android:padding="@dimen/pad_15">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/pad_5"
+                            android:text="@string/txtThemeDesc"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/txtColorGray"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relApps"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgApp"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_more_apps" />
+
+                        <TextView
+                            android:id="@+id/txtApp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtMoreApp"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/rowBgColorGray"
+                        android:padding="@dimen/pad_15">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/mar_5"
+                            android:text="@string/txtShareApp"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/txtColorGray"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relHelp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgHelp"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            android:src="@mipmap/ic_help" />
+
+                        <TextView
+                            android:id="@+id/txtHelp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtHelp"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginEnd="@dimen/mar_15"
+                        android:layout_marginStart="@dimen/mar_15"
+                        android:background="@color/rowDividerColorGray" />
+
+                    <RelativeLayout
+                        android:id="@+id/relPrivacy"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/mar_5">
+
+                        <ImageView
+                            android:id="@+id/imgPrivacy"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_privacy" />
+
+                        <TextView
+                            android:id="@+id/txtPrivacy"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtPrivacy"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginEnd="@dimen/mar_15"
+                        android:layout_marginStart="@dimen/mar_15"
+                        android:background="@color/rowDividerColorGray" />
+
+                    <RelativeLayout
+                        android:id="@+id/relRateUs"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgRateUs"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            app:srcCompat="@drawable/ic_rate" />
+
+                        <TextView
+                            android:id="@+id/txtRateUs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtRateUs"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginEnd="@dimen/mar_15"
+                        android:layout_marginStart="@dimen/mar_15"
+                        android:background="@color/rowDividerColorGray" />
+
+                    <!--
+                    <RelativeLayout
+                        android:id="@+id/relMoreApp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:padding="@dimen/pad_5">
+
+                        <ImageView
+                            android:id="@+id/imgMoreApp"
+                            android:layout_width="@dimen/img_icon_width"
+                            android:layout_height="@dimen/img_icon_height"
+                            android:layout_marginBottom="@dimen/mar_5"
+                            android:layout_marginStart="@dimen/mar_10"
+                            android:layout_marginTop="@dimen/mar_5"
+                            android:src="@drawable/ic_more_apps" />
+
+                        <TextView
+                            android:id="@+id/txtMoreApp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="@dimen/mar_60"
+                            android:text="@string/txtMoreApp"
+                            android:textColor="@color/txtColorBlack"
+                            android:textSize="@dimen/txt_size_16" />
+
+                    </RelativeLayout>
+                    -->
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</FrameLayout>

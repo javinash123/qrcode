@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ln">
+        <item>@string/en</item>
+        <item>@string/ar</item>
+        <item>@string/ca</item>
+        <item>@string/da</item>
+        <item>@string/de</item>
+        <item>@string/el</item>
+        <item>@string/es</item>
+        <item>@string/fr</item>
+        <item>@string/hi</item>
+        <item>@string/in</item>
+        <item>@string/it</item>
+        <item>@string/iw</item>
+        <item>@string/ja</item>
+        <item>@string/ro</item>
+        <item>@string/ru</item>
+        <item>@string/tr</item>
+        <item>@string/vi</item>
+        <item>@string/zh_rCN</item>
+        <item>@string/zh_rTW</item>
+
+    </string-array>
+
+
+
+</resources>

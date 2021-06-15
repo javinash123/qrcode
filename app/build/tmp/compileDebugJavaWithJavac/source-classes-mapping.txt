@@ -1,0 +1,371 @@
+com/simprosys/scan/qrcode/barcode/reader/utility/TitleExtractor.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.TitleExtractor
+ com.simprosys.scan.qrcode.barcode.reader.utility.TitleExtractor$1
+ com.simprosys.scan.qrcode.barcode.reader.utility.TitleExtractor$ContentType
+com/simprosys/scan/qrcode/barcode/reader/fragment/QRAndBarCodeGenerateFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.QRAndBarCodeGenerateFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.QRAndBarCodeGenerateFragment$1
+com/simprosys/scan/qrcode/barcode/reader/view/rounderImage/RoundedImageView.java
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.RoundedImageView
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.RoundedImageView$1
+com/viewpagerindicator/TitlePageIndicator.java
+ com.viewpagerindicator.TitlePageIndicator
+ com.viewpagerindicator.TitlePageIndicator$1
+ com.viewpagerindicator.TitlePageIndicator$IndicatorStyle
+ com.viewpagerindicator.TitlePageIndicator$LinePosition
+ com.viewpagerindicator.TitlePageIndicator$OnCenterItemClickListener
+ com.viewpagerindicator.TitlePageIndicator$SavedState
+ com.viewpagerindicator.TitlePageIndicator$SavedState$1
+com/viewpagerindicator/PageIndicator.java
+ com.viewpagerindicator.PageIndicator
+com/simprosys/scan/qrcode/barcode/reader/fragment/CreateQRCodeFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$DeleteAsyncTask
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$DeleteThread
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$LoadHistory
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$LoadHistory$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$LoadHistory$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$LoadHistory$3
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$LoadHistory$4
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$SelectedDeleteAsyncTask
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeFragment$SelectedDeleteThread
+com/simprosys/scan/qrcode/barcode/reader/database/QRAndBarCodeDataBase.java
+ com.simprosys.scan.qrcode.barcode.reader.database.QRAndBarCodeDataBase
+com/simprosys/scan/qrcode/barcode/reader/database/table/CreateQRCodeTable.java
+ com.simprosys.scan.qrcode.barcode.reader.database.table.CreateQRCodeTable
+com/simprosys/scan/qrcode/barcode/reader/adapter/SectionedGridRecyclerViewAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter$2
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter$3
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter$Section
+ com.simprosys.scan.qrcode.barcode.reader.adapter.SectionedGridRecyclerViewAdapter$SectionViewHolder
+com/simprosys/scan/qrcode/barcode/reader/view/rounderImage/Corner.java
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.Corner
+com/simprosys/scan/qrcode/barcode/reader/activity/SplashScreenActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.SplashScreenActivity
+ com.simprosys.scan.qrcode.barcode.reader.activity.SplashScreenActivity$1
+com/simprosys/scan/qrcode/barcode/reader/model/Theme.java
+ com.simprosys.scan.qrcode.barcode.reader.model.Theme
+com/simprosys/scan/qrcode/barcode/reader/utility/CsvFileWriter.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.CsvFileWriter
+com/simprosys/scan/qrcode/barcode/reader/model/Language.java
+ com.simprosys.scan.qrcode.barcode.reader.model.Language
+com/simprosys/scan/qrcode/barcode/reader/utility/LanguageHelper.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.LanguageHelper
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/EAN8Fragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.EAN8Fragment
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/UPCABarcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.UPCABarcode
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/Code39Fragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.Code39Fragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.Code39Fragment$1
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/WhatsAppFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WhatsAppFragment
+com/simprosys/scan/qrcode/barcode/reader/utility/CodeUtils.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.CodeUtils
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/WifiFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WifiFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WifiFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WifiFragment$2
+com/simprosys/scan/qrcode/barcode/reader/utility/CompressImageHelper.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.CompressImageHelper
+com/simprosys/scan/qrcode/barcode/reader/adapter/QRAndBarCodeAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$2
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$3
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$OnDeleteClickListener
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$OnDeleteSwipeLayoutListener
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$OnItemClickListener
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeAdapter$QRAndBarCodeViewHolder
+com/simprosys/scan/qrcode/barcode/reader/utility/Utility.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.Utility
+ com.simprosys.scan.qrcode.barcode.reader.utility.Utility$1
+ com.simprosys.scan.qrcode.barcode.reader.utility.Utility$2
+ com.simprosys.scan.qrcode.barcode.reader.utility.Utility$3
+com/viewpagerindicator/CirclePageIndicator.java
+ com.viewpagerindicator.CirclePageIndicator
+ com.viewpagerindicator.CirclePageIndicator$1
+ com.viewpagerindicator.CirclePageIndicator$SavedState
+ com.viewpagerindicator.CirclePageIndicator$SavedState$1
+com/simprosys/scan/qrcode/barcode/reader/fragment/CreateQRCodeResultFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$3
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$4
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$5
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$6
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$7
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$BarCodeBitmapThread
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$LoadQRBitmap
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$LoadQRBitmap$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$generateBarcodeEncoder
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$generateBarcodeEncoder$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$generateQrcode
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$generateQrcode$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.CreateQRCodeResultFragment$qrCodeBitmapThread
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/LinkedInFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.LinkedInFragment
+com/simprosys/scan/qrcode/barcode/reader/adapter/AppsAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.AppsAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.AppsAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.AppsAdapter$MyViewHolder
+com/simprosys/scan/qrcode/barcode/reader/utility/DatabaseHelper.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.DatabaseHelper
+ com.simprosys.scan.qrcode.barcode.reader.utility.DatabaseHelper$Database
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/PhoneNumberFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.PhoneNumberFragment
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/EAN13Fragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.EAN13Fragment
+barcodescanner/core/BarcodeScannerView.java
+ barcodescanner.core.BarcodeScannerView
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/AppsBean.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.AppsBean
+com/simprosys/scan/qrcode/barcode/reader/activity/BaseActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.BaseActivity
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/barcode/BarcodeCommon.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.barcode.BarcodeCommon
+com/simprosys/scan/qrcode/barcode/reader/model/QRGenerateItem.java
+ com.simprosys.scan.qrcode.barcode.reader.model.QRGenerateItem
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/VCardFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.VCardFragment
+barcodescanner/core/BarcodeFormat.java
+ barcodescanner.core.BarcodeFormat
+com/simprosys/scan/qrcode/barcode/reader/adapter/ImageAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ImageAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ImageAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ImageAdapter$ImageViewHolder
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ImageAdapter$OnItemClickListener
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/SnapChatFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.SnapChatFragment
+barcodescanner/core/IViewFinder.java
+ barcodescanner.core.IViewFinder
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/Code128Barcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.Code128Barcode
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.Code128Barcode$1
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.Code128Barcode$Entry
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.Code128Barcode$TYPES
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/Code39Barcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.Code39Barcode
+com/simprosys/scan/qrcode/barcode/reader/intro/IntroFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroFragment
+com/simprosys/scan/qrcode/barcode/reader/utility/Constant.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.Constant
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/TextFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.TextFragment
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/TwitterFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.TwitterFragment
+com/viewpagerindicator/UnderlinePageIndicator.java
+ com.viewpagerindicator.UnderlinePageIndicator
+ com.viewpagerindicator.UnderlinePageIndicator$1
+ com.viewpagerindicator.UnderlinePageIndicator$2
+ com.viewpagerindicator.UnderlinePageIndicator$SavedState
+ com.viewpagerindicator.UnderlinePageIndicator$SavedState$1
+com/simprosys/scan/qrcode/barcode/reader/fragment/ScannerFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$3
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$4
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$5
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$6
+ com.simprosys.scan.qrcode.barcode.reader.fragment.ScannerFragment$7
+com/simprosys/scan/qrcode/barcode/reader/intro/IntroActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity$1
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity$2
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity$IntroPagerAdapter
+ com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity$UpdateOldDatabase
+com/simprosys/scan/qrcode/barcode/reader/activity/BarcodeView.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.BarcodeView
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/EmailFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.EmailFragment
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/EAN13Barcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.EAN13Barcode
+com/simprosys/scan/qrcode/barcode/reader/view/ShadowLayout.java
+ com.simprosys.scan.qrcode.barcode.reader.view.ShadowLayout
+com/simprosys/scan/qrcode/barcode/reader/view/FragNavTransactionOptions.java
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavTransactionOptions
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavTransactionOptions$1
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavTransactionOptions$Builder
+com/simprosys/scan/qrcode/barcode/reader/appConfiguration/AppController.java
+ com.simprosys.scan.qrcode.barcode.reader.appConfiguration.AppController
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/WebSiteFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.WebSiteFragment
+com/simprosys/scan/qrcode/barcode/reader/adapter/LanguageSelectionAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.LanguageSelectionAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.LanguageSelectionAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.LanguageSelectionAdapter$LanguageSelectionViewHolder
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/UPCAFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.UPCAFragment
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/SMSFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.SMSFragment
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/LocationFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.LocationFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.LocationFragment$1
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/UPCEFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.UPCEFragment
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/EventFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.EventFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.EventFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.EventFragment$2
+com/simprosys/scan/qrcode/barcode/reader/model/QRAndBarCode.java
+ com.simprosys.scan.qrcode.barcode.reader.model.QRAndBarCode
+com/simprosys/scan/qrcode/barcode/reader/model/ImageItem.java
+ com.simprosys.scan.qrcode.barcode.reader.model.ImageItem
+com/simprosys/scan/qrcode/barcode/reader/view/CustomViewPager.java
+ com.simprosys.scan.qrcode.barcode.reader.view.CustomViewPager
+com/simprosys/scan/qrcode/barcode/reader/utility/ThemeUtil.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.ThemeUtil
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/FaceBookFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.FaceBookFragment
+com/simprosys/scan/qrcode/barcode/reader/activity/LanguageActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.LanguageActivity
+ com.simprosys.scan.qrcode.barcode.reader.activity.LanguageActivity$1
+com/viewpagerindicator/IconPagerAdapter.java
+ com.viewpagerindicator.IconPagerAdapter
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/barCodeFragment/Code128Fragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.barCodeFragment.Code128Fragment
+com/simprosys/scan/qrcode/barcode/reader/view/CircleImageView.java
+ com.simprosys.scan.qrcode.barcode.reader.view.CircleImageView
+ com.simprosys.scan.qrcode.barcode.reader.view.CircleImageView$1
+ com.simprosys.scan.qrcode.barcode.reader.view.CircleImageView$OutlineProvider
+com/simprosys/scan/qrcode/barcode/reader/activity/HomeActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity$1
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity$2
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity$3
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity$4
+ com.simprosys.scan.qrcode.barcode.reader.activity.HomeActivity$5
+com/simprosys/scan/qrcode/barcode/reader/adapter/ThemeAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ThemeAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ThemeAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ThemeAdapter$OnItemClickListener
+ com.simprosys.scan.qrcode.barcode.reader.adapter.ThemeAdapter$ThemeViewHolder
+barcodescanner/core/ViewFinderView.java
+ barcodescanner.core.ViewFinderView
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/barcode/IBarcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.barcode.IBarcode
+barcodescanner/core/CameraUtils.java
+ barcodescanner.core.CameraUtils
+com/simprosys/scan/qrcode/barcode/reader/utility/RecyclerItemClickListener.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.RecyclerItemClickListener
+ com.simprosys.scan.qrcode.barcode.reader.utility.RecyclerItemClickListener$1
+ com.simprosys.scan.qrcode.barcode.reader.utility.RecyclerItemClickListener$OnItemClickListener
+barcodescanner/core/CameraPreview.java
+ barcodescanner.core.CameraPreview
+ barcodescanner.core.CameraPreview$1
+ barcodescanner.core.CameraPreview$2
+com/viewpagerindicator/IconPageIndicator.java
+ com.viewpagerindicator.IconPageIndicator
+ com.viewpagerindicator.IconPageIndicator$1
+barcodescanner/core/ZXingScannerView.java
+ barcodescanner.core.ZXingScannerView
+ barcodescanner.core.ZXingScannerView$1
+ barcodescanner.core.ZXingScannerView$ResultHandler
+com/simprosys/scan/qrcode/barcode/reader/view/SwitchButton.java
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton$1
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton$2
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton$3
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton$OnCheckedChangeListener
+ com.simprosys.scan.qrcode.barcode.reader.view.SwitchButton$ViewState
+com/simprosys/scan/qrcode/barcode/reader/database/table/HistoryTable.java
+ com.simprosys.scan.qrcode.barcode.reader.database.table.HistoryTable
+com/simprosys/scan/qrcode/barcode/reader/fragment/HistoryFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$3
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$4
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$5
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$CSVFileAsyncTask
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$CSVFileThread
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$DeleteAsyncTask
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$DeleteAsyncTask2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$DeleteThread
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$DeleteThread2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$LoadHistory
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$LoadHistory$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$LoadHistory$2
+ com.simprosys.scan.qrcode.barcode.reader.fragment.HistoryFragment$LoadHistory$3
+com/simprosys/scan/qrcode/barcode/reader/view/FragNavController.java
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$1
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$Builder
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$RootFragmentListener
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$TabIndex
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$TransactionListener
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$TransactionType
+ com.simprosys.scan.qrcode.barcode.reader.view.FragNavController$Transit
+com/simprosys/scan/qrcode/barcode/reader/database/query/Query.java
+ com.simprosys.scan.qrcode.barcode.reader.database.query.Query
+com/simprosys/scan/qrcode/barcode/reader/activity/ThemeActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.activity.ThemeActivity
+ com.simprosys.scan.qrcode.barcode.reader.activity.ThemeActivity$1
+com/simprosys/scan/qrcode/barcode/reader/view/SwipeLayout.java
+ com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout
+ com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout$1
+ com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout$2
+ com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout$3
+ com.simprosys.scan.qrcode.barcode.reader.view.SwipeLayout$SwipeActionsListener
+com/simprosys/scan/qrcode/barcode/reader/utility/URLSpanNoUnderline.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.URLSpanNoUnderline
+barcodescanner/core/CameraWrapper.java
+ barcodescanner.core.CameraWrapper
+com/viewpagerindicator/TabPageIndicator.java
+ com.viewpagerindicator.TabPageIndicator
+ com.viewpagerindicator.TabPageIndicator$1
+ com.viewpagerindicator.TabPageIndicator$2
+ com.viewpagerindicator.TabPageIndicator$OnTabReselectedListener
+ com.viewpagerindicator.TabPageIndicator$TabView
+com/simprosys/scan/qrcode/barcode/reader/fragment/createQRCodeFragment/qrCodeFragment/InstagramFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.InstagramFragment
+com/simprosys/scan/qrcode/barcode/reader/view/rounderImage/RoundedDrawable.java
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.RoundedDrawable
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.RoundedDrawable$1
+com/viewpagerindicator/IcsLinearLayout.java
+ com.viewpagerindicator.IcsLinearLayout
+com/simprosys/scan/qrcode/barcode/reader/view/FragmentHistory.java
+ com.simprosys.scan.qrcode.barcode.reader.view.FragmentHistory
+com/simprosys/scan/qrcode/barcode/reader/AppsActivity.java
+ com.simprosys.scan.qrcode.barcode.reader.AppsActivity
+ com.simprosys.scan.qrcode.barcode.reader.AppsActivity$1
+ com.simprosys.scan.qrcode.barcode.reader.AppsActivity$2
+ com.simprosys.scan.qrcode.barcode.reader.AppsActivity$3
+ com.simprosys.scan.qrcode.barcode.reader.AppsActivity$4
+barcodescanner/core/CameraHandlerThread.java
+ barcodescanner.core.CameraHandlerThread
+ barcodescanner.core.CameraHandlerThread$1
+ barcodescanner.core.CameraHandlerThread$1$1
+com/viewpagerindicator/LinePageIndicator.java
+ com.viewpagerindicator.LinePageIndicator
+ com.viewpagerindicator.LinePageIndicator$1
+ com.viewpagerindicator.LinePageIndicator$SavedState
+ com.viewpagerindicator.LinePageIndicator$SavedState$1
+barcodescanner/core/DisplayUtils.java
+ barcodescanner.core.DisplayUtils
+com/simprosys/scan/qrcode/barcode/reader/adapter/QRAndBarCodeGenerateAdapter.java
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeGenerateAdapter
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeGenerateAdapter$1
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeGenerateAdapter$OnItemClickListener
+ com.simprosys.scan.qrcode.barcode.reader.adapter.QRAndBarCodeGenerateAdapter$QRAndBarCodeGenerateViewHolder
+com/simprosys/scan/qrcode/barcode/reader/utility/barcodeUtils/UPCEBarcode.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.barcodeUtils.UPCEBarcode
+com/simprosys/scan/qrcode/barcode/reader/utility/SharedPreferenceHelper.java
+ com.simprosys.scan.qrcode.barcode.reader.utility.SharedPreferenceHelper
+com/simprosys/scan/qrcode/barcode/reader/view/rounderImage/RoundedTransformationBuilder.java
+ com.simprosys.scan.qrcode.barcode.reader.view.rounderImage.RoundedTransformationBuilder
+com/simprosys/scan/qrcode/barcode/reader/fragment/SettingFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.SettingFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.SettingFragment$1
+ com.simprosys.scan.qrcode.barcode.reader.fragment.SettingFragment$2
+com/simprosys/scan/qrcode/barcode/reader/fragment/BaseFragment.java
+ com.simprosys.scan.qrcode.barcode.reader.fragment.BaseFragment
+ com.simprosys.scan.qrcode.barcode.reader.fragment.BaseFragment$FragmentNavigation
+com/simprosys/scan/qrcode/barcode/reader/BuildConfig.java
+ com.simprosys.scan.qrcode.barcode.reader.BuildConfig

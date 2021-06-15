@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/intro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/activityBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.intro.IntroActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rotationY="@integer/locale_mirror_flip" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+
+            android:layout_weight="0.5"></LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"
+            android:gravity="center"
+            android:rotationY="@integer/locale_mirror_flip">
+
+            <com.viewpagerindicator.CirclePageIndicator
+                android:id="@+id/circlePageIndicator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:gravity="center"
+                app:fillColor="@color/black"
+                app:pageColor="#FF888888"
+                app:strokeColor="@android:color/transparent" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+
+            android:layout_weight="0.3"></LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+
+            android:layout_weight="0.1"
+            tools:ignore="RtlHardcoded">
+
+            <TextView
+                android:id="@+id/txtSkip"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="@dimen/mar_10"
+                android:layout_alignParentRight="true"
+                android:gravity="center|end"
+                android:padding="@dimen/pad_5"
+                android:text="@string/txtSkip"
+                android:textAllCaps="true"
+                android:textColor="@color/txtColorBlack"
+                android:textSize="@dimen/txt_size_14"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtDone"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="@dimen/mar_10"
+                android:gravity="center|end"
+                android:text="@string/txtStart"
+                android:padding="@dimen/pad_5"
+                android:textAllCaps="true"
+                android:textColor="@color/txtColorBlack"
+                android:textSize="@dimen/txt_size_14"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

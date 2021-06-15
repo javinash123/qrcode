@@ -1,0 +1,296 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frmVCard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/frmBgColorGray"
+    tools:context="com.simprosys.scan.qrcode.barcode.reader.fragment.createQRCodeFragment.qrCodeFragment.VCardFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/appBarLayout"
+            layout="@layout/app_bar_qr_code_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/appBarLayout"
+            android:fillViewport="true">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/mar_5"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeNameName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtName"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionNext"
+                                android:inputType="text"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="true"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_15" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <!--android:layout_height="@dimen/ley_height"-->
+
+                        <TextView
+                            android:id="@+id/txtEmail"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeEmailIdName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtEmail"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionNext"
+                                android:inputType="textEmailAddress"
+                                android:lines="1"
+                                android:maxLength="30"
+                                android:maxLines="1"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="true"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_15" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtPhoneNumber"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodePhoneNumName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtPhoneNumber"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionNext"
+                                android:inputType="phone"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="true"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_15" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtCity"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeCityName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtCity"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionNext"
+                                android:inputType="text"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="true"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_15" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/ley_height"
+                        android:layout_marginStart="@dimen/mar_5"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtCompanyName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/txtQrCodeCompanyName"
+                            android:textColor="@color/txtColorBlack" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/mar_5"
+                        android:orientation="vertical">
+
+                        <com.loopeer.shadow.ShadowView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:foreground="?attr/selectableItemBackground"
+                            app:cornerRadius="@dimen/sd_corner_radius"
+                            app:shadowMargin="@dimen/sd_shadow_mar"
+                            app:shadowRadius="@dimen/sd_shadow_radius">
+
+                            <EditText
+                                android:id="@+id/edtCompanyName"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@null"
+                                android:focusable="true"
+                                android:gravity="start"
+                                android:imeOptions="actionDone"
+                                android:inputType="text"
+                                android:padding="@dimen/pad_15"
+                                android:singleLine="true"
+                                android:textAlignment="viewStart"
+                                android:textColor="@color/edtColorBlack"
+                                android:textSize="@dimen/txt_size_15" />
+
+                        </com.loopeer.shadow.ShadowView>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Reset</item>
+        <item>Chọn hình ảnh từ bộ sưu tập</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="appName">QR Code Scan</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Mã vạch</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Ok</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Để quét mã QR hoặc Mã vạch, chỉ cần trỏ đến QR hoặc mã vạch bạn muốn quét và ứng dụng sẽ tự động phát hiện và nhận ra nó.</string>
+    <string name="intro_slide_detail_2">Tùy thuộc vào định dạng quét mã, trình quét mã QR sẽ nhắc thực hiện hành động thích hợp.</string>
+    <string name="intro_slide_detail_3">Để tạo QR hoặc Mã vạch, chọn bất kỳ một loại nào từ Văn bản, số điện thoại di động, email, sms, VCard, WiFi, sự kiện, trang web, EAN-13, EAN-8, UPC-E, Mã 39, Mã 128, UPC-A</string>
+    <string name="intro_slide_detail_4">Điền chi tiết có liên quan cho loại QR hoặc Mã vạch đã chọn, nhấn xong. Nó sẽ tạo QR hoặc Mã vạch mà bạn có thể chia sẻ với nhiều nền tảng khác nhau.</string>
+    <string name="intro_slide_title_1">Quét mã QR hoặc mã vạch</string>
+    <string name="intro_slide_title_2">Xem mã QR hoặc mã vạch</string>
+    <string name="intro_slide_title_3">Chọn loại</string>
+    <string name="intro_slide_title_4">Tạo mã QR hoặc mã vạch</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Lưới ngày theo tháng"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"Đã xóa <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Xong"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Thanh trượt giờ hình tròn"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"Đã chọn <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Thanh trượt phút hình tròn"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Chọn tháng và ngày"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Chọn giờ"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Chọn phút"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Chọn năm"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Danh sách năm"</string>
+    <string name="msgBarCode">Vui lòng nhập nội dung mã vạch</string>
+    <string name="msgBarCodeEAN13">EAN-13 yêu cầu nội dung là 13 chữ số</string>
+    <string name="msgBarCodeEAN8">EAN-8 yêu cầu nội dung là 8 chữ số</string>
+    <string name="msgBarCodeUpca">UPC-A yêu cầu nội dung là 12 chữ số</string>
+    <string name="msgBarCodeUpce">UPC-E yêu cầu nội dung là 8 chữ số</string>
+    <string name="msgBarCodeValid">Mã vạch không hợp lệ</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Không thể xác định ký tự bắt đầu.</string>
+    <string name="msgCode128Barcode3">Không tìm thấy giá trị trong bảng mã hóa</string>
+    <string name="msgCode128Barcode4">Không biết loại bắt đầu trong mã hóa loại cố định.</string>
+    <string name="msgCode128Barcode5">Không thể chèn các ký tự bắt đầu và mã.  n tin nhắn:</string>
+    <string name="msgCode128Barcode6">Không thể tìm thấy mã hóa của một giá trị ( "+ S1 + ") trong loại C128 </string>
+    <string name="msgCode128Barcode7">Chỉ có các giá trị số có thể được mã hóa bằng C128-C.</string>
+    <string name="msgCsvContent">Bạn chưa quét bất cứ thứ gì.</string>
+    <string name="msgDateAndTime">Thiết lập thời gian trong tương lai</string>
+    <string name="msgDeleteContent">Bạn có chắc chắn muốn xóa tất cả lịch sử?</string>
+    <string name="msgLocation">Vui lòng nhập đúng vị trí của bạn</string>
+    <string name="msgNo">Không</string>
+    <string name="msgNoReadCodeContent">Không thể đọc qrcode / mã vạch</string>
+    <string name="msgNotOpenAction">Không có ứng dụng để mở</string>
+    <string name="msgOk">Ok</string>
+    <string name="msgOkay">Ok</string>
+    <string name="msgPbBarCode">Hãy chờ</string>
+    <string name="msgPermissionCancel">Hủy bỏ</string>
+    <string name="msgPermissionContent">Để quét QR code và mã vạch bạn cần cho phép</string>
+    <string name="msgPermissionExplainContent">Có vẻ như bạn từ chối quyền, hãy cho phép cài đặt</string>
+    <string name="msgPermissionOk">Ok</string>
+    <string name="msgQrCodeAllSocial">Vui lòng cung cấp chi tiết hồ sơ chính xác</string>
+    <string name="msgQrCodeEventBDateAndTime">Vui lòng chọn ngày bắt đầu sự kiện</string>
+    <string name="msgQrCodeEventDate">Ngày kết thúc phải lớn hơn ngày bắt đầu</string>
+    <string name="msgQrCodeEventEDateAndTime">Vui lòng chọn ngày kết thúc sự kiện</string>
+    <string name="msgQrCodeEventLocation">Vui lòng nhập vị trí sự kiện</string>
+    <string name="msgQrCodeEventTitle">Vui lòng nhập tiêu đề sự kiện</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Vui lòng nhập vĩ độ</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Vui lòng nhập kinh độ</string>
+    <string name="msgQrCodePhoneNum">Vui lòng nhập số điện thoại hợp lệ</string>
+    <string name="msgQrCodeSms">Vui lòng nhập tin nhắn SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Vui lòng cung cấp chi tiết chính xác</string>
+    <string name="msgQrCodeText">Vui lòng nhập tin nhắn văn bản</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Vui lòng nhập ID email</string>
+    <string name="msgQrCodeValidEmailBody">Vui lòng nhập văn bản email</string>
+    <string name="msgQrCodeValidEmailId">Vui lòng nhập ID email hợp lệ</string>
+    <string name="msgQrCodeValidEmailSubject">Vui lòng nhập Chủ đề</string>
+    <string name="msgQrCodeValidPhoneNum">Vui lòng nhập số điện thoại hợp lệ</string>
+    <string name="msgQrCodeValidWebSite">Vui lòng nhập URL hợp lệ</string>
+    <string name="msgQrCodeVcardCity">Vui lòng nhập thành phố</string>
+    <string name="msgQrCodeVcardCompanyName">Vui lòng nhập tên công ty</string>
+    <string name="msgQrCodeVcardName">Vui lòng nhập tên</string>
+    <string name="msgQrCodeWebSite">Vui lòng nhập URL</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Vui lòng nhập tên WiFi</string>
+    <string name="msgQrCodeWifiPass">Vui lòng nhập mật khẩu WiFi</string>
+    <string name="msgUPCABarcode1">Độ dài dữ liệu không hợp lệ. (Chiều dài phải là 11 hoặc 12)</string>
+    <string name="msgUPCABarcode2">Chỉ dữ liệu số</string>
+    <string name="msgUPCABarcode3">Quốc gia gán mã nhà sản xuất không tìm thấy.</string>
+    <string name="msgUPCABarcode4">Lỗi tính toán số kiểm tra.</string>
+    <string name="msgUPCEBarcode1">Độ dài dữ liệu không hợp lệ. (chỉ 8 hoặc 12 số)</string>
+    <string name="msgUPCEBarcode2">Chỉ dữ liệu số</string>
+    <string name="msgUPCEBarcode3">Hệ thống số không hợp lệ (chỉ 0 &amp; 1 là hợp lệ)</string>
+    <string name="msgUPCEBarcode4">UPC-A bất hợp pháp vào để chuyển đổi.  Không thể chuyển đổi.</string>
+    <string name="msgYes">Có</string>
+    <string name="navCreate">Tạo</string>
+    <string name="navHistory">Lịch sử</string>
+    <string name="navScan">Quét</string>
+    <string name="navSetting">Cài đặt</string>
+    <string name="qrCodeEmail">Email</string>
+    <string name="qrCodeEvent">Sự kiện</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Vị trí</string>
+    <string name="qrCodeNumber">Số</string>
+    <string name="qrCodeSection">Mã QR</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Văn bản</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Trang web</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Tìm kiếm Amazon</string>
+    <string name="txtApp">Thêm nhiều ứng dụng</string>
+    <string name="txtAppBarNameQABCodeGenerate">Tạo nên</string>
+    <string name="txtAppNameBarCode">Mã vạch</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Mã được tạo</string>
+    <string name="txtAppNameCreateBCR">Mã vạch</string>
+    <string name="txtAppNameCreateQCR">Mã QR</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Email</string>
+    <string name="txtAppNameEvent">Sự kiện</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Lịch sử</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Ngôn ngữ</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Vị trí</string>
+    <string name="txtAppNamePhoneNum">Số điện thoại</string>
+    <string name="txtAppNameSetting">Cài đặt</string>
+    <string name="txtAppNameSms">Tin nhắn văn bản</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Tin nhắn văn bản</string>
+    <string name="txtAppNameTheme">Chủ đề</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Trang web</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">Tìm kiếm mã vạch</string>
+    <string name="txtBarCodeName">Mã vạch</string>
+    <string name="txtBarcode">Mã vạch : </string>
+    <string name="txtBeep">Bíp</string>
+    <string name="txtBeepDesc">Bíp nếu quét thành công.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Tham dự : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Sinh nhật : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>Thành phố : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Tên công ty : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Sự miêu tả : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>E-mail : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Mã hóa : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Cuối : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Instant Messenger : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Ngôn ngữ : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Vĩ độ : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Vị trí : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Kinh độ : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Thông điệp : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Tên : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Tên mạng : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>chú thích : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Số : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Người tổ chức : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>mật khẩu : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Số điện thoại : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Khởi đầu : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Chủ đề : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Tóm tắt : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Bản văn : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Tiêu đề : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Để : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Tìm kiếm sách</string>
+    <string name="txtCall">Gọi số điện thoại</string>
+    <string name="txtClose">Gần</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">MÃ 93</string>
+    <string name="txtConnect">Kết nối</string>
+    <string name="txtContact">Thêm liên hệ mới</string>
+    <string name="txtContent">Nội dung tìm kiếm</string>
+    <string name="txtCopyClipboard">Sao chép vào clipboard!</string>
+    <string name="txtDelete">Xóa bỏ</string>
+    <string name="txtDirection">Hiển thị vị trí</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Mở trình soạn thư</string>
+    <string name="txtEmailName">Email</string>
+    <string name="txtEvent">Thêm sự kiện</string>
+    <string name="txtEventName">Sự kiện</string>
+    <string name="txtFacebook">Mở trong facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Cách sử dụng?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Mở trong instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Ngôn ngữ</string>
+    <string name="txtLanguageDesc">Tại đây bạn có thể thay đổi ngôn ngữ ứng dụng.</string>
+    <string name="txtLinkedIn">Mở trong linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Vị trí</string>
+    <string name="txtMMS">Gửi MMS</string>
+    <string name="txtMap">Hiển thị bản đồ</string>
+    <string name="txtMoreApp">Thêm ứng dụng</string>
+    <string name="txtNoPassword">Không có mật khẩu cho wifi này</string>
+    <string name="txtOpen">Mở</string>
+    <string name="txtPassword">Mật khẩu : </string>
+    <string name="txtPermission">Bấm vào đây để cấp quyền</string>
+    <string name="txtPhoneNumName">Số điện thoại</string>
+    <string name="txtPlaceHolderCreate">Bạn chưa tạo bất kỳ mã nào.</string>
+    <string name="txtPlaceHolderHistory">Bạn chưa quét bất cứ thứ gì.</string>
+    <string name="txtPrivacy">Chính sách bảo mật</string>
+    <string name="txtProduct">Tìm kiếm sản phẩm</string>
+    <string name="txtProductName">Sản phẩm</string>
+    <string name="txtQrCodeAllDayName">Cả ngày</string>
+    <string name="txtQrCodeBeginDateName">Ngày bắt đầu</string>
+    <string name="txtQrCodeBodyName">Nhập cơ thể</string>
+    <string name="txtQrCodeCityName">Nhập vào thành phố</string>
+    <string name="txtQrCodeCompanyName">Nhập tên công ty</string>
+    <string name="txtQrCodeEmailIdName">Nhập id email</string>
+    <string name="txtQrCodeEncryptionName">Mã hóa</string>
+    <string name="txtQrCodeEndDateName">Ngày kết thúc</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Nhập Vĩ độ</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Nhập vị trí</string>
+    <string name="txtQrCodeLongitudeName">Nhập kinh độ</string>
+    <string name="txtQrCodeMessageName">Nhập tin nhắn của bạn</string>
+    <string name="txtQrCodeName">Mã QR</string>
+    <string name="txtQrCodeNameName">Nhập tên</string>
+    <string name="txtQrCodeNetworkName">Mạng</string>
+    <string name="txtQrCodeNoEncryptionName">Không mã hóa</string>
+    <string name="txtQrCodePasswordName">Mật khẩu</string>
+    <string name="txtQrCodePhoneNumName">Nhập số điện thoại</string>
+    <string name="txtQrCodeSmsName">Nhập tin nhắn của bạn</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Nhập chủ đề</string>
+    <string name="txtQrCodeTitleName">Nhập tiêu đề</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Nhập địa chỉ URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Tỷ lệ</string>
+    <string name="txtRateDescription">Nếu bạn thích Quét QR Code, vui lòng dành chút thời gian để đánh giá ứng dụng. Cảm ơn sự hỗ trợ của bạn!!!</string>
+    <string name="txtRateUs">Đánh giá chúng tôi</string>
+    <string name="txtSMS">Mở trình soạn thảo SMS</string>
+    <string name="txtShare">Chia sẻ</string>
+    <string name="txtShareApp">Tại đây bạn có thể kiểm tra các ứng dụng khác</string>
+    <string name="txtShopper">Google mua sắm</string>
+    <string name="txtSkip">Chuyển</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Mở trong snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Bắt đầu</string>
+    <string name="txtText">Tìm kiếm văn bản</string>
+    <string name="txtTextName">Văn bản</string>
+    <string name="txtTheme">Chủ đề</string>
+    <string name="txtThemeDesc">Tại đây bạn có thể thay đổi chủ đề ứng dụng.</string>
+    <string name="txtTwitter">Mở trong twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Mở uri trong google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Rung</string>
+    <string name="txtVibrateDesc">Rung nếu quét thành công.</string>
+    <string name="txtWIFI">Sao chép mật khẩu</string>
+    <string name="txtWalMart">Walmart</string>
+    <string name="txtWebSiteName">Trang web</string>
+    <string name="txtWhatsApp">Mở trong whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+</resources>

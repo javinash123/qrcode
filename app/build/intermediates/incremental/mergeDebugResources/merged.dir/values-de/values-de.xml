@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>neu stellen</item>
+        <item>Bild aus der Galerie auswählen</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="appName">QR Code Scan</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Barcode</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Okay</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Um den QR-Code oder den Barcode zu scannen, zeigen Sie einfach auf den QR-Code oder den Barcode, den Sie scannen möchten, und die App erkennt und erkennt ihn automatisch.</string>
+    <string name="intro_slide_detail_2">Abhängig von den gescannten Code-Formaten fordert der QR-Code-Scanner die entsprechenden Maßnahmen auf.</string>
+    <string name="intro_slide_detail_3">Um QR oder Barcode zu erstellen, wählen Sie einen beliebigen Typ aus Text, Handynummer, E-Mail, SMS, VCard, WiFi, Ereignis, Website, EAN-13, EAN-8, UPC-E, Code 39, Code 128, UPC-A</string>
+    <string name="intro_slide_detail_4">Geben Sie relevante Details für den ausgewählten QR- oder Barcode-Typ ein, drücken Sie Fertig. Dadurch werden QR- oder Barcode generiert, den Sie mit verschiedenen Plattformen teilen können.</string>
+    <string name="intro_slide_title_1">QR Code oder Barcode scannen</string>
+    <string name="intro_slide_title_2">QR Code oder Barcode anzeigen</string>
+    <string name="intro_slide_title_3">Typ auswählen </string>
+    <string name="intro_slide_title_4">QR Code oder Barcode erstellen</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Monatsraster mit einzelnen Tagen"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> gelöscht"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Fertig"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Kreisförmiger Schieberegler für Stunden"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> ausgewählt"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Kreisförmiger Schieberegler für Minuten"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Monat und Tag auswählen"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Stunden auswählen"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Minuten auswählen"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Jahr auswählen"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Jahresliste"</string>
+    <string name="msgBarCode">Bitte geben Sie Barcode-Inhalte ein</string>
+    <string name="msgBarCodeEAN13">EAN-13 verlangt, dass der Inhalt 13 Stellen ist</string>
+    <string name="msgBarCodeEAN8">EAN-8 verlangt, dass der Inhalt 8 Stellen beträgt</string>
+    <string name="msgBarCodeUpca">UPC-A benötigt Inhalte, die 12 Stellen betragen müssen</string>
+    <string name="msgBarCodeUpce">UPC-E verlangt, dass der Inhalt 8 Stellen beträgt</string>
+    <string name="msgBarCodeValid">Barcode ist ungültig</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Konnte den Startcharakter nicht bestimmen.</string>
+    <string name="msgCode128Barcode3">Kein Wert in der Kodierungstabelle gefunden</string>
+    <string name="msgCode128Barcode4">Unbekannter Starttyp in festgelegter Typenkodierung.</string>
+    <string name="msgCode128Barcode5">Konnte keine Start-und Code-Zeichen einfügen. n Message:</string>
+    <string name="msgCode128Barcode6">Konnte keine Start-und Code-Zeichen einfügen. n Message:</string>
+    <string name="msgCode128Barcode7">Nur numerische Werte können mit C128-C kodiert werden.</string>
+    <string name="msgCsvContent">Sie haben noch nichts gescannt.</string>
+    <string name="msgDateAndTime">Setzen Sie Ihre zukünftige Zeit</string>
+    <string name="msgDeleteContent">Möchten Sie wirklich den gesamten Verlauf löschen?</string>
+    <string name="msgLocation">Bitte geben Sie Ihren richtigen Standort ein</string>
+    <string name="msgNo">Nein</string>
+    <string name="msgNoReadCodeContent">Kann nicht lesen qrcode/Barcode</string>
+    <string name="msgNotOpenAction">Es gibt keine App zum Öffnen</string>
+    <string name="msgOk">Okay</string>
+    <string name="msgOkay">okay</string>
+    <string name="msgPbBarCode">Bitte warten</string>
+    <string name="msgPermissionCancel">Abbrechen</string>
+    <string name="msgPermissionContent">Um QR-Code und Barcode zu scannen, müssen Sie die Erlaubnis erlauben</string>
+    <string name="msgPermissionExplainContent">Sehen Sie so aus, als ob Sie die Erlaubnis verweigern, erlauben Sie bitte die Erlaubnis von Einstellungen</string>
+    <string name="msgPermissionOk">Okay</string>
+    <string name="msgQrCodeAllSocial">Bitte geben Sie korrekte Profildetails an</string>
+    <string name="msgQrCodeEventBDateAndTime">Bitte wählen Sie das Datum des Veranstaltungsbeginns</string>
+    <string name="msgQrCodeEventDate">Enddatum muss größer sein als das Datum des Beginns</string>
+    <string name="msgQrCodeEventEDateAndTime">Bitte wählen Sie das Enddatum des Ereignisses aus</string>
+    <string name="msgQrCodeEventLocation">Bitte geben Sie Veranstaltungsort ein</string>
+    <string name="msgQrCodeEventTitle">Bitte geben Sie den Veranstaltungstitel ein</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Bitte geben Sie den Spielraum ein</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Bitte geben Sie die Länge ein</string>
+    <string name="msgQrCodePhoneNum">Bitte geben Sie die gültige Telefonnummer an</string>
+    <string name="msgQrCodeSms">Bitte geben Sie sms-Nachricht ein</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Bitte geben Sie korrekte Angaben</string>
+    <string name="msgQrCodeText">Bitte geben Sie eine SMS ein</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Bitte geben Sie E-Mail id ein</string>
+    <string name="msgQrCodeValidEmailBody">Bitte geben Sie E-Mail-Text ein</string>
+    <string name="msgQrCodeValidEmailId">Bitte geben Sie die gültige E-Mail-ID ein</string>
+    <string name="msgQrCodeValidEmailSubject">Bitte geben Sie Betreff an</string>
+    <string name="msgQrCodeValidPhoneNum">Bitte geben Sie die gültige Telefonnummer an</string>
+    <string name="msgQrCodeValidWebSite">Bitte geben Sie die gültige URL ein</string>
+    <string name="msgQrCodeVcardCity">Bitte geben Sie Stadt</string>
+    <string name="msgQrCodeVcardCompanyName">Bitte geben Sie den Firmennamen ein</string>
+    <string name="msgQrCodeVcardName">Bitte geben Sie Namen ein</string>
+    <string name="msgQrCodeWebSite">Bitte geben Sie URL ein</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Bitte geben Sie WLAN-Namen an</string>
+    <string name="msgQrCodeWifiPass">Bitte geben Sie WLAN-Passwort ein</string>
+    <string name="msgUPCABarcode1">Datenlänge ungültig. (Länge muss 11 oder 12 sein)</string>
+    <string name="msgUPCABarcode2">Nur numerische Daten</string>
+    <string name="msgUPCABarcode3">Land weist Herstellercode nicht auf.</string>
+    <string name="msgUPCABarcode4">Fehlerberechnung Prüfziffer.</string>
+    <string name="msgUPCEBarcode1">Ungültige Datenlänge. (Nur 8 oder 12 Nummern)</string>
+    <string name="msgUPCEBarcode2">Nur numerische Daten</string>
+    <string name="msgUPCEBarcode3">Ungültiges Nummernsystem (nur 0 &amp; 1 sind gültig)</string>
+    <string name="msgUPCEBarcode4">Illegale UPC-A wurde zur Konvertierung eingereicht.  Nicht konvertieren.</string>
+    <string name="msgYes">Ja</string>
+    <string name="navCreate">Erstellen</string>
+    <string name="navHistory">Geschichte</string>
+    <string name="navScan">Scan</string>
+    <string name="navSetting">Rahmen</string>
+    <string name="qrCodeEmail">Email</string>
+    <string name="qrCodeEvent">Veranstaltung</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Ort</string>
+    <string name="qrCodeNumber">Nummer</string>
+    <string name="qrCodeSection">QR-Code</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Text</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Webseite</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">W-lan</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Suche amazon</string>
+    <string name="txtApp">Mehr Apps</string>
+    <string name="txtAppBarNameQABCodeGenerate">Erstellen</string>
+    <string name="txtAppNameBarCode">Barcode</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Erstellte Codes</string>
+    <string name="txtAppNameCreateBCR">Barcode</string>
+    <string name="txtAppNameCreateQCR">QR-Code</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Email</string>
+    <string name="txtAppNameEvent">Veranstaltung</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Geschichte</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Sprache</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Ort</string>
+    <string name="txtAppNamePhoneNum">Telefonnummer</string>
+    <string name="txtAppNameSetting">Rahmen</string>
+    <string name="txtAppNameSms">Textnachricht</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Textnachricht</string>
+    <string name="txtAppNameTheme">Thema</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Website</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">W-lan</string>
+    <string name="txtBarCode">Barcode suchen</string>
+    <string name="txtBarCodeName">Barcode</string>
+    <string name="txtBarcode">Barcode : </string>
+    <string name="txtBeep">Signalton</string>
+    <string name="txtBeepDesc">Signalton, wenn der Scan erfolgreich ist.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Teilnehmer : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Geburtstag : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>die Stadt : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Firmenname : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>description : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>E-mail : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Verschlüsselung : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>das Ende : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Instant Messenger : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Sprache : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>die geographische Breite : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>der Standort : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Länge : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Nachricht : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>der Name : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Netzwerkname : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Hinweis : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Nummer : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Veranstalter : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Passwort : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Telefonnummer : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>aufbrechen : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Betreff : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Zusammenfassung : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Text : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Titel : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Zu : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>URL-Adresse : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Recherchebuch</string>
+    <string name="txtCall">Telefonnummer anrufen</string>
+    <string name="txtClose">Schließen</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">CODE 93</string>
+    <string name="txtConnect">verbinden</string>
+    <string name="txtContact">Füge neuen Kontakt hinzu</string>
+    <string name="txtContent">Suche nach Inhalten</string>
+    <string name="txtCopyClipboard">In die Zwischenablage kopiert!</string>
+    <string name="txtDelete">Löschen</string>
+    <string name="txtDirection">Standort anzeigen</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Öffnen Sie den Mail-Composer</string>
+    <string name="txtEmailName">Email</string>
+    <string name="txtEvent">Ereignis hinzufügen</string>
+    <string name="txtEventName">Event</string>
+    <string name="txtFacebook">Öffnen Sie in facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Wie benutze ich ?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Öffnen Sie in instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Sprache</string>
+    <string name="txtLanguageDesc">Hier können Sie die Anwendungssprache ändern.</string>
+    <string name="txtLinkedIn">Öffnen Sie in linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">der Standort</string>
+    <string name="txtMMS">MMS senden</string>
+    <string name="txtMap">Karte anzeigen</string>
+    <string name="txtMoreApp">Mehr Apps</string>
+    <string name="txtNoPassword">Kein Passwort für dieses WLAN</string>
+    <string name="txtOpen">offen</string>
+    <string name="txtPassword">Passwort : </string>
+    <string name="txtPermission">Klicken Sie hier, um eine Genehmigung zu geben</string>
+    <string name="txtPhoneNumName">Telefonnummer</string>
+    <string name="txtPlaceHolderCreate">Sie haben noch keine Codes erstellt.</string>
+    <string name="txtPlaceHolderHistory">Sie haben noch nichts gescannt.</string>
+    <string name="txtPrivacy">Datenschutz-Bestimmungen</string>
+    <string name="txtProduct">Suchprodukt</string>
+    <string name="txtProductName">Produkt</string>
+    <string name="txtQrCodeAllDayName">Den ganzen Tag</string>
+    <string name="txtQrCodeBeginDateName">Anfangsdatum</string>
+    <string name="txtQrCodeBodyName">Körper betreten</string>
+    <string name="txtQrCodeCityName">Stadt betreten</string>
+    <string name="txtQrCodeCompanyName">Geben Sie den Firmennamen ein</string>
+    <string name="txtQrCodeEmailIdName">E-Mail-ID eingeben</string>
+    <string name="txtQrCodeEncryptionName">Verschlüsselung</string>
+    <string name="txtQrCodeEndDateName">Endtermin</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Geben Sie Latitude ein</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Ort eingeben</string>
+    <string name="txtQrCodeLongitudeName">Längengrad eingeben</string>
+    <string name="txtQrCodeMessageName">Gib deine Nachricht ein</string>
+    <string name="txtQrCodeName">QR-Code</string>
+    <string name="txtQrCodeNameName">Name eingeben</string>
+    <string name="txtQrCodeNetworkName">Netzwerk</string>
+    <string name="txtQrCodeNoEncryptionName">No encryption</string>
+    <string name="txtQrCodePasswordName">Passwort</string>
+    <string name="txtQrCodePhoneNumName">Telefonnummer eingeben</string>
+    <string name="txtQrCodeSmsName">Gib deine Nachricht ein</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Betreff eingeben</string>
+    <string name="txtQrCodeTitleName">Titel eingeben</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">URL-Adresse eingeben</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Bewertung</string>
+    <string name="txtRateDescription">Wenn Ihnen QR Code Scan dann gefällt, nehmen Sie sich bitte einen Moment Zeit, um die App zu bewerten. Danke für Ihre Unterstützung!!!</string>
+    <string name="txtRateUs">Bewerten Sie uns</string>
+    <string name="txtSMS">Öffnen Sie den SMS-Composer</string>
+    <string name="txtShare">Freigeben</string>
+    <string name="txtShareApp">Hier können Sie weitere Apps überprüfen</string>
+    <string name="txtShopper">Google shopper</string>
+    <string name="txtSkip">hüpfen</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Öffnen Sie in snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">aufbrechen</string>
+    <string name="txtText">Suchtext</string>
+    <string name="txtTextName">Text</string>
+    <string name="txtTheme">Thema</string>
+    <string name="txtThemeDesc">Hier können Sie das Anwendungsthema ändern.</string>
+    <string name="txtTwitter">Öffnen Sie in twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Öffne uri in google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Vibrieren</string>
+    <string name="txtVibrateDesc">Vibrieren, wenn der Scan erfolgreich ist.</string>
+    <string name="txtWIFI">Passwort kopieren</string>
+    <string name="txtWalMart">WalMart</string>
+    <string name="txtWebSiteName">Webseite</string>
+    <string name="txtWhatsApp">Öffnen Sie in whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Mit der Android-Kamera ist leider ein Fehler aufgetreten. Es könnte sein, dass Sie das Gerät neu starten müssen.</string>
+    <string name="zxing_msg_default_status">Positionieren Sie den Barcode innerhalb des Rechteckes.</string>
+</resources>

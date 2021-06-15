@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>रीसेट</item>
+        <item>गैलरी से छवि का चयन करें</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"बंद"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"चालू"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="appName">क्यूआर कोड स्कैन</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">कोड 128</string>
+    <string name="barCodeCode39">कोड 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">बारकोड</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">नीला स्लेटी</string>
+    <string name="colorNameBrown">भूरा</string>
+    <string name="colorNameCyan">सियान</string>
+    <string name="colorNameDeepPurple">गहरा बैंगनी</string>
+    <string name="colorNameElectricPurple">इलेक्ट्रिक पर्पल</string>
+    <string name="colorNameGreen">हरा</string>
+    <string name="colorNameIndigo">नीला</string>
+    <string name="colorNamePurple">जामुनी</string>
+    <string name="colorNameRed">लाल</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">ठीक है</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">क्यूआर कोड या बारकोड को स्कैन करने के लिए, बस उस क्यूआर या बारकोड को इंगित करें जिसे आप स्कैन करना चाहते हैं और ऐप स्वचालित रूप से इसका पता लगा लेगा और पहचान लेगा।</string>
+    <string name="intro_slide_detail_2">स्कैन किए गए कोड के प्रारूपों के आधार पर, क्यूआर कोड स्कैनर उचित कार्रवाई करने के लिए संकेत देगा।</string>
+    <string name="intro_slide_detail_3">क्यूआर या बारकोड बनाने के लिए टेक्स्ट, मोबाइल नंबर, ईमेल, एसएमएस, VCard, वाईफ़ाई, ईवेंट, वेबसाइट, EAN-13, EAN-8, UPC-E, कोड 39, कोड 128, UPC- ए में से किसी एक प्रकार का चयन करें।</string>
+    <string name="intro_slide_detail_4">चयनित क्यूआर या बारकोड प्रकार के लिए प्रासंगिक विवरण भरें, किया गया। यह QR या बारकोड उत्पन्न करेगा जिसे आप विभिन्न प्लेटफार्मों के साथ साझा कर सकते हैं।</string>
+    <string name="intro_slide_title_1">क्यूआर कोड या बारकोड को स्कैन करें</string>
+    <string name="intro_slide_title_2">क्यूआर कोड या बारकोड देखें</string>
+    <string name="intro_slide_title_3">चयन प्रकार</string>
+    <string name="intro_slide_title_4">क्यूआर कोड या बारकोड बनाएं</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"दिनों की माह ग्रिड"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> को हटा दिया गया"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"पूर्ण"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"घंटो का चक्राकार स्लाइडर"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> चयनित"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"मिनटों का चक्राकार स्लाइडर"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"माह और दिन चुनें"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"घंटे चुनें"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"मिनट चुनें"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"वर्ष चुनें"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"वर्ष की सूची"</string>
+    <string name="msgBarCode">कृपया बारकोड सामग्री दर्ज करें</string>
+    <string name="msgBarCodeEAN13">EAN-13 सामग्री 13 अंकों की आवश्यकता है</string>
+    <string name="msgBarCodeEAN8">EAN-8 सामग्री 8 अंकों की आवश्यकता है</string>
+    <string name="msgBarCodeUpca">UPC-A सामग्री 12 अंकों की आवश्यकता है</string>
+    <string name="msgBarCodeUpce">UPC-E के लिए सामग्री की आवश्यकता है 8 अंक</string>
+    <string name="msgBarCodeValid">बारकोड अमान्य है</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">प्रारंभ चरित्र निर्धारित नहीं कर सका।</string>
+    <string name="msgCode128Barcode3">एन्कोडिंग तालिका में कोई मान नहीं मिला</string>
+    <string name="msgCode128Barcode4">अज्ञात प्रारंभ प्रकार निश्चित प्रकार एन्कोडिंग में।</string>
+    <string name="msgCode128Barcode5">प्रारंभ और कोड वर्ण सम्मिलित नहीं कर सके। \ n संदेश:</string>
+    <string name="msgCode128Barcode6">C128 प्रकार में मान ("+ s1 +") की एन्कोडिंग नहीं मिली</string>
+    <string name="msgCode128Barcode7">केवल संख्यात्मक मानों को C128-C के साथ एन्कोड किया जा सकता है।</string>
+    <string name="msgCsvContent">आपने अभी तक कुछ भी स्कैन नहीं किया है।</string>
+    <string name="msgDateAndTime">अपने भविष्य का समय निर्धारित करें</string>
+    <string name="msgDeleteContent">क्या आप वाकई सभी हिस्टरी को क्लीन् करना चाहते हैं?</string>
+    <string name="msgLocation">कृपया अपना सही स्थान दर्ज करें</string>
+    <string name="msgNo">नहीं</string>
+    <string name="msgNoReadCodeContent">क्यूआर कोड / बारकोड नहीं पढ़ सकते हैं</string>
+    <string name="msgNotOpenAction">खोलने के लिए कोई अनुप्रयोग नहीं है</string>
+    <string name="msgOk">ठीक है</string>
+    <string name="msgOkay">ठीक है</string>
+    <string name="msgPbBarCode">कृपया प्रतीक्षा करें</string>
+    <string name="msgPermissionCancel">रद्द करना</string>
+    <string name="msgPermissionContent">क्यूआर कोड और बारकोड को स्कैन करने के लिए आपको अनुमति देने की आवश्यकता है</string>
+    <string name="msgPermissionExplainContent">ऐसा लगता है कि आपने अनुमति से इनकार कर दिया है कृपया सेटिंग से अनुमति दें</string>
+    <string name="msgPermissionOk">ठीक है</string>
+    <string name="msgQrCodeAllSocial">कृपया सही प्रोफ़ाइल विवरण प्रदान करें</string>
+    <string name="msgQrCodeEventBDateAndTime">कृपया ईवेंट प्रारंभ दिनांक का चयन करें</string>
+    <string name="msgQrCodeEventDate">अंतिम तिथि आरंभ तिथि से अधिक होनी चाहिए</string>
+    <string name="msgQrCodeEventEDateAndTime">कृपया ईवेंट समाप्ति दिनांक का चयन करें</string>
+    <string name="msgQrCodeEventLocation">कृपया ईवेंट स्थान दर्ज करें</string>
+    <string name="msgQrCodeEventTitle">कृपया ईवेंट शीर्षक दर्ज करें</string>
+    <string name="msgQrCodeFacebook">कृपया फेसबुक आईडी दर्ज करें</string>
+    <string name="msgQrCodeInstagram">कृपया इंस्टाग्राम आईडी दर्ज करें</string>
+    <string name="msgQrCodeLatitude">कृपया अक्षांश दर्ज करें</string>
+    <string name="msgQrCodeLinkedIn">कृपया आईडी में लिंक्ड दर्ज करें</string>
+    <string name="msgQrCodeLongitude">कृपया देशांतर भरें</string>
+    <string name="msgQrCodePhoneNum">कृपया मान्य फ़ोन नंबर दर्ज करें</string>
+    <string name="msgQrCodeSms">एसएमएस संदेश दर्ज करें</string>
+    <string name="msgQrCodeSnapChat">कृपया स्नैपचैट आईडी भरें</string>
+    <string name="msgQrCodeSocial">कृपया सही विवरण दें</string>
+    <string name="msgQrCodeText">कृपया टेक्स्ट संदेश दर्ज करें</string>
+    <string name="msgQrCodeTwitter">कृपया ट्विटर आईडी दर्ज करें</string>
+    <string name="msgQrCodeValidEmail">कृपया ईमेल आईडी दर्ज करें</string>
+    <string name="msgQrCodeValidEmailBody">कृपया ईमेल टेक्स्ट दर्ज करें</string>
+    <string name="msgQrCodeValidEmailId">कृपया मान्य ईमेल आईडी दर्ज करें</string>
+    <string name="msgQrCodeValidEmailSubject">कृपया विषय दर्ज करें</string>
+    <string name="msgQrCodeValidPhoneNum">कृपया मान्य फ़ोन नंबर दर्ज करें</string>
+    <string name="msgQrCodeValidWebSite">कृपया मान्य यूआरएल दर्ज करें</string>
+    <string name="msgQrCodeVcardCity">कृपया शहर दर्ज करें</string>
+    <string name="msgQrCodeVcardCompanyName">कृपया कंपनी का नाम दर्ज करें</string>
+    <string name="msgQrCodeVcardName">कृपया नाम दर्ज करें</string>
+    <string name="msgQrCodeWebSite">कृपया यूआरएल दर्ज करें</string>
+    <string name="msgQrCodeWhatsApp">कृपया व्हाट्सएप आईडी दर्ज करें</string>
+    <string name="msgQrCodeWifiName">वाईफ़ाई नाम दर्ज करें</string>
+    <string name="msgQrCodeWifiPass">वाईफ़ाई पासवर्ड दर्ज करें</string>
+    <string name="msgUPCABarcode1">डेटा की लंबाई अमान्य है। (लंबाई 11 या 12 होनी चाहिए)</string>
+    <string name="msgUPCABarcode2">केवल संख्यात्मक डेटा</string>
+    <string name="msgUPCABarcode3">देश असाइनिंग निर्माता कोड नहीं मिला।</string>
+    <string name="msgUPCABarcode4">चेक अंकों की गणना में त्रुटि।</string>
+    <string name="msgUPCEBarcode1">अमान्य डेटा लंबाई। (केवल 8 या 12 नंबर)</string>
+    <string name="msgUPCEBarcode2">केवल संख्यात्मक डेटा</string>
+    <string name="msgUPCEBarcode3">अमान्य संख्या प्रणाली (केवल 0 और 1 मान्य हैं)</string>
+    <string name="msgUPCEBarcode4">अवैध यूपीसी-ए रूपांतरण के लिए प्रवेश किया। परिवर्तित करने में असमर्थ।</string>
+    <string name="msgYes">हाँ</string>
+    <string name="navCreate">कोड बनाएं</string>
+    <string name="navHistory">हिस्टरी</string>
+    <string name="navScan">स्कैन</string>
+    <string name="navSetting">सेटिंग</string>
+    <string name="qrCodeEmail">ईमेइल्</string>
+    <string name="qrCodeEvent">कार्यक्रम</string>
+    <string name="qrCodeFacebook">फेसबुक</string>
+    <string name="qrCodeInstagram">इंस्टाग्राम</string>
+    <string name="qrCodeLinkedIn">लिंक्डइन</string>
+    <string name="qrCodeLocation">जगह</string>
+    <string name="qrCodeNumber">नम्बर</string>
+    <string name="qrCodeSection">क्यूआर - कोड</string>
+    <string name="qrCodeSms">एसएमएस</string>
+    <string name="qrCodeSnapChat">स्नैपचैट</string>
+    <string name="qrCodeText">टेक्स्ट</string>
+    <string name="qrCodeTwitter">ट्विटर</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">वेबसाइट</string>
+    <string name="qrCodeWhatsApp">व्हाट्सएप</string>
+    <string name="qrCodeWifi">वाईफ़ाई</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"खोजें"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">खोज अमेज़न</string>
+    <string name="txtApp">और ऐप</string>
+    <string name="txtAppBarNameQABCodeGenerate">कोड बनाएं</string>
+    <string name="txtAppNameBarCode">बारकोड</string>
+    <string name="txtAppNameCode128">कोड 128</string>
+    <string name="txtAppNameCode39">कोड 39</string>
+    <string name="txtAppNameCreate">कोड बनाए गए</string>
+    <string name="txtAppNameCreateBCR">बारकोड</string>
+    <string name="txtAppNameCreateQCR">क्यूआर - कोड</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">ईमेइल्</string>
+    <string name="txtAppNameEvent">कार्यक्रम</string>
+    <string name="txtAppNameFacebook">फेसबुक</string>
+    <string name="txtAppNameHistory">हिस्टरी</string>
+    <string name="txtAppNameInstagram">इंस्टाग्राम</string>
+    <string name="txtAppNameLanguage">भाषा</string>
+    <string name="txtAppNameLinkedIn">लिंक्डइन</string>
+    <string name="txtAppNameLocation">जगह</string>
+    <string name="txtAppNamePhoneNum">फ़ोन नंबर</string>
+    <string name="txtAppNameSetting">सेटिंग</string>
+    <string name="txtAppNameSms">टेक्स्ट संदेश</string>
+    <string name="txtAppNameSnapChat">स्नैपचैट</string>
+    <string name="txtAppNameText">टेक्स्ट संदेश</string>
+    <string name="txtAppNameTheme">थ़ीम्</string>
+    <string name="txtAppNameTwitter">ट्विटर</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">वेबसाइट</string>
+    <string name="txtAppNameWhatsApp">व्हाट्सएप</string>
+    <string name="txtAppNameWifi">वाईफ़ाई</string>
+    <string name="txtBarCode">बारकोड खोजें</string>
+    <string name="txtBarCodeName">बारकोड</string>
+    <string name="txtBarcode">बारकोड : </string>
+    <string name="txtBeep">ध्वनि</string>
+    <string name="txtBeepDesc">यदि स्कैन सफल हो तो ध्वनि करें।</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>सहभागी : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>जन्मदिन : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>शहर : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>कंपनी का नाम : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>विवरण : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>ईमेल : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>एन्क्रिप्शन : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>समाप्त : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>फेसबुक : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>इंस्टाग्राम : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>इंस्टैंट मैसेंजर : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>भाषा : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>अक्षांश : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>लिंक्डइन : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>स्थान : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>देशान्तर : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>संदेश : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>नाम : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>नेटवर्क का नाम : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>ध्यान दें : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>संख्या : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>आयोजक : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>पासवर्ड : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>फ़ोन नंबर : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>स्नैपचैट : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>शुरु : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>विषय : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>सारांश : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>टेक्स्ट : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>शीर्षक : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>To : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>ट्विटर : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>यूआरएल : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>व्हाट्सएप : </b>]]></string>
+    <string name="txtBook">खोज पुस्तक</string>
+    <string name="txtCall">फोन नंबर पर कॉल करें</string>
+    <string name="txtClose">बंद करे</string>
+    <string name="txtCode128Name">कोड 128</string>
+    <string name="txtCode39Name">कोड 39</string>
+    <string name="txtCode93Name">कोड 93</string>
+    <string name="txtConnect">जोड़ना</string>
+    <string name="txtContact">नए संपर्क को जोड़े</string>
+    <string name="txtContent">खोज सामग्री</string>
+    <string name="txtCopyClipboard">क्लिपबोर्ड पर नकल!</string>
+    <string name="txtDelete">हटाएँ</string>
+    <string name="txtDirection">नक्शा में जगह दिखाएं</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">मेल कंपोज़र खोलें</string>
+    <string name="txtEmailName">ईमेइल्</string>
+    <string name="txtEvent">कार्यक्रम जोड़ें</string>
+    <string name="txtEventName">कार्यक्रम</string>
+    <string name="txtFacebook">फेसबुक में खोलें</string>
+    <string name="txtFacebookName">फेसबुक</string>
+    <string name="txtHelp">कैसे उपयोग करें?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">इंस्टाग्राम में खोलें</string>
+    <string name="txtInstagramName">इंस्टाग्राम</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">भाषा</string>
+    <string name="txtLanguageDesc">यहां आप एप्लिकेशन लैंग्वेज बदल सकते हैं।</string>
+    <string name="txtLinkedIn">लिंक्डइन में खोलें</string>
+    <string name="txtLinkedInName">लिंक्डइन</string>
+    <string name="txtLocationName">जगह</string>
+    <string name="txtMMS">एमएमएस भेजें</string>
+    <string name="txtMap">नक्शा दिखाओ</string>
+    <string name="txtMoreApp">और ऐप</string>
+    <string name="txtNoPassword">इस वाईफाई के लिए कोई पासवर्ड नहीं</string>
+    <string name="txtOpen">खोलें</string>
+    <string name="txtPassword">पासवर्ड : </string>
+    <string name="txtPermission">अनुमति देने के लिए यहां क्लिक करें</string>
+    <string name="txtPhoneNumName">फ़ोन नंबर</string>
+    <string name="txtPlaceHolderCreate">आपने अभी तक कोई कोड नहीं बनाया है।</string>
+    <string name="txtPlaceHolderHistory">आपने अभी तक कुछ भी स्कैन नहीं किया है।</string>
+    <string name="txtPrivacy">गोपनीयता नीति</string>
+    <string name="txtProduct">खोज उत्पाद</string>
+    <string name="txtProductName">उत्पाद</string>
+    <string name="txtQrCodeAllDayName">पूरे दिन</string>
+    <string name="txtQrCodeBeginDateName">आरंभ करने की तारीख़</string>
+    <string name="txtQrCodeBodyName">संदेश दर्ज करें</string>
+    <string name="txtQrCodeCityName">शहर का नाम दर्ज करें</string>
+    <string name="txtQrCodeCompanyName">कंपनी का नाम दर्ज करें</string>
+    <string name="txtQrCodeEmailIdName">ईमेल आईडी दर्ज करें</string>
+    <string name="txtQrCodeEncryptionName">एन्क्रिप्शन</string>
+    <string name="txtQrCodeEndDateName">अंतिम तारीख़</string>
+    <string name="txtQrCodeFacebookName">फेसबुक</string>
+    <string name="txtQrCodeInstagramName">इंस्टाग्राम</string>
+    <string name="txtQrCodeLatitudeName">अक्षांश दर्ज करें</string>
+    <string name="txtQrCodeLinkedInName">लिंक्डइन</string>
+    <string name="txtQrCodeLocationName">स्थान दर्ज करें</string>
+    <string name="txtQrCodeLongitudeName">देशांतर दर्ज करें</string>
+    <string name="txtQrCodeMessageName">अपना संदेश दर्ज करें</string>
+    <string name="txtQrCodeName">क्यूआर - कोड</string>
+    <string name="txtQrCodeNameName">नाम दर्ज करें</string>
+    <string name="txtQrCodeNetworkName">नेटवर्क</string>
+    <string name="txtQrCodeNoEncryptionName">कोई एन्क्रिप्शन नहीं</string>
+    <string name="txtQrCodePasswordName">पासवर्ड</string>
+    <string name="txtQrCodePhoneNumName">फोन नंबर दर्ज</string>
+    <string name="txtQrCodeSmsName">अपना संदेश दर्ज करें</string>
+    <string name="txtQrCodeSnapChatName">स्नैपचैट</string>
+    <string name="txtQrCodeSubjectName">विषय दर्ज करें</string>
+    <string name="txtQrCodeTitleName">शीर्षक दर्ज करें</string>
+    <string name="txtQrCodeTwitterName">ट्विटर</string>
+    <string name="txtQrCodeWebSiteName">यूआरएल पता दर्ज करें</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">व्हाट्सएप</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">मूल्यांकन करें</string>
+    <string name="txtRateDescription">यदि आप QR Code स्कैन को पसंद करते हैं, तो कृपया ऐप को रेट करने के लिए कुछ समय दें। आपके सहयोग के लिए धन्यवाद!!!</string>
+    <string name="txtRateUs">हमें रेटिंग दें</string>
+    <string name="txtSMS">एसएमएस कंपोज़र खोलें</string>
+    <string name="txtShare">साझा</string>
+    <string name="txtShareApp">यहां आप और ऐप्स देख सकते हैं</string>
+    <string name="txtShopper">गूगल शॉपर</string>
+    <string name="txtSkip">स्किप</string>
+    <string name="txtSmsName">एसएमएस</string>
+    <string name="txtSnapChat">स्नैपचैट में खोलें</string>
+    <string name="txtSnapChatName">स्नैपचैट</string>
+    <string name="txtStart">शुरू</string>
+    <string name="txtText">टेक्स्ट खोजें</string>
+    <string name="txtTextName">टेक्स्ट</string>
+    <string name="txtTheme">थ़ीम्</string>
+    <string name="txtThemeDesc">यहां आप एप्लिकेशन थीम बदल सकते हैं।</string>
+    <string name="txtTwitter">ट्विटर में खोलें</string>
+    <string name="txtTwitterName">ट्विटर</string>
+    <string name="txtURL">गूगल में यूआरएल खोलें</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">व़ाइब्रेइट्</string>
+    <string name="txtVibrateDesc">स्कैन सफल होने पर वाइब्रेट करें।</string>
+    <string name="txtWIFI">पासवर्ड कॉपी करें</string>
+    <string name="txtWalMart">WalMart</string>
+    <string name="txtWebSiteName">वेबसाइट</string>
+    <string name="txtWhatsApp">व्हाट्सएप में खोलें</string>
+    <string name="txtWhatsAppName">व्हाट्सएप</string>
+    <string name="txtWifiName">वाईफ़ाई</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">बारकोड स्कैनर</string>
+    <string name="zxing_button_ok">ठीक है</string>
+    <string name="zxing_msg_camera_framework_bug">क्षमा करें, Android कैमरा एक समस्या का सामना करना पड़ा. आप डिवाइस को पुनरारंभ करने की आवश्यकता हो सकती है.</string>
+    <string name="zxing_msg_default_status">दृश्यदर्शी आयत के अंदर एक बारकोड प्लेस इसे स्कैन.</string>
+</resources>

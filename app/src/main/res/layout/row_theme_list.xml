@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/leyTheme"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgTheme"
+            android:layout_width="@dimen/img_icon_width"
+            android:layout_height="@dimen/img_icon_height"
+            android:layout_marginBottom="@dimen/mar_5"
+            android:layout_marginStart="@dimen/mar_10"
+            android:layout_marginTop="@dimen/mar_5"
+            app:srcCompat="@drawable/ic_theme_select" />
+
+        <TextView
+            android:id="@+id/txtTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/mar_65"
+            android:textColor="@color/txtColorBlack"
+            android:textSize="@dimen/txt_size_16" />
+
+        <ImageView
+            android:id="@+id/imgThemeSelected"
+            android:layout_width="@dimen/img_icon_width"
+            android:layout_height="@dimen/img_icon_height"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/mar_10"
+            android:padding="@dimen/pad_10"
+            app:srcCompat="@drawable/ic_done_black_24dp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginEnd="@dimen/mar_15"
+        android:layout_marginStart="@dimen/mar_15"
+        android:background="@color/rowDividerColorGray"
+        tools:ignore="RtlHardcoded" />
+
+</LinearLayout>

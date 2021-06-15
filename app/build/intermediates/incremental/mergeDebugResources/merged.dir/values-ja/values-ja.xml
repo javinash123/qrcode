@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>リセット</item>
+        <item>ギャラリーから画像を選択</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="appName">QRコードスキャン</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">バーコード</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">大丈夫です</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">QRコードまたはバーコードをスキャンするには、スキャンしたいQRまたはバーコードをポイントするだけで、自動的に検出され認識されます。</string>
+    <string name="intro_slide_detail_2">スキャンされたコードのフォーマットに応じて、QRコードスキャナーは適切な処置をとるように促します。</string>
+    <string name="intro_slide_detail_3">QRまたはバーコードを作成するには、テキスト、携帯電話番号、Eメール、SMS、VCard、WiFi、イベント、Webサイト、EAN-13、EAN-8、UPC-E、コード39、コード128、UPC-Aのいずれかを選択します。</string>
+    <string name="intro_slide_detail_4">選択したQRまたはバーコードの種類に関連する詳細を入力し、完了します。さまざまなプラットフォームと共有できるQRまたはバーコードが生成されます。</string>
+    <string name="intro_slide_title_1">スキャンQRコードやバーコード</string>
+    <string name="intro_slide_title_2">QRコードまたはバーコードを表示</string>
+    <string name="intro_slide_title_3">種類を選択</string>
+    <string name="intro_slide_title_4">QRコードまたはバーコードの作成</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">yyyy年M月</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"日グリッド（月別）"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g>を削除しました"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"完了"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"円形スライダー（時）"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g>を選択しました"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"円形スライダー（分）"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"月と日を選択"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"時間を選択"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"分を選択"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"年を選択"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"年リスト"</string>
+    <string name="msgBarCode">バーコードの内容を入力してください</string>
+    <string name="msgBarCodeEAN13">EAN-13 はコンテンツを13桁にする必要があります</string>
+    <string name="msgBarCodeEAN8">EAN-8 はコンテンツを8桁にする必要があります</string>
+    <string name="msgBarCodeUpca">UPC は、12桁にコンテンツを必要とします</string>
+    <string name="msgBarCodeUpce">UPC は、8桁のコンテンツを必要とします</string>
+    <string name="msgBarCodeValid">バーコードが無効です</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">開始文字を決定できませんでした。</string>
+    <string name="msgCode128Barcode3">エンコードテーブルに値が見つかりません</string>
+    <string name="msgCode128Barcode4">固定型のエンコードで不明な開始の種類です。</string>
+    <string name="msgCode128Barcode5">開始およびコード文字を挿入できませんでした。n メッセージ:</string>
+    <string name="msgCode128Barcode6">C128 タイプの値 ( "+ s1 + ") のエンコーディングが見つかりませんでした</string>
+    <string name="msgCode128Barcode7">C128 でエンコードできるのは数値のみです。</string>
+    <string name="msgCsvContent">あなたはまだ何もスキャンしていません。</string>
+    <string name="msgDateAndTime">将来の時間を設定する</string>
+    <string name="msgDeleteContent">すべての履歴を消去してよろしいですか？</string>
+    <string name="msgLocation">正しい場所を入力してください</string>
+    <string name="msgNo">いいえ</string>
+    <string name="msgNoReadCodeContent">qrcode / barcodeを読むことができません</string>
+    <string name="msgNotOpenAction">開いているアプリはありません</string>
+    <string name="msgOk">わかりました</string>
+    <string name="msgOkay">Okay</string>
+    <string name="msgPbBarCode">お待ちください</string>
+    <string name="msgPermissionCancel">キャンセル</string>
+    <string name="msgPermissionContent">QR コードとバーコードをスキャンするには、許可する必要があります</string>
+    <string name="msgPermissionExplainContent">あなたが許可を拒否するように見える、設定から許可を許可してください</string>
+    <string name="msgPermissionOk">わかりました</string>
+    <string name="msgQrCodeAllSocial">正しいプロファイルの詳細を指定してください</string>
+    <string name="msgQrCodeEventBDateAndTime">イベント開始日を選択してください</string>
+    <string name="msgQrCodeEventDate">終了日は開始日よりも大きい必要があります</string>
+    <string name="msgQrCodeEventEDateAndTime">イベント終了日を選択してください</string>
+    <string name="msgQrCodeEventLocation">イベントの場所を入力してください</string>
+    <string name="msgQrCodeEventTitle">イベントタイトルを入力してください</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">緯度を入力してください</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">経度を入力してください</string>
+    <string name="msgQrCodePhoneNum">有効な電話番号を入力してください</string>
+    <string name="msgQrCodeSms">Sms メッセージを入力してください</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">正しい詳細を入力してください</string>
+    <string name="msgQrCodeText">テキストメッセージを入力してください</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">電子メール id を入力してください</string>
+    <string name="msgQrCodeValidEmailBody">電子メールテキストを入力してください</string>
+    <string name="msgQrCodeValidEmailId">有効な電子メール id を入力してください</string>
+    <string name="msgQrCodeValidEmailSubject">件名を入力してください</string>
+    <string name="msgQrCodeValidPhoneNum">有効な電話番号を入力してください</string>
+    <string name="msgQrCodeValidWebSite">有効な url を入力してください</string>
+    <string name="msgQrCodeVcardCity">市区町村を入力してください</string>
+    <string name="msgQrCodeVcardCompanyName">社名を入力してください</string>
+    <string name="msgQrCodeVcardName">名前を入力してください</string>
+    <string name="msgQrCodeWebSite">Url を入力してください</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Wifi 名を入力してください</string>
+    <string name="msgQrCodeWifiPass">Wifi パスワードを入力してください</string>
+    <string name="msgUPCABarcode1">データ長が無効です。(長さは11または12でなければなりません)</string>
+    <string name="msgUPCABarcode2">数値データのみ</string>
+    <string name="msgUPCABarcode3">製造元コードが割り当てられていない国。</string>
+    <string name="msgUPCABarcode4">エラー計算のチェックディジットです。</string>
+    <string name="msgUPCEBarcode1">データ長が無効です。(8 または12の数字のみ)</string>
+    <string name="msgUPCEBarcode2">数値データのみ</string>
+    <string name="msgUPCEBarcode3">無効な番号システム (0 &amp; 1 のみ有効)</string>
+    <string name="msgUPCEBarcode4">無効な UPC-A が変換のために入力されました。 変換できません。</string>
+    <string name="msgYes">はい</string>
+    <string name="navCreate">作成</string>
+    <string name="navHistory">履歴</string>
+    <string name="navScan">スキャン</string>
+    <string name="navSetting">設定</string>
+    <string name="qrCodeEmail">メール</string>
+    <string name="qrCodeEvent">イベント</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">場所</string>
+    <string name="qrCodeNumber">数値</string>
+    <string name="qrCodeSection">QRコード</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">テキスト</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Webサイト</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">検索アマゾン</string>
+    <string name="txtApp">より多くのアプリケーション</string>
+    <string name="txtAppBarNameQABCodeGenerate">作成する</string>
+    <string name="txtAppNameBarCode">バーコード</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">作成コード</string>
+    <string name="txtAppNameCreateBCR">バーコード</string>
+    <string name="txtAppNameCreateQCR">QRコード</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">メール</string>
+    <string name="txtAppNameEvent">イベント</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">履歴</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">言語</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">場所</string>
+    <string name="txtAppNamePhoneNum">電話番号</string>
+    <string name="txtAppNameSetting">設定</string>
+    <string name="txtAppNameSms">テキストメッセージ</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">テキストメッセージ</string>
+    <string name="txtAppNameTheme">テーマ</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Webサイト</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">検索バーコード</string>
+    <string name="txtBarCodeName">バーコード</string>
+    <string name="txtBarcode">バーコード ： </string>
+    <string name="txtBeep">ビープ音</string>
+    <string name="txtBeepDesc">スキャンが成功したらビープ音を</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>参加者 : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>お誕生日 : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>シティ : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>会社名 : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>説明 : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>Eメール : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>暗号化 : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>終わり : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>インスタントメッセンジャー : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>言語 : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>緯度 : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>ロケーション : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>経度 : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>メッセージ : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>名 : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>ネットワーク名 : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>注意 : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>数 : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>主催者 : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>パスワード : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>電話番号 : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>開始 : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>件名 : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>概要 : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>テキスト : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>タイトル : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>に : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">検索ブック</string>
+    <string name="txtCall">電話番号を呼び出す</string>
+    <string name="txtClose">閉じる</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">Code 93</string>
+    <string name="txtConnect">接続</string>
+    <string name="txtContact">新しい連絡先を追加</string>
+    <string name="txtContent">コンテンツの検索</string>
+    <string name="txtCopyClipboard">クリップボードにコピーしました。</string>
+    <string name="txtDelete">削除する</string>
+    <string name="txtDirection">場所を表示</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">メール作成者を開く</string>
+    <string name="txtEmailName">メール</string>
+    <string name="txtEvent">予定を 追加</string>
+    <string name="txtEventName">イベント</string>
+    <string name="txtFacebook">で開く facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">使い方は？</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">で開く instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">言語</string>
+    <string name="txtLanguageDesc">ここでアプリケーションの言語を変更できます。</string>
+    <string name="txtLinkedIn">で開く linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">場所</string>
+    <string name="txtMMS">MMS を送信</string>
+    <string name="txtMap">マップを表示</string>
+    <string name="txtMoreApp">その他のアプリ</string>
+    <string name="txtNoPassword">このwifiのパスワードはありません</string>
+    <string name="txtOpen">開く</string>
+    <string name="txtPassword">パスワード ： </string>
+    <string name="txtPermission">アクセス許可を与えるにはここをクリック</string>
+    <string name="txtPhoneNumName">電話番号</string>
+    <string name="txtPlaceHolderCreate">まだコードを作成していません。</string>
+    <string name="txtPlaceHolderHistory">あなたはまだ何もスキャンしていません。</string>
+    <string name="txtPrivacy">プライバシーポリシー</string>
+    <string name="txtProduct">検索製品</string>
+    <string name="txtProductName">製品</string>
+    <string name="txtQrCodeAllDayName">終日</string>
+    <string name="txtQrCodeBeginDateName">開始日</string>
+    <string name="txtQrCodeBodyName">本文を入力</string>
+    <string name="txtQrCodeCityName">市区町村を入力してください</string>
+    <string name="txtQrCodeCompanyName">会社名を入力してください</string>
+    <string name="txtQrCodeEmailIdName">メールアドレスを入力してください</string>
+    <string name="txtQrCodeEncryptionName">暗号化</string>
+    <string name="txtQrCodeEndDateName">終了日</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">緯度を入力</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">場所を入力</string>
+    <string name="txtQrCodeLongitudeName">経度を入力</string>
+    <string name="txtQrCodeMessageName">あなたのメッセージを入力してください</string>
+    <string name="txtQrCodeName">QRコード</string>
+    <string name="txtQrCodeNameName">名前を入力</string>
+    <string name="txtQrCodeNetworkName">ネットワーク</string>
+    <string name="txtQrCodeNoEncryptionName">暗号化なし</string>
+    <string name="txtQrCodePasswordName">パスワード</string>
+    <string name="txtQrCodePhoneNumName">電話番号を入力</string>
+    <string name="txtQrCodeSmsName">あなたのメッセージを入力してください</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">件名を入力</string>
+    <string name="txtQrCodeTitleName">タイトルを入力</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">URLアドレスを入力</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">レート</string>
+    <string name="txtRateDescription">あなたはQRコードスキャンが好きなら、その後、アプリを評価するためにしばらく時間をかけてください。 ご支援いただきありがとうございます！！！</string>
+    <string name="txtRateUs">評価してください</string>
+    <string name="txtSMS">SMSコンポーザを開く</string>
+    <string name="txtShare">共有</string>
+    <string name="txtShareApp">ここでは、他のアプリを確認できます</string>
+    <string name="txtShopper">グーグルショッパー</string>
+    <string name="txtSkip">スキップ</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">で開く snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">開始</string>
+    <string name="txtText">検索テキスト</string>
+    <string name="txtTextName">テキスト</string>
+    <string name="txtTheme">テーマ</string>
+    <string name="txtThemeDesc">ここでアプリケーションテーマを変更できます。</string>
+    <string name="txtTwitter">で開く twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Google で uri を開く</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">振動</string>
+    <string name="txtVibrateDesc">スキャンが成功したら振動します。</string>
+    <string name="txtWIFI">パスワードをコピー</string>
+    <string name="txtWalMart">ウォルマート</string>
+    <string name="txtWebSiteName">Webサイト</string>
+    <string name="txtWhatsApp">で開く whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">QRコードスキャナー</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Androidのカメラに問題が発生しました。デバイスを再起動する必要があります。</string>
+    <string name="zxing_msg_default_status">QRコードを画面の読み取り範囲内に写すとスキャンします。</string>
+</resources>

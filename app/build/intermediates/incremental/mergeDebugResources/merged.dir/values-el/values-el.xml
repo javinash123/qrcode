@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Επαναφορά</item>
+        <item>Επιλέξτε Εικόνα από την Έκθεση</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Εμφάνιση όλων"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Επιλέξτε μια εφαρμογή"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"διάστημα"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Κοινοποίηση σε"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Κοινοποίηση στην εφαρμογή <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="appName">QR Code Scan</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Barcode</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Okay</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Για να σαρώσετε τον QR κώδικα ή τον γραμμωτό κώδικα, απλώς δείξτε τον QR ή τον γραμμωτό κώδικα που θέλετε να σαρώσετε και η εφαρμογή θα εντοπίσει και θα αναγνωρίσει αυτόματα</string>
+    <string name="intro_slide_detail_2">Ανάλογα με τις μορφές του σαρωμένου κώδικα, ο σαρωτής κώδικα QR θα σας ζητήσει να λάβετε τα κατάλληλα μέτρα.</string>
+    <string name="intro_slide_detail_3">Για να δημιουργήσετε ένα QR ή έναν Barcode επιλέξτε έναν τύπο από το κείμενο, τον κινητό αριθμό, το email, sms, VCard, WiFi, συμβάν, ιστοσελίδα, EAN-13, EAN-8, UPC-E, Code 39, Code 128, UPC-A</string>
+    <string name="intro_slide_detail_4">Συμπληρώστε τις σχετικές λεπτομέρειες για τον επιλεγμένο τύπο QR ή Barcode, πατήστε Done και θα δημιουργήσει QR ή Barcode που μπορείτε να μοιραστείτε με διάφορες πλατφόρμες</string>
+    <string name="intro_slide_title_1">Σάρωση QR Code ή Barcode</string>
+    <string name="intro_slide_title_2">Προβολή QR Code ή Barcode</string>
+    <string name="intro_slide_title_3">Επιλογή τύπου</string>
+    <string name="intro_slide_title_4">Δημιουργία QR Code ή Barcode</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">LLLL yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Πλέγμα ημερών του μήνα"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> διαγράφηκε"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Τέλος"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Κυκλικό ρυθμιστικό ωρών"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"Επιλέχτηκε το στοιχείο <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Κυκλικό ρυθμιστικό λεπτών"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Επιλογή μήνα και ημέρας"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Επιλέξτε ώρες"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Επιλέξτε λεπτά"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Επιλογή έτους"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Λίστα ετών"</string>
+    <string name="msgBarCode">Παρακαλούμε εισάγετε περιεχόμενο γραμμικού κώδικα</string>
+    <string name="msgBarCodeEAN13">Το EAN-13 απαιτεί το περιεχόμενο να είναι 13 ψηφία</string>
+    <string name="msgBarCodeEAN8">Το EAN-8 απαιτεί το περιεχόμενο να είναι 8 ψηφία</string>
+    <string name="msgBarCodeUpca">Το ΕΔΣ-α απαιτεί το περιεχόμενο να είναι 12 ψηφία</string>
+    <string name="msgBarCodeUpce">Το ΕΔΠ-ε απαιτεί το περιεχόμενο να είναι 8 ψηφία</string>
+    <string name="msgBarCodeValid">Ο γραμμικός κώδικας δεν είναι έγκυρος</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Illegal UPC-A entered for conversion.  Unable to convert.</string>
+    <string name="msgCode128Barcode3">Δεν βρέθηκε τιμή στον πίνακα κωδικοποίησης</string>
+    <string name="msgCode128Barcode4">Άγνωστος τύπος έναρξης σε σταθερή κωδικοποίηση τύπου.</string>
+    <string name="msgCode128Barcode5">Δεν ήταν δυνατή η εισαγωγή χαρακτήρων έναρξης και κώδικα. n μήνυμα:</string>
+    <string name="msgCode128Barcode6">Δεν ήταν δυνατή η εύρεση της κωδικοποίησης μιας τιμής ( "+ S1 + ") σε τύπο C128 </string>
+    <string name="msgCode128Barcode7">Μόνο αριθμητικές τιμές μπορούν να κωδικοποιηθούν με C128-C.</string>
+    <string name="msgCsvContent">Δεν έχετε σαρώσει ακόμα τίποτα</string>
+    <string name="msgDateAndTime">Ρυθμίστε τη μελλοντική σας ώρα</string>
+    <string name="msgDeleteContent">Είστε βέβαιοι ότι θέλετε να διαγράψετε όλο το ιστορικό;</string>
+    <string name="msgLocation">Παρακαλώ εισάγετε τη σωστή τοποθεσία σας</string>
+    <string name="msgNo">Όχι</string>
+    <string name="msgNoReadCodeContent">Δεν μπορεί να διαβάσει το qrcode/barcode</string>
+    <string name="msgNotOpenAction">Παρακαλούμε εισάγετε περιεχόμενο γραμμικού κώδικα</string>
+    <string name="msgOk">Ok</string>
+    <string name="msgOkay">εντάξει</string>
+    <string name="msgPbBarCode">Παρακαλώ περίμενε</string>
+    <string name="msgPermissionCancel">Ακυρώσετε</string>
+    <string name="msgPermissionContent">Για να σαρώσετε QR code και barcode θα πρέπει να επιτρέψετε την άδεια</string>
+    <string name="msgPermissionExplainContent">Φαίνεται σαν να αρνείστε την άδεια, παρακαλώ να επιτρέψετε την άδεια από τις ρυθμίσεις</string>
+    <string name="msgPermissionOk">Ok</string>
+    <string name="msgQrCodeAllSocial">Δώστε σωστές λεπτομέρειες προφίλ</string>
+    <string name="msgQrCodeEventBDateAndTime">Επιλέξτε ημερομηνία έναρξης συμβάντος</string>
+    <string name="msgQrCodeEventDate">Η ημερομηνία λήξης πρέπει να είναι μεγαλύτερη από την ημερομηνία έναρξης</string>
+    <string name="msgQrCodeEventEDateAndTime">Επιλέξτε ημερομηνία λήξης συμβάντος</string>
+    <string name="msgQrCodeEventLocation">Πληκτρολογήστε τη θέση του συμβάντος</string>
+    <string name="msgQrCodeEventTitle">Πληκτρολογήστε τον τίτλο του συμβάντος</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Παρακαλώ εισάγετε Γεωγραφικό πλάτος</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Παρακαλώ εισάγετε Γεωγραφικό μήκος</string>
+    <string name="msgQrCodePhoneNum">Πληκτρολογήστε έγκυρο αριθμό τηλεφώνου</string>
+    <string name="msgQrCodeSms">Παρακαλώ εισάγετε μήνυμα SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Παρακαλείσθε να παράσχετε σωστές λεπτομέρειες</string>
+    <string name="msgQrCodeText">Πληκτρολογήστε το μήνυμα κειμένου</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Πληκτρολογήστε το Αναγνωριστικό ηλεκτρονικού ταχυδρομείου</string>
+    <string name="msgQrCodeValidEmailBody">Πληκτρολογήστε κείμενο ηλεκτρονικού ταχυδρομείου</string>
+    <string name="msgQrCodeValidEmailId">Πληκτρολογήστε έγκυρο αναγνωριστικό ηλεκτρονικού ταχυδρομείου</string>
+    <string name="msgQrCodeValidEmailSubject">Παρακαλώ εισάγετε το θέμα</string>
+    <string name="msgQrCodeValidPhoneNum">Πληκτρολογήστε έγκυρο αριθμό τηλεφώνου</string>
+    <string name="msgQrCodeValidWebSite">Πληκτρολογήστε έγκυρη διεύθυνση URL</string>
+    <string name="msgQrCodeVcardCity">Παρακαλώ εισάγετε την πόλη</string>
+    <string name="msgQrCodeVcardCompanyName">Πληκτρολογήστε το όνομα της εταιρείας</string>
+    <string name="msgQrCodeVcardName">Πληκτρολογήστε το όνομα</string>
+    <string name="msgQrCodeWebSite">Πληκτρολογήστε τη διεύθυνση URL</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Παρακαλώ εισάγετε το όνομα WiFi</string>
+    <string name="msgQrCodeWifiPass">Παρακαλώ εισάγετε τον κωδικό πρόσβασης WiFi</string>
+    <string name="msgUPCABarcode1">Το μήκος δεδομένων δεν είναι έγκυρο. (Το μήκος πρέπει να είναι 11 ή 12)</string>
+    <string name="msgUPCABarcode2">Μόνο αριθμητικά δεδομένα</string>
+    <string name="msgUPCABarcode3">Δεν βρέθηκε ο κωδικός κατασκευαστή που εκχωρεί τη χώρα.</string>
+    <string name="msgUPCABarcode4">Σφάλμα κατά τον υπολογισμό του αριθμού ελέγχου.</string>
+    <string name="msgUPCEBarcode1">Μη έγκυρο μήκος δεδομένων. (8 ή 12 αριθμοί μόνο)</string>
+    <string name="msgUPCEBarcode2">Μόνο αριθμητικά δεδομένα</string>
+    <string name="msgUPCEBarcode3">Μη έγκυρο σύστημα αριθμών (μόνο 0 &amp; 1 είναι έγκυρα)</string>
+    <string name="msgUPCEBarcode4">Το μη έγκυρο ΕΔΣ-α εισήλθε για μετατροπή.  Δεν είναι δυνατή η μετατροπή.</string>
+    <string name="msgYes">Ναι</string>
+    <string name="navCreate">Δημιουργία</string>
+    <string name="navHistory">Ιστορικό</string>
+    <string name="navScan">Σάρωση</string>
+    <string name="navSetting">Ρύθμιση</string>
+    <string name="qrCodeEmail">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="qrCodeEvent">Συμβάν</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Τοποθεσία</string>
+    <string name="qrCodeNumber">Αριθμός</string>
+    <string name="qrCodeSection">Κωδικός QR</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Κείμενο</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Ιστοσελίδα</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wi-Fi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Αναζήτηση"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Αναζήτηση Amazon</string>
+    <string name="txtApp">Περισσότερες εφαρμογές</string>
+    <string name="txtAppBarNameQABCodeGenerate">Δημιουργώ</string>
+    <string name="txtAppNameBarCode">Barcode</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Δημιουργημένοι κώδικες</string>
+    <string name="txtAppNameCreateBCR">Barcode</string>
+    <string name="txtAppNameCreateQCR">Κωδικός QR</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="txtAppNameEvent">Συμβάν</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Ιστορικό</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Γλώσσα</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Τοποθεσία</string>
+    <string name="txtAppNamePhoneNum">Αριθμός τηλεφώνου</string>
+    <string name="txtAppNameSetting">Ρύθμιση</string>
+    <string name="txtAppNameSms">Μήνυμα κειμένου</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Μήνυμα κειμένου</string>
+    <string name="txtAppNameTheme">Θέμα</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Ιστοσελίδα</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wi-Fi</string>
+    <string name="txtBarCode">Αναζήτηση γραμμωτού κώδικα</string>
+    <string name="txtBarCodeName">Barcode</string>
+    <string name="txtBarcode">Barcode : </string>
+    <string name="txtBeep">Μπιπ</string>
+    <string name="txtBeepDesc">Μπιπ αν η σάρωση είναι επιτυχής.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Συμμετέχοντες : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Γενέθλια : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>Πόλη : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Όνομα εταιρείας : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Περιγραφή : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Κρυπτογράφηση : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Τέλος : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Άμεσος αγγελιοφόρος : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Γλώσσα : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Γεωγραφικό πλάτος : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Τοποθεσία : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Γεωγραφικό μήκος : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Μήνυμα : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Ονομα : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Ονομα δικτύου : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Σημείωση : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Αριθμός : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Διοργανωτής : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Κωδικός πρόσβασης : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Τηλεφωνικό νούμερο : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Ξεκινήσετε : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Θέμα : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Περίληψη : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Κείμενο : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Τίτλος : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Προς το : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Διεύθυνση url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Αναζήτηση βιβλίου</string>
+    <string name="txtCall">Κλήση τηλεφωνικού αριθμού</string>
+    <string name="txtClose">Κοντά</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">ΚΩΔΙΚΟΣ 93</string>
+    <string name="txtConnect">Συνδεθείτε</string>
+    <string name="txtContact">Προσθήκη νέας επαφής</string>
+    <string name="txtContent">Αναζήτηση περιεχομένου</string>
+    <string name="txtCopyClipboard">Αντιγράφηκε στο Πρόχειρο!</string>
+    <string name="txtDelete">Διαγραφή</string>
+    <string name="txtDirection">Εμφάνιση τοποθεσίας</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Άνοιγμα συνθέτη αλληλογραφίας</string>
+    <string name="txtEmailName">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="txtEvent">Προσθήκη συμβάντος</string>
+    <string name="txtEventName">Συμβάν</string>
+    <string name="txtFacebook">Άνοιγμα σε facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Πώς να χρησιμοποιήσω;</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Άνοιγμα σε instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Γλώσσα</string>
+    <string name="txtLanguageDesc">Εδώ μπορείτε να αλλάξετε τη γλώσσα της εφαρμογής.</string>
+    <string name="txtLinkedIn">Άνοιγμα σε linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Τοποθεσία</string>
+    <string name="txtMMS">Αποστολή MMS</string>
+    <string name="txtMap">Εμφάνιση χάρτη</string>
+    <string name="txtMoreApp">Περισσότερες εφαρμογές</string>
+    <string name="txtNoPassword">Δεν υπάρχει κωδικός πρόσβασης για αυτό το wifi</string>
+    <string name="txtOpen">Ανοίξετε</string>
+    <string name="txtPassword">Κωδικός πρόσβασης : </string>
+    <string name="txtPermission">Κάντε κλικ εδώ για να δώσετε ένα δικαίωμα</string>
+    <string name="txtPhoneNumName">Αριθμός τηλεφώνου</string>
+    <string name="txtPlaceHolderCreate">Δεν έχετε δημιουργήσει ακόμα κωδικούς</string>
+    <string name="txtPlaceHolderHistory">Δεν έχετε σαρώσει ακόμα τίποτα</string>
+    <string name="txtPrivacy">Πολιτική απορρήτου</string>
+    <string name="txtProduct">Αναζήτηση προϊόντος</string>
+    <string name="txtProductName">Προϊόν</string>
+    <string name="txtQrCodeAllDayName">Ολη μέρα</string>
+    <string name="txtQrCodeBeginDateName">Ημερομηνία έναρξης</string>
+    <string name="txtQrCodeBodyName">Εισαγωγή σώματος</string>
+    <string name="txtQrCodeCityName">Είσοδος στην πόλη</string>
+    <string name="txtQrCodeCompanyName">Εισαγωγή ονόματος εταιρείας</string>
+    <string name="txtQrCodeEmailIdName">Εισαγωγή αναγνωριστικού ηλεκτρονικού ταχυδρομείου</string>
+    <string name="txtQrCodeEncryptionName">Κρυπτογράφηση</string>
+    <string name="txtQrCodeEndDateName">Ημερομηνία λήξης</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Καταχωρίστε γεωγραφικό πλάτος</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Εισαγωγή τοποθεσίας</string>
+    <string name="txtQrCodeLongitudeName">Καταχωρίστε γεωγραφικό μήκος</string>
+    <string name="txtQrCodeMessageName">Εισάγετε το μήνυμά σας</string>
+    <string name="txtQrCodeName">Κωδικός QR</string>
+    <string name="txtQrCodeNameName">Εισαγωγή ονόματος</string>
+    <string name="txtQrCodeNetworkName">Δίκτυο</string>
+    <string name="txtQrCodeNoEncryptionName"><!--Χωρίς κρυπτογράφηση-->No encryption</string>
+    <string name="txtQrCodePasswordName">Κωδικός πρόσβασης</string>
+    <string name="txtQrCodePhoneNumName">Εισαγωγή αριθμού τηλεφώνου</string>
+    <string name="txtQrCodeSmsName">Εισάγετε το μήνυμά σας</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Εισαγωγή θέματος</string>
+    <string name="txtQrCodeTitleName">Εισαγωγή τίτλου</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Εισαγωγή διεύθυνσης URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Τιμή</string>
+    <string name="txtRateDescription">Αν σας αρέσει η QR Code Scan τότε, παρακαλώ αφιερώστε λίγο χρόνο για να αξιολογήσετε την εφαρμογή. Σας ευχαριστούμε για την υποστήριξή σας!!!</string>
+    <string name="txtRateUs">Αξιολογήστε μας</string>
+    <string name="txtSMS">Άνοιγμα συνθέτη SMS</string>
+    <string name="txtShare">Μοιραστείτε</string>
+    <string name="txtShareApp">Εδώ μπορείτε να ελέγξετε περισσότερες εφαρμογές</string>
+    <string name="txtShopper">Αγοραστής Google</string>
+    <string name="txtSkip">Παραλείψετε</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Άνοιγμα σε snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Ξεκινήσετε</string>
+    <string name="txtText">Αναζήτηση κειμένου</string>
+    <string name="txtTextName">Κείμενο</string>
+    <string name="txtTheme">Θέμα</string>
+    <string name="txtThemeDesc">Εδώ μπορείτε να αλλάξετε θέμα εφαρμογών.</string>
+    <string name="txtTwitter">Άνοιγμα σε twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Άνοιγμα URI στο Google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Δόνηση</string>
+    <string name="txtVibrateDesc">Δόνηση εάν η σάρωση είναι επιτυχής.</string>
+    <string name="txtWIFI">Αντιγραφή κωδικού πρόσβασης</string>
+    <string name="txtWalMart">Walmart</string>
+    <string name="txtWebSiteName">Ιστοσελίδα</string>
+    <string name="txtWhatsApp">Άνοιγμα σε whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wi-Fi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Συγνώμη, προέκυψε ένα πρόβλημα με την κάμερα. Ίσως χρειαστεί να επανεκιννήσετε τη συσκευή.</string>
+    <string name="zxing_msg_default_status">Τοποθετήστε ένα barcode μέσα στο πλαίσιο για να το σκανάρετε.</string>
+</resources>

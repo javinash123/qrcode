@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>Setel ulang</item>
+        <item>Pilih Gambar dari Galeri</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="appName">Pemindaian QR Code</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">Kode batang</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> mengalami masalah dengan layanan Google Play. Coba lagi."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">Oke</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">Untuk memindai kode QR atau Barcode, cukup tunjuk ke QR atau barcode yang ingin Anda pindai dan aplikasi akan secara otomatis mendeteksi dan mengenalinya.</string>
+    <string name="intro_slide_detail_2">Bergantung pada format kode yang dipindai, pemindai kode QR akan meminta untuk mengambil tindakan yang sesuai.</string>
+    <string name="intro_slide_detail_3">Untuk membuat QR atau Barcode, pilih salah satu jenis dari Teks, nomor ponsel, email, sms, VCard, WiFi, acara, situs web, EAN-13, EAN-8, UPC-E, Kode 39, Kode 128, Kode 128, UPC-A</string>
+    <string name="intro_slide_detail_4">Isi detail yang relevan untuk jenis QR atau Barcode yang dipilih, tekan selesai. Ini akan menghasilkan QR Atau Barcode yang dapat Anda bagikan dengan berbagai platform.</string>
+    <string name="intro_slide_title_1">Pindai QR Code atau Barcode</string>
+    <string name="intro_slide_title_2">Lihat QR Code atau Barcode</string>
+    <string name="intro_slide_title_3">Pilih tipe</string>
+    <string name="intro_slide_title_4">Buat QR Code atau Barcode</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Kisi hari pada bulan"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> dihapus"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Selesai"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Penggeser putar jam"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> dipilih"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Penggeser putar menit"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Pilih bulan dan hari"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Pilih jam"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Pilih menit"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Pilih tahun"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Daftar tahun"</string>
+    <string name="msgBarCode">Silakan masukkan konten barcode</string>
+    <string name="msgBarCodeEAN13">EAN-13 membutuhkan konten menjadi 13 digit</string>
+    <string name="msgBarCodeEAN8">EAN-8 membutuhkan konten 8 digit</string>
+    <string name="msgBarCodeUpca">UPC-A membutuhkan konten menjadi 12 digit</string>
+    <string name="msgBarCodeUpce">UPC-E membutuhkan konten menjadi 8 digit</string>
+    <string name="msgBarCodeValid">Barcode tidak valid</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">Tidak dapat menentukan mulai karakter.</string>
+    <string name="msgCode128Barcode3">Tidak ada nilai yang ditemukan dalam tabel pengkodean</string>
+    <string name="msgCode128Barcode4">Jenis awal yang tidak diketahui dalam pengkodean jenis tetap.</string>
+    <string name="msgCode128Barcode5">Tidak dapat memasukkan karakter mulai dan kode. n pesan:</string>
+    <string name="msgCode128Barcode6">Tidak dapat menemukan pengkodean nilai ( "+ S1 + ") di C128 jenis </string>
+    <string name="msgCode128Barcode7">Hanya nilai numerik dapat dikodekan dengan C128-C.</string>
+    <string name="msgCsvContent">Anda belum memindai apa pun.</string>
+    <string name="msgDateAndTime">Atur waktu masa depan Anda</string>
+    <string name="msgDeleteContent">Apakah Anda yakin ingin menghapus semua riwayat?</string>
+    <string name="msgLocation">Silakan masukkan lokasi Anda yang benar</string>
+    <string name="msgNo">Tidak</string>
+    <string name="msgNoReadCodeContent">Tidak bisa membaca qrcode / barcode</string>
+    <string name="msgNotOpenAction">Tidak ada aplikasi untuk membuka</string>
+    <string name="msgOk">Oke</string>
+    <string name="msgOkay">Okay</string>
+    <string name="msgPbBarCode">Harap tunggu</string>
+    <string name="msgPermissionCancel">Membatalkan</string>
+    <string name="msgPermissionContent">Untuk memindai kode QR dan barcode Anda perlu untuk memungkinkan izin</string>
+    <string name="msgPermissionExplainContent">Terlihat seperti Anda menolak izin, silakan Izinkan izin dari pengaturan</string>
+    <string name="msgPermissionOk">Oke</string>
+    <string name="msgQrCodeAllSocial">Harap berikan detail profil yang benar</string>
+    <string name="msgQrCodeEventBDateAndTime">Silakan pilih tanggal mulai acara</string>
+    <string name="msgQrCodeEventDate">Tanggal akhir harus lebih besar dari tanggal mulai</string>
+    <string name="msgQrCodeEventEDateAndTime">Silakan pilih tanggal akhir acara</string>
+    <string name="msgQrCodeEventLocation">Silakan masukkan lokasi acara</string>
+    <string name="msgQrCodeEventTitle">Silakan masukkan judul acara</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">Silakan masukkan lintang</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">Silakan masukkan bujur</string>
+    <string name="msgQrCodePhoneNum">Harap masukkan nomor telepon yang valid</string>
+    <string name="msgQrCodeSms">Silakan masukkan pesan SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">Harap berikan detail yang benar</string>
+    <string name="msgQrCodeText">Silakan masukkan pesan teks</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">Silakan masukkan ID email</string>
+    <string name="msgQrCodeValidEmailBody">Silakan masukkan teks email</string>
+    <string name="msgQrCodeValidEmailId">Silakan masukkan ID email yang valid</string>
+    <string name="msgQrCodeValidEmailSubject">Silakan masukkan subyek</string>
+    <string name="msgQrCodeValidPhoneNum">Harap masukkan nomor telepon yang valid</string>
+    <string name="msgQrCodeValidWebSite">Silakan masukkan URL yang valid</string>
+    <string name="msgQrCodeVcardCity">Silakan masukkan kota</string>
+    <string name="msgQrCodeVcardCompanyName">Silakan masukkan nama perusahaan</string>
+    <string name="msgQrCodeVcardName">Silakan masukkan nama</string>
+    <string name="msgQrCodeWebSite">Silakan masukkan URL</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">Silakan masukkan nama WiFi</string>
+    <string name="msgQrCodeWifiPass">Silakan masukkan password WiFi</string>
+    <string name="msgUPCABarcode1">Panjang data tidak valid. (Panjang harus 11 atau 12)</string>
+    <string name="msgUPCABarcode2">Hanya data numerik</string>
+    <string name="msgUPCABarcode3">Negara menetapkan kode produsen tidak ditemukan.</string>
+    <string name="msgUPCABarcode4">Galat menghitung digit centang.</string>
+    <string name="msgUPCEBarcode1">Panjang data tidak valid. (8 atau 12 nomor saja)</string>
+    <string name="msgUPCEBarcode2">Hanya data numerik</string>
+    <string name="msgUPCEBarcode3">Invalid nomor sistem (hanya 0 &amp; 1 valid)</string>
+    <string name="msgUPCEBarcode4">Ilegal UPC-A masuk untuk konversi.  Tidak dapat mengkonversi.</string>
+    <string name="msgYes">Ya</string>
+    <string name="navCreate">Buat</string>
+    <string name="navHistory">Sejarah</string>
+    <string name="navScan">Pindai</string>
+    <string name="navSetting">Pengaturan</string>
+    <string name="qrCodeEmail">Email</string>
+    <string name="qrCodeEvent">Acara</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">Lokasi</string>
+    <string name="qrCodeNumber">Jumlah</string>
+    <string name="qrCodeSection">Kode QR</string>
+    <string name="qrCodeSms">SMS</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">Teks</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">VCard</string>
+    <string name="qrCodeWebSite">Situs web</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">Wifi</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">Cari Amazon</string>
+    <string name="txtApp">Aplikasi tambahan lainnya</string>
+    <string name="txtAppBarNameQABCodeGenerate">menciptakan</string>
+    <string name="txtAppNameBarCode">Kode batang</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">Kode yang dibuat</string>
+    <string name="txtAppNameCreateBCR">Kode batang</string>
+    <string name="txtAppNameCreateQCR">Kode QR</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">Email</string>
+    <string name="txtAppNameEvent">Acara</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">Sejarah</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">Bahasa</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">Lokasi</string>
+    <string name="txtAppNamePhoneNum">Nomor telepon</string>
+    <string name="txtAppNameSetting">Pengaturan</string>
+    <string name="txtAppNameSms">Pesan teks</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">Pesan teks</string>
+    <string name="txtAppNameTheme">Tema</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">VCard</string>
+    <string name="txtAppNameWebSite">Situs web</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">Wifi</string>
+    <string name="txtBarCode">Cari Kode batang</string>
+    <string name="txtBarCodeName">Kode batang</string>
+    <string name="txtBarcode">Kode batang : </string>
+    <string name="txtBeep">Bip</string>
+    <string name="txtBeepDesc">Bip jika pemindaian berhasil.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>Peserta : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>Ulang tahun : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>Kota : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>Nama Perusahaan : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>Deskripsi : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>Email : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>Enkripsi : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>Akhir : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>Instant Messenger : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>Bahasa : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>Lintang : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>Lokasi : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>Garis bujur : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>Pesan : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>Nama : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>Nama jaringan : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>Catatan : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>Nomor : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>Penyelenggara : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>Kata sandi : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>Nomor telepon : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>Mulai : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>Subyek : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>Ringkasan : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>Teks : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>Judul : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>Untuk : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">Cari buku</string>
+    <string name="txtCall">Panggil nomor telepon</string>
+    <string name="txtClose">Dekat</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">KODE 93</string>
+    <string name="txtConnect">Menghubungkan</string>
+    <string name="txtContact">Tambah kontak baru</string>
+    <string name="txtContent">Cari konten</string>
+    <string name="txtCopyClipboard">Disalin ke Clipboard!</string>
+    <string name="txtDelete">Menghapus</string>
+    <string name="txtDirection">Tampilkan lokasi</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">Buka komposer surat</string>
+    <string name="txtEmailName">Email</string>
+    <string name="txtEvent">Tambah acara</string>
+    <string name="txtEventName">Acara</string>
+    <string name="txtFacebook">Buka di facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">Bagaimana cara menggunakan?</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">Buka di instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">Bahasa</string>
+    <string name="txtLanguageDesc">Di sini Anda dapat mengubah bahasa aplikasi.</string>
+    <string name="txtLinkedIn">Buka di linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">Lokasi</string>
+    <string name="txtMMS">Kirim MMS</string>
+    <string name="txtMap">Tampilkan peta</string>
+    <string name="txtMoreApp">Aplikasi lainnya</string>
+    <string name="txtNoPassword">Tidak ada kata sandi untuk wifi ini</string>
+    <string name="txtOpen">Terbuka</string>
+    <string name="txtPassword">Kata sandi : </string>
+    <string name="txtPermission">Klik di sini untuk memberikan izin</string>
+    <string name="txtPhoneNumName">Nomor telepon</string>
+    <string name="txtPlaceHolderCreate">Anda belum membuat kode apa pun.</string>
+    <string name="txtPlaceHolderHistory">Anda belum memindai apa pun.</string>
+    <string name="txtPrivacy">Kebijakan privasi</string>
+    <string name="txtProduct">Cari produk</string>
+    <string name="txtProductName">Product</string>
+    <string name="txtQrCodeAllDayName">Sepanjang hari</string>
+    <string name="txtQrCodeBeginDateName">Tanggal mulai</string>
+    <string name="txtQrCodeBodyName">Masukkan Tubuh</string>
+    <string name="txtQrCodeCityName">Masukkan Kota</string>
+    <string name="txtQrCodeCompanyName">Masukkan nama perusahaan</string>
+    <string name="txtQrCodeEmailIdName">Masukkan id email</string>
+    <string name="txtQrCodeEncryptionName">Enkripsi</string>
+    <string name="txtQrCodeEndDateName">Tanggal akhir</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">Masukkan garis lintang</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">Masukkan Lokasi</string>
+    <string name="txtQrCodeLongitudeName">Masukkan bujur</string>
+    <string name="txtQrCodeMessageName">Masukkan pesan Anda</string>
+    <string name="txtQrCodeName">Kode QR</string>
+    <string name="txtQrCodeNameName">Masukkan nama</string>
+    <string name="txtQrCodeNetworkName">Jaringan</string>
+    <string name="txtQrCodeNoEncryptionName">Tanpa enkripsi</string>
+    <string name="txtQrCodePasswordName">Kata Sandi</string>
+    <string name="txtQrCodePhoneNumName">Masukkan nomor Telepon</string>
+    <string name="txtQrCodeSmsName">Masukkan pesan Anda</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">Masukkan Subjek</string>
+    <string name="txtQrCodeTitleName">Masukkan Judul</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">Masukkan alamat URL</string>
+    <string name="txtQrCodeWepName">Wep</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">Menilai</string>
+    <string name="txtRateDescription">Jika Anda suka QR Code Scan, silakan luangkan waktu untuk menilai aplikasi. Terima kasih atas dukungan Anda!!!</string>
+    <string name="txtRateUs">Nilai kami</string>
+    <string name="txtSMS">Buka komposer SMS</string>
+    <string name="txtShare">Berbagi</string>
+    <string name="txtShareApp">Aquí puedes consultar más aplicaciones</string>
+    <string name="txtShopper">Google pembelanja</string>
+    <string name="txtSkip">Melewatkan</string>
+    <string name="txtSmsName">SMS</string>
+    <string name="txtSnapChat">Buka di snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">Mulai</string>
+    <string name="txtText">Cari teks</string>
+    <string name="txtTextName">Teks</string>
+    <string name="txtTheme">Tema</string>
+    <string name="txtThemeDesc">Di sini Anda dapat mengubah tema aplikasi.</string>
+    <string name="txtTwitter">Buka di twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">Buka URI di Google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">VCard</string>
+    <string name="txtVibrate">Getar</string>
+    <string name="txtVibrateDesc">Getar jika pemindaian berhasil.</string>
+    <string name="txtWIFI">Salin kata sandi</string>
+    <string name="txtWalMart">WalMart</string>
+    <string name="txtWebSiteName">Situs web</string>
+    <string name="txtWhatsApp">Buka di whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">Wifi</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+</resources>

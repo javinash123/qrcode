@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="SelectImage">
+        <item>إعادة تعيين</item>
+        <item>اختر صوره من المعرض</item>
+    </string-array>
+    <integer name="viewfinder_border_length">60</integer>
+    <integer name="viewfinder_border_width">4</integer>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="appName">QR Code المسح الضوئي</string>
+    <string name="ar">ar</string>
+    <string name="barCodeCode128">Code 128</string>
+    <string name="barCodeCode39">Code 39</string>
+    <string name="barCodeEan13">EAN-13</string>
+    <string name="barCodeEan8">EAN-8</string>
+    <string name="barCodeSection">الباركود</string>
+    <string name="barCodeUpca">UPC-A</string>
+    <string name="barCodeUpce">UPC-E</string>
+    <string name="ca">ca</string>
+    <string name="colorNameBlueGray">Blue Gray</string>
+    <string name="colorNameBrown">Brown</string>
+    <string name="colorNameCyan">Cyan</string>
+    <string name="colorNameDeepPurple">Deep Purple</string>
+    <string name="colorNameElectricPurple">Electric Purple</string>
+    <string name="colorNameGreen">Green</string>
+    <string name="colorNameIndigo">Indigo</string>
+    <string name="colorNamePurple">Purple</string>
+    <string name="colorNameRed">Red</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string name="da">da</string>
+    <string name="de">de</string>
+    <string name="el">el</string>
+    <string name="en">en</string>
+    <string name="es">es</string>
+    <string name="event_msg_okay">حسنا</string>
+    <string name="fr">fr</string>
+    <string name="hi">hi</string>
+    <string name="in">in</string>
+    <string name="inputBarCodeNum">0123456789</string>
+    <string name="intro_slide_detail_1">لمسح رمز الاستجابة السريعة أو الرمز الشريطي ضوئيًا ، ما عليك سوى الإشارة إلى QR أو الرمز الشريطي الذي تريد مسحه وسيعمل التطبيق على اكتشافه والتعرف عليه تلقائيًا.</string>
+    <string name="intro_slide_detail_2">اعتمادًا على تنسيقات التعليمات البرمجية الممسوحة ضوئيًا ، سيطلب منك ماسح رمز الاستجابة السريعة اتخاذ الإجراء المناسب.</string>
+    <string name="intro_slide_detail_3">لإنشاء QR أو الرمز الشريطي ، حدد أي نوع واحد من Text أو رقم الهاتف أو البريد الإلكتروني أو الرسائل القصيرة أو VCard أو WiFi أو الحدث أو الموقع الإلكتروني أو EAN-13 أو EAN-8 أو UPC-E أو الرمز 39 أو الرمز 128 أو UPC-A</string>
+    <string name="intro_slide_detail_4">املأ التفاصيل ذات الصلة لنوع QR أو Barcode المختارة ، اضغط على. سيتم إنشاء QR أو Barcode الذي يمكنك مشاركته مع منصات مختلفة.</string>
+    <string name="intro_slide_title_1">Scan QR Code or BarCode</string>
+    <string name="intro_slide_title_2">عرض QR Code أو الرمز الشريطي</string>
+    <string name="intro_slide_title_3">اختر النوع</string>
+    <string name="intro_slide_title_4">إنشاء QR Code أو Barcode</string>
+    <string name="it">it</string>
+    <string name="iw">iw</string>
+    <string name="ja">ja</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"شبكة الشهر مكونة من الأيام"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"تم حذف <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"تم"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"شريط التمرير الدائري للساعات"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"تم تحديد <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"شريط التمرير الدائري للدقائق"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"تحديد الشهر واليوم"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"تحديد الساعات"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"تحديد الدقائق"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"تحديد العام"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"قائمة الأعوام"</string>
+    <string name="msgBarCode">الرجاء إدخال محتوى الباركود</string>
+    <string name="msgBarCodeEAN13">EAN-13 يتطلب ان يكون المحتوي 13 رقما</string>
+    <string name="msgBarCodeEAN8">EAN-8 يتطلب ان يكون المحتوي 8 أرقام</string>
+    <string name="msgBarCodeUpca">يتطلب UPC-A ان يكون المحتوي 12 رقما</string>
+    <string name="msgBarCodeUpce">يتطلب UPC-E ان يكون المحتوي 8 أرقام</string>
+    <string name="msgBarCodeValid">الباركود غير صالح</string>
+    <string name="msgCode128Barcode1">Code128Barcode-1:</string>
+    <string name="msgCode128Barcode2">تعذر تحديد حرف البدء.</string>
+    <string name="msgCode128Barcode3">لم يتم العثور علي قيمه في جدول الترميز</string>
+    <string name="msgCode128Barcode4">نوع بدء غير معروف في ترميز نوع ثابت.</string>
+    <string name="msgCode128Barcode5">تعذر ادراج أحرف البدء والتعليمات البرمجية. n الرسالة:</string>
+    <string name="msgCode128Barcode6">تعذر العثور علي ترميز قيمه ( "+ s1 + ") في نوع C128 </string>
+    <string name="msgCode128Barcode7">يمكن ترميز القيم الرقمية فقط مع C128.</string>
+    <string name="msgCsvContent">لم تفحص أي شيء حتى الآن.</string>
+    <string name="msgDateAndTime">تعيين الوقت الخاص بك في المستقبل</string>
+    <string name="msgDeleteContent">هل أنت متأكد من أنك تريد مسح كل التاريخ؟</string>
+    <string name="msgLocation">الرجاء إدخال الموقع الصحيح</string>
+    <string name="msgNo">لا</string>
+    <string name="msgNoReadCodeContent">لا يمكن قراءة qrcode / الباركود</string>
+    <string name="msgNotOpenAction">لا يوجد أي تطبيق لفتح</string>
+    <string name="msgOk">موافق</string>
+    <string name="msgOkay">حسنا</string>
+    <string name="msgPbBarCode">الرجاء الانتظار</string>
+    <string name="msgPermissionCancel">إلغاء الأمر</string>
+    <string name="msgPermissionContent">لمسح رمز الاستجابة السريعة والباركود تحتاج إلى السماح اذن</string>
+    <string name="msgPermissionExplainContent">يبدو انك ترفض الاذن ، الرجاء السماح بالاذن من الإعدادات</string>
+    <string name="msgPermissionOk">موافق</string>
+    <string name="msgQrCodeAllSocial">يرجى تقديم تفاصيل الملف الشخصي الصحيحة</string>
+    <string name="msgQrCodeEventBDateAndTime">الرجاء تحديد تاريخ بدء الحدث</string>
+    <string name="msgQrCodeEventDate">يجب ان يكون تاريخ الانتهاء أكبر من تاريخ البدء</string>
+    <string name="msgQrCodeEventEDateAndTime">الرجاء تحديد تاريخ انتهاء الحدث</string>
+    <string name="msgQrCodeEventLocation">الرجاء إدخال موقع الحدث</string>
+    <string name="msgQrCodeEventTitle">الرجاء إدخال عنوان الحدث</string>
+    <string name="msgQrCodeFacebook">Please enter facebook id</string>
+    <string name="msgQrCodeInstagram">Please enter instagram id</string>
+    <string name="msgQrCodeLatitude">الرجاء إدخال خط العرض</string>
+    <string name="msgQrCodeLinkedIn">Please enter linked in id</string>
+    <string name="msgQrCodeLongitude">الرجاء إدخال خط الطول</string>
+    <string name="msgQrCodePhoneNum">الرجاء إدخال رقم هاتف صحيح</string>
+    <string name="msgQrCodeSms">الرجاء إدخال رسالة SMS</string>
+    <string name="msgQrCodeSnapChat">Please enter snapchat id</string>
+    <string name="msgQrCodeSocial">يرجى تقديم التفاصيل الصحيحة</string>
+    <string name="msgQrCodeText">الرجاء إدخال رسالة نصية</string>
+    <string name="msgQrCodeTwitter">Please enter twitter id</string>
+    <string name="msgQrCodeValidEmail">الرجاء إدخال معرف البريد الإلكتروني</string>
+    <string name="msgQrCodeValidEmailBody">الرجاء إدخال نص البريد الإلكتروني</string>
+    <string name="msgQrCodeValidEmailId">الرجاء إدخال معرف بريد إلكتروني صالح</string>
+    <string name="msgQrCodeValidEmailSubject">الرجاء إدخال الموضوع</string>
+    <string name="msgQrCodeValidPhoneNum">الرجاء إدخال رقم هاتف صحيح</string>
+    <string name="msgQrCodeValidWebSite">الرجاء إدخال عنوان URL صالح</string>
+    <string name="msgQrCodeVcardCity">الرجاء إدخال المدينة</string>
+    <string name="msgQrCodeVcardCompanyName">الرجاء إدخال اسم الشركة</string>
+    <string name="msgQrCodeVcardName">الرجاء إدخال الاسم</string>
+    <string name="msgQrCodeWebSite">الرجاء إدخال رابط</string>
+    <string name="msgQrCodeWhatsApp">Please enter whatsapp id</string>
+    <string name="msgQrCodeWifiName">الرجاء إدخال اسم wifi</string>
+    <string name="msgQrCodeWifiPass">الرجاء إدخال كلمة مرور wifi</string>
+    <string name="msgUPCABarcode1">طول البيانات غير صالح. (يجب ان يكون الطول 11 أو 12)</string>
+    <string name="msgUPCABarcode2">بيانات رقميه فقط</string>
+    <string name="msgUPCABarcode3">لم يتم العثور علي البلد تعيين رمز الشركة المصنعة.</string>
+    <string name="msgUPCABarcode4">خطا في حساب رقم الشيك.</string>
+    <string name="msgUPCEBarcode1">طول البيانات غير صالح. (8 أو 12 رقم فقط)</string>
+    <string name="msgUPCEBarcode2">بيانات رقميه فقط</string>
+    <string name="msgUPCEBarcode3">نظام الأرقام غير صالح (فقط 0 &amp; 1 صالحه)</string>
+    <string name="msgUPCEBarcode4">تم إدخال اتحاد الاتحاد الكونغولي غير القانوني-A للتحويل.  غير قادر علي التحويل.</string>
+    <string name="msgYes">نعم فعلا</string>
+    <string name="navCreate">خلق</string>
+    <string name="navHistory">التاريخ</string>
+    <string name="navScan">تفحص</string>
+    <string name="navSetting">ضبط</string>
+    <string name="qrCodeEmail">البريد الإلكتروني</string>
+    <string name="qrCodeEvent">هدف</string>
+    <string name="qrCodeFacebook">Facebook</string>
+    <string name="qrCodeInstagram">Instagram</string>
+    <string name="qrCodeLinkedIn">Linked in</string>
+    <string name="qrCodeLocation">موقعك</string>
+    <string name="qrCodeNumber">رقم</string>
+    <string name="qrCodeSection">رمز الاستجابة السريعة</string>
+    <string name="qrCodeSms">رسالة قصيرة</string>
+    <string name="qrCodeSnapChat">Snapchat</string>
+    <string name="qrCodeText">نص</string>
+    <string name="qrCodeTwitter">Twitter</string>
+    <string name="qrCodeVCard">بصيغة بطاقة</string>
+    <string name="qrCodeWebSite">موقع الكتروني</string>
+    <string name="qrCodeWhatsApp">Whatsapp</string>
+    <string name="qrCodeWifi">واي فاي</string>
+    <string name="ro">ro</string>
+    <string name="ru">ru</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tr">tr</string>
+    <string name="txtAmazon">بحث الأمازون</string>
+    <string name="txtApp">تطبيقات أكثر</string>
+    <string name="txtAppBarNameQABCodeGenerate">خلق</string>
+    <string name="txtAppNameBarCode">الباركود</string>
+    <string name="txtAppNameCode128">Code 128</string>
+    <string name="txtAppNameCode39">Code 39</string>
+    <string name="txtAppNameCreate">الرموز التي تم إنشاؤها</string>
+    <string name="txtAppNameCreateBCR">الباركود</string>
+    <string name="txtAppNameCreateQCR">رمز الاستجابة السريعة</string>
+    <string name="txtAppNameEAN13">EAN-13</string>
+    <string name="txtAppNameEAN8">EAN-8</string>
+    <string name="txtAppNameEmail">البريد الإلكتروني</string>
+    <string name="txtAppNameEvent">هدف</string>
+    <string name="txtAppNameFacebook">Facebook</string>
+    <string name="txtAppNameHistory">التاريخ</string>
+    <string name="txtAppNameInstagram">Instagram</string>
+    <string name="txtAppNameLanguage">لغة</string>
+    <string name="txtAppNameLinkedIn">Linked in</string>
+    <string name="txtAppNameLocation">موقعك</string>
+    <string name="txtAppNamePhoneNum">رقم الهاتف</string>
+    <string name="txtAppNameSetting">ضبط</string>
+    <string name="txtAppNameSms">رسالة نصية</string>
+    <string name="txtAppNameSnapChat">Snapchat</string>
+    <string name="txtAppNameText">رسالة نصية</string>
+    <string name="txtAppNameTheme">موضوع</string>
+    <string name="txtAppNameTwitter">Twitter</string>
+    <string name="txtAppNameUPCA">UPC-A</string>
+    <string name="txtAppNameUPCE">UPC-E</string>
+    <string name="txtAppNameVCard">بصيغة بطاقة</string>
+    <string name="txtAppNameWebSite">موقع الكتروني</string>
+    <string name="txtAppNameWhatsApp">Whatsapp</string>
+    <string name="txtAppNameWifi">واي فاي</string>
+    <string name="txtBarCode">البحث الباركود</string>
+    <string name="txtBarCodeName">الباركود</string>
+    <string name="txtBarcode">الباركود:</string>
+    <string name="txtBeep">زمارة</string>
+    <string name="txtBeepDesc">صفير إذا كان الفحص ناجحًا.</string>
+    <string name="txtBoldAttendees"><![CDATA[<b>الحاضرين : </b>]]></string>
+    <string name="txtBoldBirthDay"><![CDATA[<b>عيد الميلاد : </b>]]></string>
+    <string name="txtBoldCity"><![CDATA[<b>المدينه : </b>]]></string>
+    <string name="txtBoldCompanyName"><![CDATA[<b>اسم الشركة : </b>]]></string>
+    <string name="txtBoldDesc"><![CDATA[<b>وصف : </b>]]></string>
+    <string name="txtBoldEmail"><![CDATA[<b>البريد الإلكتروني : </b>]]></string>
+    <string name="txtBoldEncryption"><![CDATA[<b>التشفير : </b>]]></string>
+    <string name="txtBoldEnd"><![CDATA[<b>النهاية : </b>]]></string>
+    <string name="txtBoldFacebook"><![CDATA[<b>Facebook : </b>]]></string>
+    <string name="txtBoldInstagram"><![CDATA[<b>Instagram : </b>]]></string>
+    <string name="txtBoldInstantMessenger"><![CDATA[<b>المراسلة الفورية : </b>]]></string>
+    <string name="txtBoldLanguage"><![CDATA[<b>لغة : </b>]]></string>
+    <string name="txtBoldLatitude"><![CDATA[<b>خط العرض : </b>]]></string>
+    <string name="txtBoldLinkedIn"><![CDATA[<b>Linked In : </b>]]></string>
+    <string name="txtBoldLocation"><![CDATA[<b>موقع : </b>]]></string>
+    <string name="txtBoldLongitude"><![CDATA[<b>خط الطول : </b>]]></string>
+    <string name="txtBoldMsg"><![CDATA[<b>رسالة : </b>]]></string>
+    <string name="txtBoldName"><![CDATA[<b>اسم : </b>]]></string>
+    <string name="txtBoldNetWorkName"><![CDATA[<b>اسم الشبكة : </b>]]></string>
+    <string name="txtBoldNote"><![CDATA[<b>ملاحظه : </b>]]></string>
+    <string name="txtBoldNumber"><![CDATA[<b>رقم : </b>]]></string>
+    <string name="txtBoldOrganizer"><![CDATA[<b>منظم : </b>]]></string>
+    <string name="txtBoldPass"><![CDATA[<b>كلمه السر : </b>]]></string>
+    <string name="txtBoldPhoneNum"><![CDATA[<b>رقم الهاتف : </b>]]></string>
+    <string name="txtBoldSnapChat"><![CDATA[<b>SnapChat : </b>]]></string>
+    <string name="txtBoldStart"><![CDATA[<b>بداية : </b>]]></string>
+    <string name="txtBoldSub"><![CDATA[<b>خضع : </b>]]></string>
+    <string name="txtBoldSummary"><![CDATA[<b>موجز : </b>]]></string>
+    <string name="txtBoldText"><![CDATA[<b>نص : </b>]]></string>
+    <string name="txtBoldTitle"><![CDATA[<b>عنوان : </b>]]></string>
+    <string name="txtBoldTo"><![CDATA[<b>ل : </b>]]></string>
+    <string name="txtBoldTwitter"><![CDATA[<b>Twitter : </b>]]></string>
+    <string name="txtBoldURL"><![CDATA[<b>Url : </b>]]></string>
+    <string name="txtBoldWhatsApp"><![CDATA[<b>Whatsapp : </b>]]></string>
+    <string name="txtBook">كتاب البحث</string>
+    <string name="txtCall">رقم هاتف الاتصال</string>
+    <string name="txtClose">قريب</string>
+    <string name="txtCode128Name">CODE 128</string>
+    <string name="txtCode39Name">CODE 39</string>
+    <string name="txtCode93Name">Code 93</string>
+    <string name="txtConnect">الاتصال</string>
+    <string name="txtContact">إضافة جهة اتصال جديدة</string>
+    <string name="txtContent">بحث المحتوى</string>
+    <string name="txtCopyClipboard">نسخ إلى الحافظة!</string>
+    <string name="txtDelete">حذف</string>
+    <string name="txtDirection">إظهار الموقع</string>
+    <string name="txtEan13Name">EAN-13</string>
+    <string name="txtEan8Name">EAN-8</string>
+    <string name="txtEmail">افتح ملحن البريد</string>
+    <string name="txtEmailName">البريد الإلكتروني</string>
+    <string name="txtEvent">أضف حدث</string>
+    <string name="txtEventName">هدف</string>
+    <string name="txtFacebook">فتح في facebook</string>
+    <string name="txtFacebookName">Facebook</string>
+    <string name="txtHelp">كيف تستخدم؟</string>
+    <string name="txtHintFacebook">Ex (499383290546192)</string>
+    <string name="txtHintInstagram">Ex (wisdomlogix)</string>
+    <string name="txtHintLatitude">Ex (22.273136)</string>
+    <string name="txtHintLinkedIn">Ex (company/wisdomlogix or in/jone-smith-705a80131)</string>
+    <string name="txtHintLongitude">Ex (70.757033)</string>
+    <string name="txtHintPhoneNum">Ex (+91815309470)</string>
+    <string name="txtHintSnapChat">Ex (jone.smith)</string>
+    <string name="txtHintTwitter">Ex (wisdomlogix)"</string>
+    <string name="txtHintWebSite">Ex (https://www.google.com or http://www.google.com)</string>
+    <string name="txtHintWhatsapp">Ex (+91815309470)</string>
+    <string name="txtInstagram">فتح في instagram</string>
+    <string name="txtInstagramName">Instagram</string>
+    <string name="txtIsbnName">ISBN</string>
+    <string name="txtLanguage">لغة</string>
+    <string name="txtLanguageDesc">صفير إذا كان الفحص ناجحًا.</string>
+    <string name="txtLinkedIn">فتح في linkedin</string>
+    <string name="txtLinkedInName">Linked in</string>
+    <string name="txtLocationName">موقعك</string>
+    <string name="txtMMS">إرسال رسائل الوسائط المتعددة</string>
+    <string name="txtMap">عرض الخريطة</string>
+    <string name="txtMoreApp">تطبيقات أكثر</string>
+    <string name="txtNoPassword">لا كلمة مرور لهذا wifi</string>
+    <string name="txtOpen">افتح</string>
+    <string name="txtPassword">كلمه السر : </string>
+    <string name="txtPermission">انقر هنا لإعطاء الإذن</string>
+    <string name="txtPhoneNumName">رقم الهاتف</string>
+    <string name="txtPlaceHolderCreate">كنت الملاذ  \' ر خلق اي رموز حتى الآن.</string>
+    <string name="txtPlaceHolderHistory">لم تفحص أي شيء حتى الآن.</string>
+    <string name="txtPrivacy">سياسة خاصة</string>
+    <string name="txtProduct">بحث المنتج</string>
+    <string name="txtProductName">المنتج</string>
+    <string name="txtQrCodeAllDayName">طوال اليوم</string>
+    <string name="txtQrCodeBeginDateName">تاريخ البدء</string>
+    <string name="txtQrCodeBodyName">أدخل الجسم</string>
+    <string name="txtQrCodeCityName">دخول المدينة</string>
+    <string name="txtQrCodeCompanyName">أدخل اسم الشركة</string>
+    <string name="txtQrCodeEmailIdName">أدخل معرف البريد الإلكتروني</string>
+    <string name="txtQrCodeEncryptionName">التشفير</string>
+    <string name="txtQrCodeEndDateName">تاريخ الانتهاء</string>
+    <string name="txtQrCodeFacebookName">Facebook</string>
+    <string name="txtQrCodeInstagramName">Instagram</string>
+    <string name="txtQrCodeLatitudeName">ادخل خط العرض</string>
+    <string name="txtQrCodeLinkedInName">Linked in</string>
+    <string name="txtQrCodeLocationName">إدخال الدولة</string>
+    <string name="txtQrCodeLongitudeName">ادخل خط الطول</string>
+    <string name="txtQrCodeMessageName">أدخل رسالتك</string>
+    <string name="txtQrCodeName">رمز الاستجابة السريعة</string>
+    <string name="txtQrCodeNameName">أدخل الاسم</string>
+    <string name="txtQrCodeNetworkName">شبكة الاتصال</string>
+    <string name="txtQrCodeNoEncryptionName">لا تشفير</string>
+    <string name="txtQrCodePasswordName">كلمه السر</string>
+    <string name="txtQrCodePhoneNumName">أدخل رقم الهاتف</string>
+    <string name="txtQrCodeSmsName">أدخل رسالتك</string>
+    <string name="txtQrCodeSnapChatName">Snapchat</string>
+    <string name="txtQrCodeSubjectName">أدخل الموضوع</string>
+    <string name="txtQrCodeTitleName">أدخل العنوان</string>
+    <string name="txtQrCodeTwitterName">Twitter</string>
+    <string name="txtQrCodeWebSiteName">أدخل عنوان URL</string>
+    <string name="txtQrCodeWepName">الارشاد</string>
+    <string name="txtQrCodeWhatsAppName">Whatsapp</string>
+    <string name="txtQrCodeWpaWpa2Name">wpa/wpa2</string>
+    <string name="txtRate">معدل</string>
+    <string name="txtRateDescription">إذا كنت تحب QR Code Scan بعد ذلك ، فالرجاء التوقف عن تقييم التطبيق. شكرا لدعمكم!!!</string>
+    <string name="txtRateUs">قيمنا</string>
+    <string name="txtSMS">افتح ملحن SMS</string>
+    <string name="txtShare">شارك</string>
+    <string name="txtShareApp">هنا يمكنك التحقق من المزيد من التطبيقات</string>
+    <string name="txtShopper">جوجل للمتسوقين</string>
+    <string name="txtSkip">تخطي</string>
+    <string name="txtSmsName">رسالة قصيرة</string>
+    <string name="txtSnapChat">فتح في snapchat</string>
+    <string name="txtSnapChatName">Snapchat</string>
+    <string name="txtStart">بدء</string>
+    <string name="txtText">نص البحث</string>
+    <string name="txtTextName">نص</string>
+    <string name="txtTheme">موضوع</string>
+    <string name="txtThemeDesc">هنا يمكنك تغيير موضوع التطبيق.</string>
+    <string name="txtTwitter">فتح في twitter</string>
+    <string name="txtTwitterName">Twitter</string>
+    <string name="txtURL">فتح عنوان URL في google</string>
+    <string name="txtUpcaName">UPC-A</string>
+    <string name="txtUpceName">UPC-E</string>
+    <string name="txtVCardName">بصيغة بطاقة</string>
+    <string name="txtVibrate">تذبذب</string>
+    <string name="txtVibrateDesc">اهتزاز إذا كان الفحص ناجحًا.</string>
+    <string name="txtWIFI">نسخ كلمة المرور</string>
+    <string name="txtWalMart">وول مارت</string>
+    <string name="txtWebSiteName">موقع الكتروني</string>
+    <string name="txtWhatsApp">فتح في whatsapp</string>
+    <string name="txtWhatsAppName">Whatsapp</string>
+    <string name="txtWifiName">واي فاي</string>
+    <string name="vi">vi</string>
+    <string name="zh_rCN">zh-rCN</string>
+    <string name="zh_rTW">zh-rTW</string>
+    <string name="zxing_app_name">ماسح الرمز الشريطي</string>
+    <string name="zxing_button_ok">موافق</string>
+    <string name="zxing_msg_camera_framework_bug">عفوا، حدثت مشكلة في كاميرا جهاز Android. قد تحتاج إلى إعادة تشغيل الجهاز.</string>
+    <string name="zxing_msg_default_status">قم بوضع الرمز الشريطي داخل حدود صورة الكاميرا ليتم مسحه.</string>
+</resources>
